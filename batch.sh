@@ -7,6 +7,6 @@ dstdir='data/'
 
 for f in `ls "${srcdir}"`
 do
-    newfile=`echo "${f}" | sed 's/treebank/txt/'`
+    newfile=`echo "${f}" | sed 's/treebank/csv/'`
     ./convert.sh "${srcdir}${f}" > "${dstdir}${newfile}"
 done

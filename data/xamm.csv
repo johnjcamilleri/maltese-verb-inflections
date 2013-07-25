@@ -1,0 +1,1153 @@
+Aspect,Subject,DO,IO,Polarity,Surface form
+Perf,P1 Sg,-,-,Pos,xammejt
+Perf,P1 Sg,-,-,Neg,xammejtx
+Perf,P1 Sg,P1 Sg,-,Pos,-
+Perf,P1 Sg,P1 Sg,-,Neg,-
+Perf,P1 Sg,P1 Pl,-,Pos,-
+Perf,P1 Sg,P1 Pl,-,Neg,-
+Perf,P1 Sg,P2 Sg,-,Pos,xammejtek
+Perf,P1 Sg,P2 Sg,-,Neg,xammejtekx
+Perf,P1 Sg,P2 Pl,-,Pos,xammejtkom
+Perf,P1 Sg,P2 Pl,-,Neg,xammejtkomx
+Perf,P1 Sg,P3 Sg Masc,-,Pos,xammejtu
+Perf,P1 Sg,P3 Sg Masc,-,Neg,xammejtux
+Perf,P1 Sg,P3 Sg Fem,-,Pos,xammejtha
+Perf,P1 Sg,P3 Sg Fem,-,Neg,xammejthiex
+Perf,P1 Sg,P3 Pl,-,Pos,xammejthom
+Perf,P1 Sg,P3 Pl,-,Neg,xammejthomx
+Perf,P1 Sg,-,P1 Sg,Pos,-
+Perf,P1 Sg,-,P1 Sg,Neg,-
+Perf,P1 Sg,-,P1 Pl,Pos,-
+Perf,P1 Sg,-,P1 Pl,Neg,-
+Perf,P1 Sg,-,P2 Sg,Pos,xammejtlek
+Perf,P1 Sg,-,P2 Sg,Neg,xammejtlekx
+Perf,P1 Sg,-,P2 Pl,Pos,xammejtilkom
+Perf,P1 Sg,-,P2 Pl,Neg,xammejtilkomx
+Perf,P1 Sg,-,P3 Sg Masc,Pos,xammejtlu
+Perf,P1 Sg,-,P3 Sg Masc,Neg,xammejtlux
+Perf,P1 Sg,-,P3 Sg Fem,Pos,xammejtilha
+Perf,P1 Sg,-,P3 Sg Fem,Neg,xammejtilhiex
+Perf,P1 Sg,-,P3 Pl,Pos,xammejtilhom
+Perf,P1 Sg,-,P3 Pl,Neg,xammejtilhomx
+Perf,P1 Sg,P3 Sg Masc,P1 Sg,Pos,-
+Perf,P1 Sg,P3 Sg Masc,P1 Sg,Neg,-
+Perf,P1 Sg,P3 Sg Masc,P1 Pl,Pos,-
+Perf,P1 Sg,P3 Sg Masc,P1 Pl,Neg,-
+Perf,P1 Sg,P3 Sg Masc,P2 Sg,Pos,xammejthulek
+Perf,P1 Sg,P3 Sg Masc,P2 Sg,Neg,xammejthulekx
+Perf,P1 Sg,P3 Sg Masc,P2 Pl,Pos,xammejthulkom
+Perf,P1 Sg,P3 Sg Masc,P2 Pl,Neg,xammejthulkomx
+Perf,P1 Sg,P3 Sg Masc,P3 Sg Masc,Pos,xammejthulu
+Perf,P1 Sg,P3 Sg Masc,P3 Sg Masc,Neg,xammejthulux
+Perf,P1 Sg,P3 Sg Masc,P3 Sg Fem,Pos,xammejthulha
+Perf,P1 Sg,P3 Sg Masc,P3 Sg Fem,Neg,xammejthulhiex
+Perf,P1 Sg,P3 Sg Masc,P3 Pl,Pos,xammejthulhom
+Perf,P1 Sg,P3 Sg Masc,P3 Pl,Neg,xammejthulhomx
+Perf,P1 Sg,P3 Sg Fem,P1 Sg,Pos,-
+Perf,P1 Sg,P3 Sg Fem,P1 Sg,Neg,-
+Perf,P1 Sg,P3 Sg Fem,P1 Pl,Pos,-
+Perf,P1 Sg,P3 Sg Fem,P1 Pl,Neg,-
+Perf,P1 Sg,P3 Sg Fem,P2 Sg,Pos,xammejthielek
+Perf,P1 Sg,P3 Sg Fem,P2 Sg,Neg,xammejthilekx
+Perf,P1 Sg,P3 Sg Fem,P2 Pl,Pos,xammejthielkom
+Perf,P1 Sg,P3 Sg Fem,P2 Pl,Neg,xammejthilkomx
+Perf,P1 Sg,P3 Sg Fem,P3 Sg Masc,Pos,xammejthielu
+Perf,P1 Sg,P3 Sg Fem,P3 Sg Masc,Neg,xammejthilux
+Perf,P1 Sg,P3 Sg Fem,P3 Sg Fem,Pos,xammejthielha
+Perf,P1 Sg,P3 Sg Fem,P3 Sg Fem,Neg,xammejthilhiex
+Perf,P1 Sg,P3 Sg Fem,P3 Pl,Pos,xammejthielhom
+Perf,P1 Sg,P3 Sg Fem,P3 Pl,Neg,xammejthilhomx
+Perf,P1 Sg,P3 Pl,P1 Sg,Pos,-
+Perf,P1 Sg,P3 Pl,P1 Sg,Neg,-
+Perf,P1 Sg,P3 Pl,P1 Pl,Pos,-
+Perf,P1 Sg,P3 Pl,P1 Pl,Neg,-
+Perf,P1 Sg,P3 Pl,P2 Sg,Pos,xammejthomlok
+Perf,P1 Sg,P3 Pl,P2 Sg,Neg,xammejthomlokx
+Perf,P1 Sg,P3 Pl,P2 Pl,Pos,xammejthomlkom
+Perf,P1 Sg,P3 Pl,P2 Pl,Neg,xammejthomlkomx
+Perf,P1 Sg,P3 Pl,P3 Sg Masc,Pos,xammejthomlu
+Perf,P1 Sg,P3 Pl,P3 Sg Masc,Neg,xammejthomlux
+Perf,P1 Sg,P3 Pl,P3 Sg Fem,Pos,xammejthomlha
+Perf,P1 Sg,P3 Pl,P3 Sg Fem,Neg,xammejthomlhiex
+Perf,P1 Sg,P3 Pl,P3 Pl,Pos,xammejthomlhom
+Perf,P1 Sg,P3 Pl,P3 Pl,Neg,xammejthomlhomx
+Perf,P1 Pl,-,-,Pos,xammejna
+Perf,P1 Pl,-,-,Neg,xammejniex
+Perf,P1 Pl,P1 Sg,-,Pos,-
+Perf,P1 Pl,P1 Sg,-,Neg,-
+Perf,P1 Pl,P1 Pl,-,Pos,-
+Perf,P1 Pl,P1 Pl,-,Neg,-
+Perf,P1 Pl,P2 Sg,-,Pos,xammejniek
+Perf,P1 Pl,P2 Sg,-,Neg,xammejnikx
+Perf,P1 Pl,P2 Pl,-,Pos,xammejniekom
+Perf,P1 Pl,P2 Pl,-,Neg,xammejnikomx
+Perf,P1 Pl,P3 Sg Masc,-,Pos,xammejnieh
+Perf,P1 Pl,P3 Sg Masc,-,Neg,xammejnihx
+Perf,P1 Pl,P3 Sg Fem,-,Pos,xammejnieha
+Perf,P1 Pl,P3 Sg Fem,-,Neg,xammejnihiex
+Perf,P1 Pl,P3 Pl,-,Pos,xammejniehom
+Perf,P1 Pl,P3 Pl,-,Neg,xammejnihomx
+Perf,P1 Pl,-,P1 Sg,Pos,-
+Perf,P1 Pl,-,P1 Sg,Neg,-
+Perf,P1 Pl,-,P1 Pl,Pos,-
+Perf,P1 Pl,-,P1 Pl,Neg,-
+Perf,P1 Pl,-,P2 Sg,Pos,xammejnielek
+Perf,P1 Pl,-,P2 Sg,Neg,xammejnilekx
+Perf,P1 Pl,-,P2 Pl,Pos,xammejnielkom
+Perf,P1 Pl,-,P2 Pl,Neg,xammejnilkomx
+Perf,P1 Pl,-,P3 Sg Masc,Pos,xammejnielu
+Perf,P1 Pl,-,P3 Sg Masc,Neg,xammejnilux
+Perf,P1 Pl,-,P3 Sg Fem,Pos,xammejnielha
+Perf,P1 Pl,-,P3 Sg Fem,Neg,xammejnilhiex
+Perf,P1 Pl,-,P3 Pl,Pos,xammejnielhom
+Perf,P1 Pl,-,P3 Pl,Neg,xammejnilhomx
+Perf,P1 Pl,P3 Sg Masc,P1 Sg,Pos,-
+Perf,P1 Pl,P3 Sg Masc,P1 Sg,Neg,-
+Perf,P1 Pl,P3 Sg Masc,P1 Pl,Pos,-
+Perf,P1 Pl,P3 Sg Masc,P1 Pl,Neg,-
+Perf,P1 Pl,P3 Sg Masc,P2 Sg,Pos,xammejnihulek
+Perf,P1 Pl,P3 Sg Masc,P2 Sg,Neg,xammejnihulekx
+Perf,P1 Pl,P3 Sg Masc,P2 Pl,Pos,xammejnihulkom
+Perf,P1 Pl,P3 Sg Masc,P2 Pl,Neg,xammejnihulkomx
+Perf,P1 Pl,P3 Sg Masc,P3 Sg Masc,Pos,xammejnihulu
+Perf,P1 Pl,P3 Sg Masc,P3 Sg Masc,Neg,xammejnihulux
+Perf,P1 Pl,P3 Sg Masc,P3 Sg Fem,Pos,xammejnihulha
+Perf,P1 Pl,P3 Sg Masc,P3 Sg Fem,Neg,xammejnihulhiex
+Perf,P1 Pl,P3 Sg Masc,P3 Pl,Pos,xammejnihulhom
+Perf,P1 Pl,P3 Sg Masc,P3 Pl,Neg,xammejnihulhomx
+Perf,P1 Pl,P3 Sg Fem,P1 Sg,Pos,-
+Perf,P1 Pl,P3 Sg Fem,P1 Sg,Neg,-
+Perf,P1 Pl,P3 Sg Fem,P1 Pl,Pos,-
+Perf,P1 Pl,P3 Sg Fem,P1 Pl,Neg,-
+Perf,P1 Pl,P3 Sg Fem,P2 Sg,Pos,xammejnihielek
+Perf,P1 Pl,P3 Sg Fem,P2 Sg,Neg,xammejnihilekx
+Perf,P1 Pl,P3 Sg Fem,P2 Pl,Pos,xammejnihielkom
+Perf,P1 Pl,P3 Sg Fem,P2 Pl,Neg,xammejnihilkomx
+Perf,P1 Pl,P3 Sg Fem,P3 Sg Masc,Pos,xammejnihielu
+Perf,P1 Pl,P3 Sg Fem,P3 Sg Masc,Neg,xammejnihilux
+Perf,P1 Pl,P3 Sg Fem,P3 Sg Fem,Pos,xammejnihielha
+Perf,P1 Pl,P3 Sg Fem,P3 Sg Fem,Neg,xammejnihilhiex
+Perf,P1 Pl,P3 Sg Fem,P3 Pl,Pos,xammejnihielhom
+Perf,P1 Pl,P3 Sg Fem,P3 Pl,Neg,xammejnihilhomx
+Perf,P1 Pl,P3 Pl,P1 Sg,Pos,-
+Perf,P1 Pl,P3 Pl,P1 Sg,Neg,-
+Perf,P1 Pl,P3 Pl,P1 Pl,Pos,-
+Perf,P1 Pl,P3 Pl,P1 Pl,Neg,-
+Perf,P1 Pl,P3 Pl,P2 Sg,Pos,xammejnihomlok
+Perf,P1 Pl,P3 Pl,P2 Sg,Neg,xammejnihomlokx
+Perf,P1 Pl,P3 Pl,P2 Pl,Pos,xammejnihomlkom
+Perf,P1 Pl,P3 Pl,P2 Pl,Neg,xammejnihomlkomx
+Perf,P1 Pl,P3 Pl,P3 Sg Masc,Pos,xammejnihomlu
+Perf,P1 Pl,P3 Pl,P3 Sg Masc,Neg,xammejnihomlux
+Perf,P1 Pl,P3 Pl,P3 Sg Fem,Pos,xammejnihomlha
+Perf,P1 Pl,P3 Pl,P3 Sg Fem,Neg,xammejnihomlhiex
+Perf,P1 Pl,P3 Pl,P3 Pl,Pos,xammejnihomlhom
+Perf,P1 Pl,P3 Pl,P3 Pl,Neg,xammejnihomlhomx
+Perf,P2 Sg,-,-,Pos,xammejt
+Perf,P2 Sg,-,-,Neg,xammejtx
+Perf,P2 Sg,P1 Sg,-,Pos,xammejtni
+Perf,P2 Sg,P1 Sg,-,Neg,xammejtnix
+Perf,P2 Sg,P1 Pl,-,Pos,xammejtna
+Perf,P2 Sg,P1 Pl,-,Neg,xammejtniex
+Perf,P2 Sg,P2 Sg,-,Pos,-
+Perf,P2 Sg,P2 Sg,-,Neg,-
+Perf,P2 Sg,P2 Pl,-,Pos,-
+Perf,P2 Sg,P2 Pl,-,Neg,-
+Perf,P2 Sg,P3 Sg Masc,-,Pos,xammejtu
+Perf,P2 Sg,P3 Sg Masc,-,Neg,xammejtux
+Perf,P2 Sg,P3 Sg Fem,-,Pos,xammejtha
+Perf,P2 Sg,P3 Sg Fem,-,Neg,xammejthiex
+Perf,P2 Sg,P3 Pl,-,Pos,xammejthom
+Perf,P2 Sg,P3 Pl,-,Neg,xammejthomx
+Perf,P2 Sg,-,P1 Sg,Pos,xammejtli
+Perf,P2 Sg,-,P1 Sg,Neg,xammejtlix
+Perf,P2 Sg,-,P1 Pl,Pos,xammejtilna
+Perf,P2 Sg,-,P1 Pl,Neg,xammejtilniex
+Perf,P2 Sg,-,P2 Sg,Pos,-
+Perf,P2 Sg,-,P2 Sg,Neg,-
+Perf,P2 Sg,-,P2 Pl,Pos,-
+Perf,P2 Sg,-,P2 Pl,Neg,-
+Perf,P2 Sg,-,P3 Sg Masc,Pos,xammejtlu
+Perf,P2 Sg,-,P3 Sg Masc,Neg,xammejtlux
+Perf,P2 Sg,-,P3 Sg Fem,Pos,xammejtilha
+Perf,P2 Sg,-,P3 Sg Fem,Neg,xammejtilhiex
+Perf,P2 Sg,-,P3 Pl,Pos,xammejtilhom
+Perf,P2 Sg,-,P3 Pl,Neg,xammejtilhomx
+Perf,P2 Sg,P3 Sg Masc,P1 Sg,Pos,xammejthuli
+Perf,P2 Sg,P3 Sg Masc,P1 Sg,Neg,xammejthulix
+Perf,P2 Sg,P3 Sg Masc,P1 Pl,Pos,xammejthulna
+Perf,P2 Sg,P3 Sg Masc,P1 Pl,Neg,xammejthulniex
+Perf,P2 Sg,P3 Sg Masc,P2 Sg,Pos,-
+Perf,P2 Sg,P3 Sg Masc,P2 Sg,Neg,-
+Perf,P2 Sg,P3 Sg Masc,P2 Pl,Pos,-
+Perf,P2 Sg,P3 Sg Masc,P2 Pl,Neg,-
+Perf,P2 Sg,P3 Sg Masc,P3 Sg Masc,Pos,xammejthulu
+Perf,P2 Sg,P3 Sg Masc,P3 Sg Masc,Neg,xammejthulux
+Perf,P2 Sg,P3 Sg Masc,P3 Sg Fem,Pos,xammejthulha
+Perf,P2 Sg,P3 Sg Masc,P3 Sg Fem,Neg,xammejthulhiex
+Perf,P2 Sg,P3 Sg Masc,P3 Pl,Pos,xammejthulhom
+Perf,P2 Sg,P3 Sg Masc,P3 Pl,Neg,xammejthulhomx
+Perf,P2 Sg,P3 Sg Fem,P1 Sg,Pos,xammejthieli
+Perf,P2 Sg,P3 Sg Fem,P1 Sg,Neg,xammejthilix
+Perf,P2 Sg,P3 Sg Fem,P1 Pl,Pos,xammejthielna
+Perf,P2 Sg,P3 Sg Fem,P1 Pl,Neg,xammejthilniex
+Perf,P2 Sg,P3 Sg Fem,P2 Sg,Pos,-
+Perf,P2 Sg,P3 Sg Fem,P2 Sg,Neg,-
+Perf,P2 Sg,P3 Sg Fem,P2 Pl,Pos,-
+Perf,P2 Sg,P3 Sg Fem,P2 Pl,Neg,-
+Perf,P2 Sg,P3 Sg Fem,P3 Sg Masc,Pos,xammejthielu
+Perf,P2 Sg,P3 Sg Fem,P3 Sg Masc,Neg,xammejthilux
+Perf,P2 Sg,P3 Sg Fem,P3 Sg Fem,Pos,xammejthielha
+Perf,P2 Sg,P3 Sg Fem,P3 Sg Fem,Neg,xammejthilhiex
+Perf,P2 Sg,P3 Sg Fem,P3 Pl,Pos,xammejthielhom
+Perf,P2 Sg,P3 Sg Fem,P3 Pl,Neg,xammejthilhomx
+Perf,P2 Sg,P3 Pl,P1 Sg,Pos,xammejthomli
+Perf,P2 Sg,P3 Pl,P1 Sg,Neg,xammejthomlix
+Perf,P2 Sg,P3 Pl,P1 Pl,Pos,xammejthomlna
+Perf,P2 Sg,P3 Pl,P1 Pl,Neg,xammejthomlniex
+Perf,P2 Sg,P3 Pl,P2 Sg,Pos,-
+Perf,P2 Sg,P3 Pl,P2 Sg,Neg,-
+Perf,P2 Sg,P3 Pl,P2 Pl,Pos,-
+Perf,P2 Sg,P3 Pl,P2 Pl,Neg,-
+Perf,P2 Sg,P3 Pl,P3 Sg Masc,Pos,xammejthomlu
+Perf,P2 Sg,P3 Pl,P3 Sg Masc,Neg,xammejthomlux
+Perf,P2 Sg,P3 Pl,P3 Sg Fem,Pos,xammejthomlha
+Perf,P2 Sg,P3 Pl,P3 Sg Fem,Neg,xammejthomlhiex
+Perf,P2 Sg,P3 Pl,P3 Pl,Pos,xammejthomlhom
+Perf,P2 Sg,P3 Pl,P3 Pl,Neg,xammejthomlhomx
+Perf,P2 Pl,-,-,Pos,xammejtu
+Perf,P2 Pl,-,-,Neg,xammejtux
+Perf,P2 Pl,P1 Sg,-,Pos,xammejtuni
+Perf,P2 Pl,P1 Sg,-,Neg,xammejtunix
+Perf,P2 Pl,P1 Pl,-,Pos,xammejtuna
+Perf,P2 Pl,P1 Pl,-,Neg,xammejtuniex
+Perf,P2 Pl,P2 Sg,-,Pos,-
+Perf,P2 Pl,P2 Sg,-,Neg,-
+Perf,P2 Pl,P2 Pl,-,Pos,-
+Perf,P2 Pl,P2 Pl,-,Neg,-
+Perf,P2 Pl,P3 Sg Masc,-,Pos,xammejtuh
+Perf,P2 Pl,P3 Sg Masc,-,Neg,xammejtuhx
+Perf,P2 Pl,P3 Sg Fem,-,Pos,xammejtuha
+Perf,P2 Pl,P3 Sg Fem,-,Neg,xammejtuhiex
+Perf,P2 Pl,P3 Pl,-,Pos,xammejtuhom
+Perf,P2 Pl,P3 Pl,-,Neg,xammejtuhomx
+Perf,P2 Pl,-,P1 Sg,Pos,xammejtuli
+Perf,P2 Pl,-,P1 Sg,Neg,xammejtulix
+Perf,P2 Pl,-,P1 Pl,Pos,xammejtulna
+Perf,P2 Pl,-,P1 Pl,Neg,xammejtulniex
+Perf,P2 Pl,-,P2 Sg,Pos,-
+Perf,P2 Pl,-,P2 Sg,Neg,-
+Perf,P2 Pl,-,P2 Pl,Pos,-
+Perf,P2 Pl,-,P2 Pl,Neg,-
+Perf,P2 Pl,-,P3 Sg Masc,Pos,xammejtulu
+Perf,P2 Pl,-,P3 Sg Masc,Neg,xammejtulux
+Perf,P2 Pl,-,P3 Sg Fem,Pos,xammejtulha
+Perf,P2 Pl,-,P3 Sg Fem,Neg,xammejtulhiex
+Perf,P2 Pl,-,P3 Pl,Pos,xammejtulhom
+Perf,P2 Pl,-,P3 Pl,Neg,xammejtulhomx
+Perf,P2 Pl,P3 Sg Masc,P1 Sg,Pos,xammejtuhuli
+Perf,P2 Pl,P3 Sg Masc,P1 Sg,Neg,xammejtuhulix
+Perf,P2 Pl,P3 Sg Masc,P1 Pl,Pos,xammejtuhulna
+Perf,P2 Pl,P3 Sg Masc,P1 Pl,Neg,xammejtuhulniex
+Perf,P2 Pl,P3 Sg Masc,P2 Sg,Pos,-
+Perf,P2 Pl,P3 Sg Masc,P2 Sg,Neg,-
+Perf,P2 Pl,P3 Sg Masc,P2 Pl,Pos,-
+Perf,P2 Pl,P3 Sg Masc,P2 Pl,Neg,-
+Perf,P2 Pl,P3 Sg Masc,P3 Sg Masc,Pos,xammejtuhulu
+Perf,P2 Pl,P3 Sg Masc,P3 Sg Masc,Neg,xammejtuhulux
+Perf,P2 Pl,P3 Sg Masc,P3 Sg Fem,Pos,xammejtuhulha
+Perf,P2 Pl,P3 Sg Masc,P3 Sg Fem,Neg,xammejtuhulhiex
+Perf,P2 Pl,P3 Sg Masc,P3 Pl,Pos,xammejtuhulhom
+Perf,P2 Pl,P3 Sg Masc,P3 Pl,Neg,xammejtuhulhomx
+Perf,P2 Pl,P3 Sg Fem,P1 Sg,Pos,xammejtuhieli
+Perf,P2 Pl,P3 Sg Fem,P1 Sg,Neg,xammejtuhilix
+Perf,P2 Pl,P3 Sg Fem,P1 Pl,Pos,xammejtuhielna
+Perf,P2 Pl,P3 Sg Fem,P1 Pl,Neg,xammejtuhilniex
+Perf,P2 Pl,P3 Sg Fem,P2 Sg,Pos,-
+Perf,P2 Pl,P3 Sg Fem,P2 Sg,Neg,-
+Perf,P2 Pl,P3 Sg Fem,P2 Pl,Pos,-
+Perf,P2 Pl,P3 Sg Fem,P2 Pl,Neg,-
+Perf,P2 Pl,P3 Sg Fem,P3 Sg Masc,Pos,xammejtuhielu
+Perf,P2 Pl,P3 Sg Fem,P3 Sg Masc,Neg,xammejtuhilux
+Perf,P2 Pl,P3 Sg Fem,P3 Sg Fem,Pos,xammejtuhielha
+Perf,P2 Pl,P3 Sg Fem,P3 Sg Fem,Neg,xammejtuhilhiex
+Perf,P2 Pl,P3 Sg Fem,P3 Pl,Pos,xammejtuhielhom
+Perf,P2 Pl,P3 Sg Fem,P3 Pl,Neg,xammejtuhilhomx
+Perf,P2 Pl,P3 Pl,P1 Sg,Pos,xammejtuhomli
+Perf,P2 Pl,P3 Pl,P1 Sg,Neg,xammejtuhomlix
+Perf,P2 Pl,P3 Pl,P1 Pl,Pos,xammejtuhomlna
+Perf,P2 Pl,P3 Pl,P1 Pl,Neg,xammejtuhomlniex
+Perf,P2 Pl,P3 Pl,P2 Sg,Pos,-
+Perf,P2 Pl,P3 Pl,P2 Sg,Neg,-
+Perf,P2 Pl,P3 Pl,P2 Pl,Pos,-
+Perf,P2 Pl,P3 Pl,P2 Pl,Neg,-
+Perf,P2 Pl,P3 Pl,P3 Sg Masc,Pos,xammejtuhomlu
+Perf,P2 Pl,P3 Pl,P3 Sg Masc,Neg,xammejtuhomlux
+Perf,P2 Pl,P3 Pl,P3 Sg Fem,Pos,xammejtuhomlha
+Perf,P2 Pl,P3 Pl,P3 Sg Fem,Neg,xammejtuhomlhiex
+Perf,P2 Pl,P3 Pl,P3 Pl,Pos,xammejtuhomlhom
+Perf,P2 Pl,P3 Pl,P3 Pl,Neg,xammejtuhomlhomx
+Perf,P3 Sg Masc,-,-,Pos,xamm
+Perf,P3 Sg Masc,-,-,Neg,xammx
+Perf,P3 Sg Masc,P1 Sg,-,Pos,xammni
+Perf,P3 Sg Masc,P1 Sg,-,Neg,xammnix
+Perf,P3 Sg Masc,P1 Pl,-,Pos,xammna
+Perf,P3 Sg Masc,P1 Pl,-,Neg,xammniex
+Perf,P3 Sg Masc,P2 Sg,-,Pos,xammek
+Perf,P3 Sg Masc,P2 Sg,-,Neg,xammekx
+Perf,P3 Sg Masc,P2 Pl,-,Pos,xammkom
+Perf,P3 Sg Masc,P2 Pl,-,Neg,xammkomx
+Perf,P3 Sg Masc,P3 Sg Masc,-,Pos,xammu
+Perf,P3 Sg Masc,P3 Sg Masc,-,Neg,xammux
+Perf,P3 Sg Masc,P3 Sg Fem,-,Pos,xammha
+Perf,P3 Sg Masc,P3 Sg Fem,-,Neg,xammhiex
+Perf,P3 Sg Masc,P3 Pl,-,Pos,xammhom
+Perf,P3 Sg Masc,P3 Pl,-,Neg,xammhomx
+Perf,P3 Sg Masc,-,P1 Sg,Pos,xammli
+Perf,P3 Sg Masc,-,P1 Sg,Neg,xammlix
+Perf,P3 Sg Masc,-,P1 Pl,Pos,xammilna
+Perf,P3 Sg Masc,-,P1 Pl,Neg,xammilniex
+Perf,P3 Sg Masc,-,P2 Sg,Pos,xammlek
+Perf,P3 Sg Masc,-,P2 Sg,Neg,xammlekx
+Perf,P3 Sg Masc,-,P2 Pl,Pos,xammilkom
+Perf,P3 Sg Masc,-,P2 Pl,Neg,xammilkomx
+Perf,P3 Sg Masc,-,P3 Sg Masc,Pos,xammlu
+Perf,P3 Sg Masc,-,P3 Sg Masc,Neg,xammlux
+Perf,P3 Sg Masc,-,P3 Sg Fem,Pos,xammilha
+Perf,P3 Sg Masc,-,P3 Sg Fem,Neg,xammilhiex
+Perf,P3 Sg Masc,-,P3 Pl,Pos,xammilhom
+Perf,P3 Sg Masc,-,P3 Pl,Neg,xammilhomx
+Perf,P3 Sg Masc,P3 Sg Masc,P1 Sg,Pos,xammhuli
+Perf,P3 Sg Masc,P3 Sg Masc,P1 Sg,Neg,xammhulix
+Perf,P3 Sg Masc,P3 Sg Masc,P1 Pl,Pos,xammhulna
+Perf,P3 Sg Masc,P3 Sg Masc,P1 Pl,Neg,xammhulniex
+Perf,P3 Sg Masc,P3 Sg Masc,P2 Sg,Pos,xammhulek
+Perf,P3 Sg Masc,P3 Sg Masc,P2 Sg,Neg,xammhulekx
+Perf,P3 Sg Masc,P3 Sg Masc,P2 Pl,Pos,xammhulkom
+Perf,P3 Sg Masc,P3 Sg Masc,P2 Pl,Neg,xammhulkomx
+Perf,P3 Sg Masc,P3 Sg Masc,P3 Sg Masc,Pos,xammhulu
+Perf,P3 Sg Masc,P3 Sg Masc,P3 Sg Masc,Neg,xammhulux
+Perf,P3 Sg Masc,P3 Sg Masc,P3 Sg Fem,Pos,xammhulha
+Perf,P3 Sg Masc,P3 Sg Masc,P3 Sg Fem,Neg,xammhulhiex
+Perf,P3 Sg Masc,P3 Sg Masc,P3 Pl,Pos,xammhulhom
+Perf,P3 Sg Masc,P3 Sg Masc,P3 Pl,Neg,xammhulhomx
+Perf,P3 Sg Masc,P3 Sg Fem,P1 Sg,Pos,xammhieli
+Perf,P3 Sg Masc,P3 Sg Fem,P1 Sg,Neg,xammhilix
+Perf,P3 Sg Masc,P3 Sg Fem,P1 Pl,Pos,xammhielna
+Perf,P3 Sg Masc,P3 Sg Fem,P1 Pl,Neg,xammhilniex
+Perf,P3 Sg Masc,P3 Sg Fem,P2 Sg,Pos,xammhielek
+Perf,P3 Sg Masc,P3 Sg Fem,P2 Sg,Neg,xammhilekx
+Perf,P3 Sg Masc,P3 Sg Fem,P2 Pl,Pos,xammhielkom
+Perf,P3 Sg Masc,P3 Sg Fem,P2 Pl,Neg,xammhilkomx
+Perf,P3 Sg Masc,P3 Sg Fem,P3 Sg Masc,Pos,xammhielu
+Perf,P3 Sg Masc,P3 Sg Fem,P3 Sg Masc,Neg,xammhilux
+Perf,P3 Sg Masc,P3 Sg Fem,P3 Sg Fem,Pos,xammhielha
+Perf,P3 Sg Masc,P3 Sg Fem,P3 Sg Fem,Neg,xammhilhiex
+Perf,P3 Sg Masc,P3 Sg Fem,P3 Pl,Pos,xammhielhom
+Perf,P3 Sg Masc,P3 Sg Fem,P3 Pl,Neg,xammhilhomx
+Perf,P3 Sg Masc,P3 Pl,P1 Sg,Pos,xammhomli
+Perf,P3 Sg Masc,P3 Pl,P1 Sg,Neg,xammhomlix
+Perf,P3 Sg Masc,P3 Pl,P1 Pl,Pos,xammhomlna
+Perf,P3 Sg Masc,P3 Pl,P1 Pl,Neg,xammhomlniex
+Perf,P3 Sg Masc,P3 Pl,P2 Sg,Pos,xammhomlok
+Perf,P3 Sg Masc,P3 Pl,P2 Sg,Neg,xammhomlokx
+Perf,P3 Sg Masc,P3 Pl,P2 Pl,Pos,xammhomlkom
+Perf,P3 Sg Masc,P3 Pl,P2 Pl,Neg,xammhomlkomx
+Perf,P3 Sg Masc,P3 Pl,P3 Sg Masc,Pos,xammhomlu
+Perf,P3 Sg Masc,P3 Pl,P3 Sg Masc,Neg,xammhomlux
+Perf,P3 Sg Masc,P3 Pl,P3 Sg Fem,Pos,xammhomlha
+Perf,P3 Sg Masc,P3 Pl,P3 Sg Fem,Neg,xammhomlhiex
+Perf,P3 Sg Masc,P3 Pl,P3 Pl,Pos,xammhomlhom
+Perf,P3 Sg Masc,P3 Pl,P3 Pl,Neg,xammhomlhomx
+Perf,P3 Sg Fem,-,-,Pos,xammet
+Perf,P3 Sg Fem,-,-,Neg,xammitx
+Perf,P3 Sg Fem,P1 Sg,-,Pos,xammitni
+Perf,P3 Sg Fem,P1 Sg,-,Neg,xammitnix
+Perf,P3 Sg Fem,P1 Pl,-,Pos,xammitna
+Perf,P3 Sg Fem,P1 Pl,-,Neg,xammitniex
+Perf,P3 Sg Fem,P2 Sg,-,Pos,xammitek
+Perf,P3 Sg Fem,P2 Sg,-,Neg,xammitekx
+Perf,P3 Sg Fem,P2 Pl,-,Pos,xammitkom
+Perf,P3 Sg Fem,P2 Pl,-,Neg,xammitkomx
+Perf,P3 Sg Fem,P3 Sg Masc,-,Pos,xammitu
+Perf,P3 Sg Fem,P3 Sg Masc,-,Neg,xammitux
+Perf,P3 Sg Fem,P3 Sg Fem,-,Pos,xammitha
+Perf,P3 Sg Fem,P3 Sg Fem,-,Neg,xammithiex
+Perf,P3 Sg Fem,P3 Pl,-,Pos,xammithom
+Perf,P3 Sg Fem,P3 Pl,-,Neg,xammithomx
+Perf,P3 Sg Fem,-,P1 Sg,Pos,xammitli
+Perf,P3 Sg Fem,-,P1 Sg,Neg,xammitlix
+Perf,P3 Sg Fem,-,P1 Pl,Pos,xammitilna
+Perf,P3 Sg Fem,-,P1 Pl,Neg,xammitilniex
+Perf,P3 Sg Fem,-,P2 Sg,Pos,xammitlek
+Perf,P3 Sg Fem,-,P2 Sg,Neg,xammitlekx
+Perf,P3 Sg Fem,-,P2 Pl,Pos,xammitilkom
+Perf,P3 Sg Fem,-,P2 Pl,Neg,xammitilkomx
+Perf,P3 Sg Fem,-,P3 Sg Masc,Pos,xammitlu
+Perf,P3 Sg Fem,-,P3 Sg Masc,Neg,xammitlux
+Perf,P3 Sg Fem,-,P3 Sg Fem,Pos,xammitilha
+Perf,P3 Sg Fem,-,P3 Sg Fem,Neg,xammitilhiex
+Perf,P3 Sg Fem,-,P3 Pl,Pos,xammitilhom
+Perf,P3 Sg Fem,-,P3 Pl,Neg,xammitilhomx
+Perf,P3 Sg Fem,P3 Sg Masc,P1 Sg,Pos,xammithuli
+Perf,P3 Sg Fem,P3 Sg Masc,P1 Sg,Neg,xammithulix
+Perf,P3 Sg Fem,P3 Sg Masc,P1 Pl,Pos,xammithulna
+Perf,P3 Sg Fem,P3 Sg Masc,P1 Pl,Neg,xammithulniex
+Perf,P3 Sg Fem,P3 Sg Masc,P2 Sg,Pos,xammithulek
+Perf,P3 Sg Fem,P3 Sg Masc,P2 Sg,Neg,xammithulekx
+Perf,P3 Sg Fem,P3 Sg Masc,P2 Pl,Pos,xammithulkom
+Perf,P3 Sg Fem,P3 Sg Masc,P2 Pl,Neg,xammithulkomx
+Perf,P3 Sg Fem,P3 Sg Masc,P3 Sg Masc,Pos,xammithulu
+Perf,P3 Sg Fem,P3 Sg Masc,P3 Sg Masc,Neg,xammithulux
+Perf,P3 Sg Fem,P3 Sg Masc,P3 Sg Fem,Pos,xammithulha
+Perf,P3 Sg Fem,P3 Sg Masc,P3 Sg Fem,Neg,xammithulhiex
+Perf,P3 Sg Fem,P3 Sg Masc,P3 Pl,Pos,xammithulhom
+Perf,P3 Sg Fem,P3 Sg Masc,P3 Pl,Neg,xammithulhomx
+Perf,P3 Sg Fem,P3 Sg Fem,P1 Sg,Pos,xammithieli
+Perf,P3 Sg Fem,P3 Sg Fem,P1 Sg,Neg,xammithilix
+Perf,P3 Sg Fem,P3 Sg Fem,P1 Pl,Pos,xammithielna
+Perf,P3 Sg Fem,P3 Sg Fem,P1 Pl,Neg,xammithilniex
+Perf,P3 Sg Fem,P3 Sg Fem,P2 Sg,Pos,xammithielek
+Perf,P3 Sg Fem,P3 Sg Fem,P2 Sg,Neg,xammithilekx
+Perf,P3 Sg Fem,P3 Sg Fem,P2 Pl,Pos,xammithielkom
+Perf,P3 Sg Fem,P3 Sg Fem,P2 Pl,Neg,xammithilkomx
+Perf,P3 Sg Fem,P3 Sg Fem,P3 Sg Masc,Pos,xammithielu
+Perf,P3 Sg Fem,P3 Sg Fem,P3 Sg Masc,Neg,xammithilux
+Perf,P3 Sg Fem,P3 Sg Fem,P3 Sg Fem,Pos,xammithielha
+Perf,P3 Sg Fem,P3 Sg Fem,P3 Sg Fem,Neg,xammithilhiex
+Perf,P3 Sg Fem,P3 Sg Fem,P3 Pl,Pos,xammithielhom
+Perf,P3 Sg Fem,P3 Sg Fem,P3 Pl,Neg,xammithilhomx
+Perf,P3 Sg Fem,P3 Pl,P1 Sg,Pos,xammithomli
+Perf,P3 Sg Fem,P3 Pl,P1 Sg,Neg,xammithomlix
+Perf,P3 Sg Fem,P3 Pl,P1 Pl,Pos,xammithomlna
+Perf,P3 Sg Fem,P3 Pl,P1 Pl,Neg,xammithomlniex
+Perf,P3 Sg Fem,P3 Pl,P2 Sg,Pos,xammithomlok
+Perf,P3 Sg Fem,P3 Pl,P2 Sg,Neg,xammithomlokx
+Perf,P3 Sg Fem,P3 Pl,P2 Pl,Pos,xammithomlkom
+Perf,P3 Sg Fem,P3 Pl,P2 Pl,Neg,xammithomlkomx
+Perf,P3 Sg Fem,P3 Pl,P3 Sg Masc,Pos,xammithomlu
+Perf,P3 Sg Fem,P3 Pl,P3 Sg Masc,Neg,xammithomlux
+Perf,P3 Sg Fem,P3 Pl,P3 Sg Fem,Pos,xammithomlha
+Perf,P3 Sg Fem,P3 Pl,P3 Sg Fem,Neg,xammithomlhiex
+Perf,P3 Sg Fem,P3 Pl,P3 Pl,Pos,xammithomlhom
+Perf,P3 Sg Fem,P3 Pl,P3 Pl,Neg,xammithomlhomx
+Perf,P3 Pl,-,-,Pos,xammew
+Perf,P3 Pl,-,-,Neg,xammewx
+Perf,P3 Pl,P1 Sg,-,Pos,xammewni
+Perf,P3 Pl,P1 Sg,-,Neg,xammewnix
+Perf,P3 Pl,P1 Pl,-,Pos,xammewna
+Perf,P3 Pl,P1 Pl,-,Neg,xammewniex
+Perf,P3 Pl,P2 Sg,-,Pos,xammewk
+Perf,P3 Pl,P2 Sg,-,Neg,xammewkx
+Perf,P3 Pl,P2 Pl,-,Pos,xammewkom
+Perf,P3 Pl,P2 Pl,-,Neg,xammewkomx
+Perf,P3 Pl,P3 Sg Masc,-,Pos,xammewh
+Perf,P3 Pl,P3 Sg Masc,-,Neg,xammewhx
+Perf,P3 Pl,P3 Sg Fem,-,Pos,xammewha
+Perf,P3 Pl,P3 Sg Fem,-,Neg,xammewhiex
+Perf,P3 Pl,P3 Pl,-,Pos,xammewhom
+Perf,P3 Pl,P3 Pl,-,Neg,xammewhomx
+Perf,P3 Pl,-,P1 Sg,Pos,xammewli
+Perf,P3 Pl,-,P1 Sg,Neg,xammewlix
+Perf,P3 Pl,-,P1 Pl,Pos,xammewlna
+Perf,P3 Pl,-,P1 Pl,Neg,xammewlniex
+Perf,P3 Pl,-,P2 Sg,Pos,xammewlek
+Perf,P3 Pl,-,P2 Sg,Neg,xammewlekx
+Perf,P3 Pl,-,P2 Pl,Pos,xammewlkom
+Perf,P3 Pl,-,P2 Pl,Neg,xammewlkomx
+Perf,P3 Pl,-,P3 Sg Masc,Pos,xammewlu
+Perf,P3 Pl,-,P3 Sg Masc,Neg,xammewlux
+Perf,P3 Pl,-,P3 Sg Fem,Pos,xammewlha
+Perf,P3 Pl,-,P3 Sg Fem,Neg,xammewlhiex
+Perf,P3 Pl,-,P3 Pl,Pos,xammewlhom
+Perf,P3 Pl,-,P3 Pl,Neg,xammewlhomx
+Perf,P3 Pl,P3 Sg Masc,P1 Sg,Pos,xammewhuli
+Perf,P3 Pl,P3 Sg Masc,P1 Sg,Neg,xammewhulix
+Perf,P3 Pl,P3 Sg Masc,P1 Pl,Pos,xammewhulna
+Perf,P3 Pl,P3 Sg Masc,P1 Pl,Neg,xammewhulniex
+Perf,P3 Pl,P3 Sg Masc,P2 Sg,Pos,xammewhulek
+Perf,P3 Pl,P3 Sg Masc,P2 Sg,Neg,xammewhulekx
+Perf,P3 Pl,P3 Sg Masc,P2 Pl,Pos,xammewhulkom
+Perf,P3 Pl,P3 Sg Masc,P2 Pl,Neg,xammewhulkomx
+Perf,P3 Pl,P3 Sg Masc,P3 Sg Masc,Pos,xammewhulu
+Perf,P3 Pl,P3 Sg Masc,P3 Sg Masc,Neg,xammewhulux
+Perf,P3 Pl,P3 Sg Masc,P3 Sg Fem,Pos,xammewhulha
+Perf,P3 Pl,P3 Sg Masc,P3 Sg Fem,Neg,xammewhulhiex
+Perf,P3 Pl,P3 Sg Masc,P3 Pl,Pos,xammewhulhom
+Perf,P3 Pl,P3 Sg Masc,P3 Pl,Neg,xammewhulhomx
+Perf,P3 Pl,P3 Sg Fem,P1 Sg,Pos,xammewhieli
+Perf,P3 Pl,P3 Sg Fem,P1 Sg,Neg,xammewhilix
+Perf,P3 Pl,P3 Sg Fem,P1 Pl,Pos,xammewhielna
+Perf,P3 Pl,P3 Sg Fem,P1 Pl,Neg,xammewhilniex
+Perf,P3 Pl,P3 Sg Fem,P2 Sg,Pos,xammewhielek
+Perf,P3 Pl,P3 Sg Fem,P2 Sg,Neg,xammewhilekx
+Perf,P3 Pl,P3 Sg Fem,P2 Pl,Pos,xammewhielkom
+Perf,P3 Pl,P3 Sg Fem,P2 Pl,Neg,xammewhilkomx
+Perf,P3 Pl,P3 Sg Fem,P3 Sg Masc,Pos,xammewhielu
+Perf,P3 Pl,P3 Sg Fem,P3 Sg Masc,Neg,xammewhilux
+Perf,P3 Pl,P3 Sg Fem,P3 Sg Fem,Pos,xammewhielha
+Perf,P3 Pl,P3 Sg Fem,P3 Sg Fem,Neg,xammewhilhiex
+Perf,P3 Pl,P3 Sg Fem,P3 Pl,Pos,xammewhielhom
+Perf,P3 Pl,P3 Sg Fem,P3 Pl,Neg,xammewhilhomx
+Perf,P3 Pl,P3 Pl,P1 Sg,Pos,xammewhomli
+Perf,P3 Pl,P3 Pl,P1 Sg,Neg,xammewhomlix
+Perf,P3 Pl,P3 Pl,P1 Pl,Pos,xammewhomlna
+Perf,P3 Pl,P3 Pl,P1 Pl,Neg,xammewhomlniex
+Perf,P3 Pl,P3 Pl,P2 Sg,Pos,xammewhomlok
+Perf,P3 Pl,P3 Pl,P2 Sg,Neg,xammewhomlokx
+Perf,P3 Pl,P3 Pl,P2 Pl,Pos,xammewhomlkom
+Perf,P3 Pl,P3 Pl,P2 Pl,Neg,xammewhomlkomx
+Perf,P3 Pl,P3 Pl,P3 Sg Masc,Pos,xammewhomlu
+Perf,P3 Pl,P3 Pl,P3 Sg Masc,Neg,xammewhomlux
+Perf,P3 Pl,P3 Pl,P3 Sg Fem,Pos,xammewhomlha
+Perf,P3 Pl,P3 Pl,P3 Sg Fem,Neg,xammewhomlhiex
+Perf,P3 Pl,P3 Pl,P3 Pl,Pos,xammewhomlhom
+Perf,P3 Pl,P3 Pl,P3 Pl,Neg,xammewhomlhomx
+Impf,P1 Sg,-,-,Pos,nxomm
+Impf,P1 Sg,-,-,Neg,nxommx
+Impf,P1 Sg,P1 Sg,-,Pos,-
+Impf,P1 Sg,P1 Sg,-,Neg,-
+Impf,P1 Sg,P1 Pl,-,Pos,-
+Impf,P1 Sg,P1 Pl,-,Neg,-
+Impf,P1 Sg,P2 Sg,-,Pos,nxommok
+Impf,P1 Sg,P2 Sg,-,Neg,nxommokx
+Impf,P1 Sg,P2 Pl,-,Pos,nxommkom
+Impf,P1 Sg,P2 Pl,-,Neg,nxommkomx
+Impf,P1 Sg,P3 Sg Masc,-,Pos,nxommu
+Impf,P1 Sg,P3 Sg Masc,-,Neg,nxommux
+Impf,P1 Sg,P3 Sg Fem,-,Pos,nxommha
+Impf,P1 Sg,P3 Sg Fem,-,Neg,nxommhiex
+Impf,P1 Sg,P3 Pl,-,Pos,nxommhom
+Impf,P1 Sg,P3 Pl,-,Neg,nxommhomx
+Impf,P1 Sg,-,P1 Sg,Pos,-
+Impf,P1 Sg,-,P1 Sg,Neg,-
+Impf,P1 Sg,-,P1 Pl,Pos,-
+Impf,P1 Sg,-,P1 Pl,Neg,-
+Impf,P1 Sg,-,P2 Sg,Pos,nxommlok
+Impf,P1 Sg,-,P2 Sg,Neg,nxommlokx
+Impf,P1 Sg,-,P2 Pl,Pos,nxommilkom
+Impf,P1 Sg,-,P2 Pl,Neg,nxommilkomx
+Impf,P1 Sg,-,P3 Sg Masc,Pos,nxommlu
+Impf,P1 Sg,-,P3 Sg Masc,Neg,nxommlux
+Impf,P1 Sg,-,P3 Sg Fem,Pos,nxommilha
+Impf,P1 Sg,-,P3 Sg Fem,Neg,nxommilhiex
+Impf,P1 Sg,-,P3 Pl,Pos,nxommilhom
+Impf,P1 Sg,-,P3 Pl,Neg,nxommilhomx
+Impf,P1 Sg,P3 Sg Masc,P1 Sg,Pos,-
+Impf,P1 Sg,P3 Sg Masc,P1 Sg,Neg,-
+Impf,P1 Sg,P3 Sg Masc,P1 Pl,Pos,-
+Impf,P1 Sg,P3 Sg Masc,P1 Pl,Neg,-
+Impf,P1 Sg,P3 Sg Masc,P2 Sg,Pos,nxommhulek
+Impf,P1 Sg,P3 Sg Masc,P2 Sg,Neg,nxommhulekx
+Impf,P1 Sg,P3 Sg Masc,P2 Pl,Pos,nxommhulkom
+Impf,P1 Sg,P3 Sg Masc,P2 Pl,Neg,nxommhulkomx
+Impf,P1 Sg,P3 Sg Masc,P3 Sg Masc,Pos,nxommhulu
+Impf,P1 Sg,P3 Sg Masc,P3 Sg Masc,Neg,nxommhulux
+Impf,P1 Sg,P3 Sg Masc,P3 Sg Fem,Pos,nxommhulha
+Impf,P1 Sg,P3 Sg Masc,P3 Sg Fem,Neg,nxommhulhiex
+Impf,P1 Sg,P3 Sg Masc,P3 Pl,Pos,nxommhulhom
+Impf,P1 Sg,P3 Sg Masc,P3 Pl,Neg,nxommhulhomx
+Impf,P1 Sg,P3 Sg Fem,P1 Sg,Pos,-
+Impf,P1 Sg,P3 Sg Fem,P1 Sg,Neg,-
+Impf,P1 Sg,P3 Sg Fem,P1 Pl,Pos,-
+Impf,P1 Sg,P3 Sg Fem,P1 Pl,Neg,-
+Impf,P1 Sg,P3 Sg Fem,P2 Sg,Pos,nxommhielek
+Impf,P1 Sg,P3 Sg Fem,P2 Sg,Neg,nxommhilekx
+Impf,P1 Sg,P3 Sg Fem,P2 Pl,Pos,nxommhielkom
+Impf,P1 Sg,P3 Sg Fem,P2 Pl,Neg,nxommhilkomx
+Impf,P1 Sg,P3 Sg Fem,P3 Sg Masc,Pos,nxommhielu
+Impf,P1 Sg,P3 Sg Fem,P3 Sg Masc,Neg,nxommhilux
+Impf,P1 Sg,P3 Sg Fem,P3 Sg Fem,Pos,nxommhielha
+Impf,P1 Sg,P3 Sg Fem,P3 Sg Fem,Neg,nxommhilhiex
+Impf,P1 Sg,P3 Sg Fem,P3 Pl,Pos,nxommhielhom
+Impf,P1 Sg,P3 Sg Fem,P3 Pl,Neg,nxommhilhomx
+Impf,P1 Sg,P3 Pl,P1 Sg,Pos,-
+Impf,P1 Sg,P3 Pl,P1 Sg,Neg,-
+Impf,P1 Sg,P3 Pl,P1 Pl,Pos,-
+Impf,P1 Sg,P3 Pl,P1 Pl,Neg,-
+Impf,P1 Sg,P3 Pl,P2 Sg,Pos,nxommhomlok
+Impf,P1 Sg,P3 Pl,P2 Sg,Neg,nxommhomlokx
+Impf,P1 Sg,P3 Pl,P2 Pl,Pos,nxommhomlkom
+Impf,P1 Sg,P3 Pl,P2 Pl,Neg,nxommhomlkomx
+Impf,P1 Sg,P3 Pl,P3 Sg Masc,Pos,nxommhomlu
+Impf,P1 Sg,P3 Pl,P3 Sg Masc,Neg,nxommhomlux
+Impf,P1 Sg,P3 Pl,P3 Sg Fem,Pos,nxommhomlha
+Impf,P1 Sg,P3 Pl,P3 Sg Fem,Neg,nxommhomlhiex
+Impf,P1 Sg,P3 Pl,P3 Pl,Pos,nxommhomlhom
+Impf,P1 Sg,P3 Pl,P3 Pl,Neg,nxommhomlhomx
+Impf,P1 Pl,-,-,Pos,nxommu
+Impf,P1 Pl,-,-,Neg,nxommux
+Impf,P1 Pl,P1 Sg,-,Pos,-
+Impf,P1 Pl,P1 Sg,-,Neg,-
+Impf,P1 Pl,P1 Pl,-,Pos,-
+Impf,P1 Pl,P1 Pl,-,Neg,-
+Impf,P1 Pl,P2 Sg,-,Pos,nxommuk
+Impf,P1 Pl,P2 Sg,-,Neg,nxommukx
+Impf,P1 Pl,P2 Pl,-,Pos,nxommukom
+Impf,P1 Pl,P2 Pl,-,Neg,nxommukomx
+Impf,P1 Pl,P3 Sg Masc,-,Pos,nxommuh
+Impf,P1 Pl,P3 Sg Masc,-,Neg,nxommuhx
+Impf,P1 Pl,P3 Sg Fem,-,Pos,nxommuha
+Impf,P1 Pl,P3 Sg Fem,-,Neg,nxommuhiex
+Impf,P1 Pl,P3 Pl,-,Pos,nxommuhom
+Impf,P1 Pl,P3 Pl,-,Neg,nxommuhomx
+Impf,P1 Pl,-,P1 Sg,Pos,-
+Impf,P1 Pl,-,P1 Sg,Neg,-
+Impf,P1 Pl,-,P1 Pl,Pos,-
+Impf,P1 Pl,-,P1 Pl,Neg,-
+Impf,P1 Pl,-,P2 Sg,Pos,nxommulek
+Impf,P1 Pl,-,P2 Sg,Neg,nxommulekx
+Impf,P1 Pl,-,P2 Pl,Pos,nxommulkom
+Impf,P1 Pl,-,P2 Pl,Neg,nxommulkomx
+Impf,P1 Pl,-,P3 Sg Masc,Pos,nxommulu
+Impf,P1 Pl,-,P3 Sg Masc,Neg,nxommulux
+Impf,P1 Pl,-,P3 Sg Fem,Pos,nxommulha
+Impf,P1 Pl,-,P3 Sg Fem,Neg,nxommulhiex
+Impf,P1 Pl,-,P3 Pl,Pos,nxommulhom
+Impf,P1 Pl,-,P3 Pl,Neg,nxommulhomx
+Impf,P1 Pl,P3 Sg Masc,P1 Sg,Pos,-
+Impf,P1 Pl,P3 Sg Masc,P1 Sg,Neg,-
+Impf,P1 Pl,P3 Sg Masc,P1 Pl,Pos,-
+Impf,P1 Pl,P3 Sg Masc,P1 Pl,Neg,-
+Impf,P1 Pl,P3 Sg Masc,P2 Sg,Pos,nxommuhulek
+Impf,P1 Pl,P3 Sg Masc,P2 Sg,Neg,nxommuhulekx
+Impf,P1 Pl,P3 Sg Masc,P2 Pl,Pos,nxommuhulkom
+Impf,P1 Pl,P3 Sg Masc,P2 Pl,Neg,nxommuhulkomx
+Impf,P1 Pl,P3 Sg Masc,P3 Sg Masc,Pos,nxommuhulu
+Impf,P1 Pl,P3 Sg Masc,P3 Sg Masc,Neg,nxommuhulux
+Impf,P1 Pl,P3 Sg Masc,P3 Sg Fem,Pos,nxommuhulha
+Impf,P1 Pl,P3 Sg Masc,P3 Sg Fem,Neg,nxommuhulhiex
+Impf,P1 Pl,P3 Sg Masc,P3 Pl,Pos,nxommuhulhom
+Impf,P1 Pl,P3 Sg Masc,P3 Pl,Neg,nxommuhulhomx
+Impf,P1 Pl,P3 Sg Fem,P1 Sg,Pos,-
+Impf,P1 Pl,P3 Sg Fem,P1 Sg,Neg,-
+Impf,P1 Pl,P3 Sg Fem,P1 Pl,Pos,-
+Impf,P1 Pl,P3 Sg Fem,P1 Pl,Neg,-
+Impf,P1 Pl,P3 Sg Fem,P2 Sg,Pos,nxommuhielek
+Impf,P1 Pl,P3 Sg Fem,P2 Sg,Neg,nxommuhilekx
+Impf,P1 Pl,P3 Sg Fem,P2 Pl,Pos,nxommuhielkom
+Impf,P1 Pl,P3 Sg Fem,P2 Pl,Neg,nxommuhilkomx
+Impf,P1 Pl,P3 Sg Fem,P3 Sg Masc,Pos,nxommuhielu
+Impf,P1 Pl,P3 Sg Fem,P3 Sg Masc,Neg,nxommuhilux
+Impf,P1 Pl,P3 Sg Fem,P3 Sg Fem,Pos,nxommuhielha
+Impf,P1 Pl,P3 Sg Fem,P3 Sg Fem,Neg,nxommuhilhiex
+Impf,P1 Pl,P3 Sg Fem,P3 Pl,Pos,nxommuhielhom
+Impf,P1 Pl,P3 Sg Fem,P3 Pl,Neg,nxommuhilhomx
+Impf,P1 Pl,P3 Pl,P1 Sg,Pos,-
+Impf,P1 Pl,P3 Pl,P1 Sg,Neg,-
+Impf,P1 Pl,P3 Pl,P1 Pl,Pos,-
+Impf,P1 Pl,P3 Pl,P1 Pl,Neg,-
+Impf,P1 Pl,P3 Pl,P2 Sg,Pos,nxommuhomlok
+Impf,P1 Pl,P3 Pl,P2 Sg,Neg,nxommuhomlokx
+Impf,P1 Pl,P3 Pl,P2 Pl,Pos,nxommuhomlkom
+Impf,P1 Pl,P3 Pl,P2 Pl,Neg,nxommuhomlkomx
+Impf,P1 Pl,P3 Pl,P3 Sg Masc,Pos,nxommuhomlu
+Impf,P1 Pl,P3 Pl,P3 Sg Masc,Neg,nxommuhomlux
+Impf,P1 Pl,P3 Pl,P3 Sg Fem,Pos,nxommuhomlha
+Impf,P1 Pl,P3 Pl,P3 Sg Fem,Neg,nxommuhomlhiex
+Impf,P1 Pl,P3 Pl,P3 Pl,Pos,nxommuhomlhom
+Impf,P1 Pl,P3 Pl,P3 Pl,Neg,nxommuhomlhomx
+Impf,P2 Sg,-,-,Pos,xxomm
+Impf,P2 Sg,-,-,Neg,xxommx
+Impf,P2 Sg,P1 Sg,-,Pos,xxommni
+Impf,P2 Sg,P1 Sg,-,Neg,xxommnix
+Impf,P2 Sg,P1 Pl,-,Pos,xxommna
+Impf,P2 Sg,P1 Pl,-,Neg,xxommniex
+Impf,P2 Sg,P2 Sg,-,Pos,-
+Impf,P2 Sg,P2 Sg,-,Neg,-
+Impf,P2 Sg,P2 Pl,-,Pos,-
+Impf,P2 Sg,P2 Pl,-,Neg,-
+Impf,P2 Sg,P3 Sg Masc,-,Pos,xxommu
+Impf,P2 Sg,P3 Sg Masc,-,Neg,xxommux
+Impf,P2 Sg,P3 Sg Fem,-,Pos,xxommha
+Impf,P2 Sg,P3 Sg Fem,-,Neg,xxommhiex
+Impf,P2 Sg,P3 Pl,-,Pos,xxommhom
+Impf,P2 Sg,P3 Pl,-,Neg,xxommhomx
+Impf,P2 Sg,-,P1 Sg,Pos,xxommli
+Impf,P2 Sg,-,P1 Sg,Neg,xxommlix
+Impf,P2 Sg,-,P1 Pl,Pos,xxommilna
+Impf,P2 Sg,-,P1 Pl,Neg,xxommilniex
+Impf,P2 Sg,-,P2 Sg,Pos,-
+Impf,P2 Sg,-,P2 Sg,Neg,-
+Impf,P2 Sg,-,P2 Pl,Pos,-
+Impf,P2 Sg,-,P2 Pl,Neg,-
+Impf,P2 Sg,-,P3 Sg Masc,Pos,xxommlu
+Impf,P2 Sg,-,P3 Sg Masc,Neg,xxommlux
+Impf,P2 Sg,-,P3 Sg Fem,Pos,xxommilha
+Impf,P2 Sg,-,P3 Sg Fem,Neg,xxommilhiex
+Impf,P2 Sg,-,P3 Pl,Pos,xxommilhom
+Impf,P2 Sg,-,P3 Pl,Neg,xxommilhomx
+Impf,P2 Sg,P3 Sg Masc,P1 Sg,Pos,xxommhuli
+Impf,P2 Sg,P3 Sg Masc,P1 Sg,Neg,xxommhulix
+Impf,P2 Sg,P3 Sg Masc,P1 Pl,Pos,xxommhulna
+Impf,P2 Sg,P3 Sg Masc,P1 Pl,Neg,xxommhulniex
+Impf,P2 Sg,P3 Sg Masc,P2 Sg,Pos,-
+Impf,P2 Sg,P3 Sg Masc,P2 Sg,Neg,-
+Impf,P2 Sg,P3 Sg Masc,P2 Pl,Pos,-
+Impf,P2 Sg,P3 Sg Masc,P2 Pl,Neg,-
+Impf,P2 Sg,P3 Sg Masc,P3 Sg Masc,Pos,xxommhulu
+Impf,P2 Sg,P3 Sg Masc,P3 Sg Masc,Neg,xxommhulux
+Impf,P2 Sg,P3 Sg Masc,P3 Sg Fem,Pos,xxommhulha
+Impf,P2 Sg,P3 Sg Masc,P3 Sg Fem,Neg,xxommhulhiex
+Impf,P2 Sg,P3 Sg Masc,P3 Pl,Pos,xxommhulhom
+Impf,P2 Sg,P3 Sg Masc,P3 Pl,Neg,xxommhulhomx
+Impf,P2 Sg,P3 Sg Fem,P1 Sg,Pos,xxommhieli
+Impf,P2 Sg,P3 Sg Fem,P1 Sg,Neg,xxommhilix
+Impf,P2 Sg,P3 Sg Fem,P1 Pl,Pos,xxommhielna
+Impf,P2 Sg,P3 Sg Fem,P1 Pl,Neg,xxommhilniex
+Impf,P2 Sg,P3 Sg Fem,P2 Sg,Pos,-
+Impf,P2 Sg,P3 Sg Fem,P2 Sg,Neg,-
+Impf,P2 Sg,P3 Sg Fem,P2 Pl,Pos,-
+Impf,P2 Sg,P3 Sg Fem,P2 Pl,Neg,-
+Impf,P2 Sg,P3 Sg Fem,P3 Sg Masc,Pos,xxommhielu
+Impf,P2 Sg,P3 Sg Fem,P3 Sg Masc,Neg,xxommhilux
+Impf,P2 Sg,P3 Sg Fem,P3 Sg Fem,Pos,xxommhielha
+Impf,P2 Sg,P3 Sg Fem,P3 Sg Fem,Neg,xxommhilhiex
+Impf,P2 Sg,P3 Sg Fem,P3 Pl,Pos,xxommhielhom
+Impf,P2 Sg,P3 Sg Fem,P3 Pl,Neg,xxommhilhomx
+Impf,P2 Sg,P3 Pl,P1 Sg,Pos,xxommhomli
+Impf,P2 Sg,P3 Pl,P1 Sg,Neg,xxommhomlix
+Impf,P2 Sg,P3 Pl,P1 Pl,Pos,xxommhomlna
+Impf,P2 Sg,P3 Pl,P1 Pl,Neg,xxommhomlniex
+Impf,P2 Sg,P3 Pl,P2 Sg,Pos,-
+Impf,P2 Sg,P3 Pl,P2 Sg,Neg,-
+Impf,P2 Sg,P3 Pl,P2 Pl,Pos,-
+Impf,P2 Sg,P3 Pl,P2 Pl,Neg,-
+Impf,P2 Sg,P3 Pl,P3 Sg Masc,Pos,xxommhomlu
+Impf,P2 Sg,P3 Pl,P3 Sg Masc,Neg,xxommhomlux
+Impf,P2 Sg,P3 Pl,P3 Sg Fem,Pos,xxommhomlha
+Impf,P2 Sg,P3 Pl,P3 Sg Fem,Neg,xxommhomlhiex
+Impf,P2 Sg,P3 Pl,P3 Pl,Pos,xxommhomlhom
+Impf,P2 Sg,P3 Pl,P3 Pl,Neg,xxommhomlhomx
+Impf,P2 Pl,-,-,Pos,xxommu
+Impf,P2 Pl,-,-,Neg,xxommux
+Impf,P2 Pl,P1 Sg,-,Pos,xxommuni
+Impf,P2 Pl,P1 Sg,-,Neg,xxommunix
+Impf,P2 Pl,P1 Pl,-,Pos,xxommuna
+Impf,P2 Pl,P1 Pl,-,Neg,xxommuniex
+Impf,P2 Pl,P2 Sg,-,Pos,-
+Impf,P2 Pl,P2 Sg,-,Neg,-
+Impf,P2 Pl,P2 Pl,-,Pos,-
+Impf,P2 Pl,P2 Pl,-,Neg,-
+Impf,P2 Pl,P3 Sg Masc,-,Pos,xxommuh
+Impf,P2 Pl,P3 Sg Masc,-,Neg,xxommuhx
+Impf,P2 Pl,P3 Sg Fem,-,Pos,xxommuha
+Impf,P2 Pl,P3 Sg Fem,-,Neg,xxommuhiex
+Impf,P2 Pl,P3 Pl,-,Pos,xxommuhom
+Impf,P2 Pl,P3 Pl,-,Neg,xxommuhomx
+Impf,P2 Pl,-,P1 Sg,Pos,xxommuli
+Impf,P2 Pl,-,P1 Sg,Neg,xxommulix
+Impf,P2 Pl,-,P1 Pl,Pos,xxommulna
+Impf,P2 Pl,-,P1 Pl,Neg,xxommulniex
+Impf,P2 Pl,-,P2 Sg,Pos,-
+Impf,P2 Pl,-,P2 Sg,Neg,-
+Impf,P2 Pl,-,P2 Pl,Pos,-
+Impf,P2 Pl,-,P2 Pl,Neg,-
+Impf,P2 Pl,-,P3 Sg Masc,Pos,xxommulu
+Impf,P2 Pl,-,P3 Sg Masc,Neg,xxommulux
+Impf,P2 Pl,-,P3 Sg Fem,Pos,xxommulha
+Impf,P2 Pl,-,P3 Sg Fem,Neg,xxommulhiex
+Impf,P2 Pl,-,P3 Pl,Pos,xxommulhom
+Impf,P2 Pl,-,P3 Pl,Neg,xxommulhomx
+Impf,P2 Pl,P3 Sg Masc,P1 Sg,Pos,xxommuhuli
+Impf,P2 Pl,P3 Sg Masc,P1 Sg,Neg,xxommuhulix
+Impf,P2 Pl,P3 Sg Masc,P1 Pl,Pos,xxommuhulna
+Impf,P2 Pl,P3 Sg Masc,P1 Pl,Neg,xxommuhulniex
+Impf,P2 Pl,P3 Sg Masc,P2 Sg,Pos,-
+Impf,P2 Pl,P3 Sg Masc,P2 Sg,Neg,-
+Impf,P2 Pl,P3 Sg Masc,P2 Pl,Pos,-
+Impf,P2 Pl,P3 Sg Masc,P2 Pl,Neg,-
+Impf,P2 Pl,P3 Sg Masc,P3 Sg Masc,Pos,xxommuhulu
+Impf,P2 Pl,P3 Sg Masc,P3 Sg Masc,Neg,xxommuhulux
+Impf,P2 Pl,P3 Sg Masc,P3 Sg Fem,Pos,xxommuhulha
+Impf,P2 Pl,P3 Sg Masc,P3 Sg Fem,Neg,xxommuhulhiex
+Impf,P2 Pl,P3 Sg Masc,P3 Pl,Pos,xxommuhulhom
+Impf,P2 Pl,P3 Sg Masc,P3 Pl,Neg,xxommuhulhomx
+Impf,P2 Pl,P3 Sg Fem,P1 Sg,Pos,xxommuhieli
+Impf,P2 Pl,P3 Sg Fem,P1 Sg,Neg,xxommuhilix
+Impf,P2 Pl,P3 Sg Fem,P1 Pl,Pos,xxommuhielna
+Impf,P2 Pl,P3 Sg Fem,P1 Pl,Neg,xxommuhilniex
+Impf,P2 Pl,P3 Sg Fem,P2 Sg,Pos,-
+Impf,P2 Pl,P3 Sg Fem,P2 Sg,Neg,-
+Impf,P2 Pl,P3 Sg Fem,P2 Pl,Pos,-
+Impf,P2 Pl,P3 Sg Fem,P2 Pl,Neg,-
+Impf,P2 Pl,P3 Sg Fem,P3 Sg Masc,Pos,xxommuhielu
+Impf,P2 Pl,P3 Sg Fem,P3 Sg Masc,Neg,xxommuhilux
+Impf,P2 Pl,P3 Sg Fem,P3 Sg Fem,Pos,xxommuhielha
+Impf,P2 Pl,P3 Sg Fem,P3 Sg Fem,Neg,xxommuhilhiex
+Impf,P2 Pl,P3 Sg Fem,P3 Pl,Pos,xxommuhielhom
+Impf,P2 Pl,P3 Sg Fem,P3 Pl,Neg,xxommuhilhomx
+Impf,P2 Pl,P3 Pl,P1 Sg,Pos,xxommuhomli
+Impf,P2 Pl,P3 Pl,P1 Sg,Neg,xxommuhomlix
+Impf,P2 Pl,P3 Pl,P1 Pl,Pos,xxommuhomlna
+Impf,P2 Pl,P3 Pl,P1 Pl,Neg,xxommuhomlniex
+Impf,P2 Pl,P3 Pl,P2 Sg,Pos,-
+Impf,P2 Pl,P3 Pl,P2 Sg,Neg,-
+Impf,P2 Pl,P3 Pl,P2 Pl,Pos,-
+Impf,P2 Pl,P3 Pl,P2 Pl,Neg,-
+Impf,P2 Pl,P3 Pl,P3 Sg Masc,Pos,xxommuhomlu
+Impf,P2 Pl,P3 Pl,P3 Sg Masc,Neg,xxommuhomlux
+Impf,P2 Pl,P3 Pl,P3 Sg Fem,Pos,xxommuhomlha
+Impf,P2 Pl,P3 Pl,P3 Sg Fem,Neg,xxommuhomlhiex
+Impf,P2 Pl,P3 Pl,P3 Pl,Pos,xxommuhomlhom
+Impf,P2 Pl,P3 Pl,P3 Pl,Neg,xxommuhomlhomx
+Impf,P3 Sg Masc,-,-,Pos,jxomm
+Impf,P3 Sg Masc,-,-,Neg,jxommx
+Impf,P3 Sg Masc,P1 Sg,-,Pos,jxommni
+Impf,P3 Sg Masc,P1 Sg,-,Neg,jxommnix
+Impf,P3 Sg Masc,P1 Pl,-,Pos,jxommna
+Impf,P3 Sg Masc,P1 Pl,-,Neg,jxommniex
+Impf,P3 Sg Masc,P2 Sg,-,Pos,jxommok
+Impf,P3 Sg Masc,P2 Sg,-,Neg,jxommokx
+Impf,P3 Sg Masc,P2 Pl,-,Pos,jxommkom
+Impf,P3 Sg Masc,P2 Pl,-,Neg,jxommkomx
+Impf,P3 Sg Masc,P3 Sg Masc,-,Pos,jxommu
+Impf,P3 Sg Masc,P3 Sg Masc,-,Neg,jxommux
+Impf,P3 Sg Masc,P3 Sg Fem,-,Pos,jxommha
+Impf,P3 Sg Masc,P3 Sg Fem,-,Neg,jxommhiex
+Impf,P3 Sg Masc,P3 Pl,-,Pos,jxommhom
+Impf,P3 Sg Masc,P3 Pl,-,Neg,jxommhomx
+Impf,P3 Sg Masc,-,P1 Sg,Pos,jxommli
+Impf,P3 Sg Masc,-,P1 Sg,Neg,jxommlix
+Impf,P3 Sg Masc,-,P1 Pl,Pos,jxommilna
+Impf,P3 Sg Masc,-,P1 Pl,Neg,jxommilniex
+Impf,P3 Sg Masc,-,P2 Sg,Pos,jxommlok
+Impf,P3 Sg Masc,-,P2 Sg,Neg,jxommlokx
+Impf,P3 Sg Masc,-,P2 Pl,Pos,jxommilkom
+Impf,P3 Sg Masc,-,P2 Pl,Neg,jxommilkomx
+Impf,P3 Sg Masc,-,P3 Sg Masc,Pos,jxommlu
+Impf,P3 Sg Masc,-,P3 Sg Masc,Neg,jxommlux
+Impf,P3 Sg Masc,-,P3 Sg Fem,Pos,jxommilha
+Impf,P3 Sg Masc,-,P3 Sg Fem,Neg,jxommilhiex
+Impf,P3 Sg Masc,-,P3 Pl,Pos,jxommilhom
+Impf,P3 Sg Masc,-,P3 Pl,Neg,jxommilhomx
+Impf,P3 Sg Masc,P3 Sg Masc,P1 Sg,Pos,jxommhuli
+Impf,P3 Sg Masc,P3 Sg Masc,P1 Sg,Neg,jxommhulix
+Impf,P3 Sg Masc,P3 Sg Masc,P1 Pl,Pos,jxommhulna
+Impf,P3 Sg Masc,P3 Sg Masc,P1 Pl,Neg,jxommhulniex
+Impf,P3 Sg Masc,P3 Sg Masc,P2 Sg,Pos,jxommhulek
+Impf,P3 Sg Masc,P3 Sg Masc,P2 Sg,Neg,jxommhulekx
+Impf,P3 Sg Masc,P3 Sg Masc,P2 Pl,Pos,jxommhulkom
+Impf,P3 Sg Masc,P3 Sg Masc,P2 Pl,Neg,jxommhulkomx
+Impf,P3 Sg Masc,P3 Sg Masc,P3 Sg Masc,Pos,jxommhulu
+Impf,P3 Sg Masc,P3 Sg Masc,P3 Sg Masc,Neg,jxommhulux
+Impf,P3 Sg Masc,P3 Sg Masc,P3 Sg Fem,Pos,jxommhulha
+Impf,P3 Sg Masc,P3 Sg Masc,P3 Sg Fem,Neg,jxommhulhiex
+Impf,P3 Sg Masc,P3 Sg Masc,P3 Pl,Pos,jxommhulhom
+Impf,P3 Sg Masc,P3 Sg Masc,P3 Pl,Neg,jxommhulhomx
+Impf,P3 Sg Masc,P3 Sg Fem,P1 Sg,Pos,jxommhieli
+Impf,P3 Sg Masc,P3 Sg Fem,P1 Sg,Neg,jxommhilix
+Impf,P3 Sg Masc,P3 Sg Fem,P1 Pl,Pos,jxommhielna
+Impf,P3 Sg Masc,P3 Sg Fem,P1 Pl,Neg,jxommhilniex
+Impf,P3 Sg Masc,P3 Sg Fem,P2 Sg,Pos,jxommhielek
+Impf,P3 Sg Masc,P3 Sg Fem,P2 Sg,Neg,jxommhilekx
+Impf,P3 Sg Masc,P3 Sg Fem,P2 Pl,Pos,jxommhielkom
+Impf,P3 Sg Masc,P3 Sg Fem,P2 Pl,Neg,jxommhilkomx
+Impf,P3 Sg Masc,P3 Sg Fem,P3 Sg Masc,Pos,jxommhielu
+Impf,P3 Sg Masc,P3 Sg Fem,P3 Sg Masc,Neg,jxommhilux
+Impf,P3 Sg Masc,P3 Sg Fem,P3 Sg Fem,Pos,jxommhielha
+Impf,P3 Sg Masc,P3 Sg Fem,P3 Sg Fem,Neg,jxommhilhiex
+Impf,P3 Sg Masc,P3 Sg Fem,P3 Pl,Pos,jxommhielhom
+Impf,P3 Sg Masc,P3 Sg Fem,P3 Pl,Neg,jxommhilhomx
+Impf,P3 Sg Masc,P3 Pl,P1 Sg,Pos,jxommhomli
+Impf,P3 Sg Masc,P3 Pl,P1 Sg,Neg,jxommhomlix
+Impf,P3 Sg Masc,P3 Pl,P1 Pl,Pos,jxommhomlna
+Impf,P3 Sg Masc,P3 Pl,P1 Pl,Neg,jxommhomlniex
+Impf,P3 Sg Masc,P3 Pl,P2 Sg,Pos,jxommhomlok
+Impf,P3 Sg Masc,P3 Pl,P2 Sg,Neg,jxommhomlokx
+Impf,P3 Sg Masc,P3 Pl,P2 Pl,Pos,jxommhomlkom
+Impf,P3 Sg Masc,P3 Pl,P2 Pl,Neg,jxommhomlkomx
+Impf,P3 Sg Masc,P3 Pl,P3 Sg Masc,Pos,jxommhomlu
+Impf,P3 Sg Masc,P3 Pl,P3 Sg Masc,Neg,jxommhomlux
+Impf,P3 Sg Masc,P3 Pl,P3 Sg Fem,Pos,jxommhomlha
+Impf,P3 Sg Masc,P3 Pl,P3 Sg Fem,Neg,jxommhomlhiex
+Impf,P3 Sg Masc,P3 Pl,P3 Pl,Pos,jxommhomlhom
+Impf,P3 Sg Masc,P3 Pl,P3 Pl,Neg,jxommhomlhomx
+Impf,P3 Sg Fem,-,-,Pos,xxomm
+Impf,P3 Sg Fem,-,-,Neg,xxommx
+Impf,P3 Sg Fem,P1 Sg,-,Pos,xxommni
+Impf,P3 Sg Fem,P1 Sg,-,Neg,xxommnix
+Impf,P3 Sg Fem,P1 Pl,-,Pos,xxommna
+Impf,P3 Sg Fem,P1 Pl,-,Neg,xxommniex
+Impf,P3 Sg Fem,P2 Sg,-,Pos,xxommok
+Impf,P3 Sg Fem,P2 Sg,-,Neg,xxommokx
+Impf,P3 Sg Fem,P2 Pl,-,Pos,xxommkom
+Impf,P3 Sg Fem,P2 Pl,-,Neg,xxommkomx
+Impf,P3 Sg Fem,P3 Sg Masc,-,Pos,xxommu
+Impf,P3 Sg Fem,P3 Sg Masc,-,Neg,xxommux
+Impf,P3 Sg Fem,P3 Sg Fem,-,Pos,xxommha
+Impf,P3 Sg Fem,P3 Sg Fem,-,Neg,xxommhiex
+Impf,P3 Sg Fem,P3 Pl,-,Pos,xxommhom
+Impf,P3 Sg Fem,P3 Pl,-,Neg,xxommhomx
+Impf,P3 Sg Fem,-,P1 Sg,Pos,xxommli
+Impf,P3 Sg Fem,-,P1 Sg,Neg,xxommlix
+Impf,P3 Sg Fem,-,P1 Pl,Pos,xxommilna
+Impf,P3 Sg Fem,-,P1 Pl,Neg,xxommilniex
+Impf,P3 Sg Fem,-,P2 Sg,Pos,xxommlok
+Impf,P3 Sg Fem,-,P2 Sg,Neg,xxommlokx
+Impf,P3 Sg Fem,-,P2 Pl,Pos,xxommilkom
+Impf,P3 Sg Fem,-,P2 Pl,Neg,xxommilkomx
+Impf,P3 Sg Fem,-,P3 Sg Masc,Pos,xxommlu
+Impf,P3 Sg Fem,-,P3 Sg Masc,Neg,xxommlux
+Impf,P3 Sg Fem,-,P3 Sg Fem,Pos,xxommilha
+Impf,P3 Sg Fem,-,P3 Sg Fem,Neg,xxommilhiex
+Impf,P3 Sg Fem,-,P3 Pl,Pos,xxommilhom
+Impf,P3 Sg Fem,-,P3 Pl,Neg,xxommilhomx
+Impf,P3 Sg Fem,P3 Sg Masc,P1 Sg,Pos,xxommhuli
+Impf,P3 Sg Fem,P3 Sg Masc,P1 Sg,Neg,xxommhulix
+Impf,P3 Sg Fem,P3 Sg Masc,P1 Pl,Pos,xxommhulna
+Impf,P3 Sg Fem,P3 Sg Masc,P1 Pl,Neg,xxommhulniex
+Impf,P3 Sg Fem,P3 Sg Masc,P2 Sg,Pos,xxommhulek
+Impf,P3 Sg Fem,P3 Sg Masc,P2 Sg,Neg,xxommhulekx
+Impf,P3 Sg Fem,P3 Sg Masc,P2 Pl,Pos,xxommhulkom
+Impf,P3 Sg Fem,P3 Sg Masc,P2 Pl,Neg,xxommhulkomx
+Impf,P3 Sg Fem,P3 Sg Masc,P3 Sg Masc,Pos,xxommhulu
+Impf,P3 Sg Fem,P3 Sg Masc,P3 Sg Masc,Neg,xxommhulux
+Impf,P3 Sg Fem,P3 Sg Masc,P3 Sg Fem,Pos,xxommhulha
+Impf,P3 Sg Fem,P3 Sg Masc,P3 Sg Fem,Neg,xxommhulhiex
+Impf,P3 Sg Fem,P3 Sg Masc,P3 Pl,Pos,xxommhulhom
+Impf,P3 Sg Fem,P3 Sg Masc,P3 Pl,Neg,xxommhulhomx
+Impf,P3 Sg Fem,P3 Sg Fem,P1 Sg,Pos,xxommhieli
+Impf,P3 Sg Fem,P3 Sg Fem,P1 Sg,Neg,xxommhilix
+Impf,P3 Sg Fem,P3 Sg Fem,P1 Pl,Pos,xxommhielna
+Impf,P3 Sg Fem,P3 Sg Fem,P1 Pl,Neg,xxommhilniex
+Impf,P3 Sg Fem,P3 Sg Fem,P2 Sg,Pos,xxommhielek
+Impf,P3 Sg Fem,P3 Sg Fem,P2 Sg,Neg,xxommhilekx
+Impf,P3 Sg Fem,P3 Sg Fem,P2 Pl,Pos,xxommhielkom
+Impf,P3 Sg Fem,P3 Sg Fem,P2 Pl,Neg,xxommhilkomx
+Impf,P3 Sg Fem,P3 Sg Fem,P3 Sg Masc,Pos,xxommhielu
+Impf,P3 Sg Fem,P3 Sg Fem,P3 Sg Masc,Neg,xxommhilux
+Impf,P3 Sg Fem,P3 Sg Fem,P3 Sg Fem,Pos,xxommhielha
+Impf,P3 Sg Fem,P3 Sg Fem,P3 Sg Fem,Neg,xxommhilhiex
+Impf,P3 Sg Fem,P3 Sg Fem,P3 Pl,Pos,xxommhielhom
+Impf,P3 Sg Fem,P3 Sg Fem,P3 Pl,Neg,xxommhilhomx
+Impf,P3 Sg Fem,P3 Pl,P1 Sg,Pos,xxommhomli
+Impf,P3 Sg Fem,P3 Pl,P1 Sg,Neg,xxommhomlix
+Impf,P3 Sg Fem,P3 Pl,P1 Pl,Pos,xxommhomlna
+Impf,P3 Sg Fem,P3 Pl,P1 Pl,Neg,xxommhomlniex
+Impf,P3 Sg Fem,P3 Pl,P2 Sg,Pos,xxommhomlok
+Impf,P3 Sg Fem,P3 Pl,P2 Sg,Neg,xxommhomlokx
+Impf,P3 Sg Fem,P3 Pl,P2 Pl,Pos,xxommhomlkom
+Impf,P3 Sg Fem,P3 Pl,P2 Pl,Neg,xxommhomlkomx
+Impf,P3 Sg Fem,P3 Pl,P3 Sg Masc,Pos,xxommhomlu
+Impf,P3 Sg Fem,P3 Pl,P3 Sg Masc,Neg,xxommhomlux
+Impf,P3 Sg Fem,P3 Pl,P3 Sg Fem,Pos,xxommhomlha
+Impf,P3 Sg Fem,P3 Pl,P3 Sg Fem,Neg,xxommhomlhiex
+Impf,P3 Sg Fem,P3 Pl,P3 Pl,Pos,xxommhomlhom
+Impf,P3 Sg Fem,P3 Pl,P3 Pl,Neg,xxommhomlhomx
+Impf,P3 Pl,-,-,Pos,jxommu
+Impf,P3 Pl,-,-,Neg,jxommux
+Impf,P3 Pl,P1 Sg,-,Pos,jxommuni
+Impf,P3 Pl,P1 Sg,-,Neg,jxommunix
+Impf,P3 Pl,P1 Pl,-,Pos,jxommuna
+Impf,P3 Pl,P1 Pl,-,Neg,jxommuniex
+Impf,P3 Pl,P2 Sg,-,Pos,jxommuk
+Impf,P3 Pl,P2 Sg,-,Neg,jxommukx
+Impf,P3 Pl,P2 Pl,-,Pos,jxommukom
+Impf,P3 Pl,P2 Pl,-,Neg,jxommukomx
+Impf,P3 Pl,P3 Sg Masc,-,Pos,jxommuh
+Impf,P3 Pl,P3 Sg Masc,-,Neg,jxommuhx
+Impf,P3 Pl,P3 Sg Fem,-,Pos,jxommuha
+Impf,P3 Pl,P3 Sg Fem,-,Neg,jxommuhiex
+Impf,P3 Pl,P3 Pl,-,Pos,jxommuhom
+Impf,P3 Pl,P3 Pl,-,Neg,jxommuhomx
+Impf,P3 Pl,-,P1 Sg,Pos,jxommuli
+Impf,P3 Pl,-,P1 Sg,Neg,jxommulix
+Impf,P3 Pl,-,P1 Pl,Pos,jxommulna
+Impf,P3 Pl,-,P1 Pl,Neg,jxommulniex
+Impf,P3 Pl,-,P2 Sg,Pos,jxommulek
+Impf,P3 Pl,-,P2 Sg,Neg,jxommulekx
+Impf,P3 Pl,-,P2 Pl,Pos,jxommulkom
+Impf,P3 Pl,-,P2 Pl,Neg,jxommulkomx
+Impf,P3 Pl,-,P3 Sg Masc,Pos,jxommulu
+Impf,P3 Pl,-,P3 Sg Masc,Neg,jxommulux
+Impf,P3 Pl,-,P3 Sg Fem,Pos,jxommulha
+Impf,P3 Pl,-,P3 Sg Fem,Neg,jxommulhiex
+Impf,P3 Pl,-,P3 Pl,Pos,jxommulhom
+Impf,P3 Pl,-,P3 Pl,Neg,jxommulhomx
+Impf,P3 Pl,P3 Sg Masc,P1 Sg,Pos,jxommuhuli
+Impf,P3 Pl,P3 Sg Masc,P1 Sg,Neg,jxommuhulix
+Impf,P3 Pl,P3 Sg Masc,P1 Pl,Pos,jxommuhulna
+Impf,P3 Pl,P3 Sg Masc,P1 Pl,Neg,jxommuhulniex
+Impf,P3 Pl,P3 Sg Masc,P2 Sg,Pos,jxommuhulek
+Impf,P3 Pl,P3 Sg Masc,P2 Sg,Neg,jxommuhulekx
+Impf,P3 Pl,P3 Sg Masc,P2 Pl,Pos,jxommuhulkom
+Impf,P3 Pl,P3 Sg Masc,P2 Pl,Neg,jxommuhulkomx
+Impf,P3 Pl,P3 Sg Masc,P3 Sg Masc,Pos,jxommuhulu
+Impf,P3 Pl,P3 Sg Masc,P3 Sg Masc,Neg,jxommuhulux
+Impf,P3 Pl,P3 Sg Masc,P3 Sg Fem,Pos,jxommuhulha
+Impf,P3 Pl,P3 Sg Masc,P3 Sg Fem,Neg,jxommuhulhiex
+Impf,P3 Pl,P3 Sg Masc,P3 Pl,Pos,jxommuhulhom
+Impf,P3 Pl,P3 Sg Masc,P3 Pl,Neg,jxommuhulhomx
+Impf,P3 Pl,P3 Sg Fem,P1 Sg,Pos,jxommuhieli
+Impf,P3 Pl,P3 Sg Fem,P1 Sg,Neg,jxommuhilix
+Impf,P3 Pl,P3 Sg Fem,P1 Pl,Pos,jxommuhielna
+Impf,P3 Pl,P3 Sg Fem,P1 Pl,Neg,jxommuhilniex
+Impf,P3 Pl,P3 Sg Fem,P2 Sg,Pos,jxommuhielek
+Impf,P3 Pl,P3 Sg Fem,P2 Sg,Neg,jxommuhilekx
+Impf,P3 Pl,P3 Sg Fem,P2 Pl,Pos,jxommuhielkom
+Impf,P3 Pl,P3 Sg Fem,P2 Pl,Neg,jxommuhilkomx
+Impf,P3 Pl,P3 Sg Fem,P3 Sg Masc,Pos,jxommuhielu
+Impf,P3 Pl,P3 Sg Fem,P3 Sg Masc,Neg,jxommuhilux
+Impf,P3 Pl,P3 Sg Fem,P3 Sg Fem,Pos,jxommuhielha
+Impf,P3 Pl,P3 Sg Fem,P3 Sg Fem,Neg,jxommuhilhiex
+Impf,P3 Pl,P3 Sg Fem,P3 Pl,Pos,jxommuhielhom
+Impf,P3 Pl,P3 Sg Fem,P3 Pl,Neg,jxommuhilhomx
+Impf,P3 Pl,P3 Pl,P1 Sg,Pos,jxommuhomli
+Impf,P3 Pl,P3 Pl,P1 Sg,Neg,jxommuhomlix
+Impf,P3 Pl,P3 Pl,P1 Pl,Pos,jxommuhomlna
+Impf,P3 Pl,P3 Pl,P1 Pl,Neg,jxommuhomlniex
+Impf,P3 Pl,P3 Pl,P2 Sg,Pos,jxommuhomlok
+Impf,P3 Pl,P3 Pl,P2 Sg,Neg,jxommuhomlokx
+Impf,P3 Pl,P3 Pl,P2 Pl,Pos,jxommuhomlkom
+Impf,P3 Pl,P3 Pl,P2 Pl,Neg,jxommuhomlkomx
+Impf,P3 Pl,P3 Pl,P3 Sg Masc,Pos,jxommuhomlu
+Impf,P3 Pl,P3 Pl,P3 Sg Masc,Neg,jxommuhomlux
+Impf,P3 Pl,P3 Pl,P3 Sg Fem,Pos,jxommuhomlha
+Impf,P3 Pl,P3 Pl,P3 Sg Fem,Neg,jxommuhomlhiex
+Impf,P3 Pl,P3 Pl,P3 Pl,Pos,jxommuhomlhom
+Impf,P3 Pl,P3 Pl,P3 Pl,Neg,jxommuhomlhomx
+Imp,P2 Sg,-,-,Pos,xomm
+Imp,P2 Sg,-,-,Neg,xommx
+Imp,P2 Sg,P1 Sg,-,Pos,xommni
+Imp,P2 Sg,P1 Sg,-,Neg,xommnix
+Imp,P2 Sg,P1 Pl,-,Pos,xommna
+Imp,P2 Sg,P1 Pl,-,Neg,xommniex
+Imp,P2 Sg,P2 Sg,-,Pos,-
+Imp,P2 Sg,P2 Sg,-,Neg,-
+Imp,P2 Sg,P2 Pl,-,Pos,-
+Imp,P2 Sg,P2 Pl,-,Neg,-
+Imp,P2 Sg,P3 Sg Masc,-,Pos,xommu
+Imp,P2 Sg,P3 Sg Masc,-,Neg,xommux
+Imp,P2 Sg,P3 Sg Fem,-,Pos,xommha
+Imp,P2 Sg,P3 Sg Fem,-,Neg,xommhiex
+Imp,P2 Sg,P3 Pl,-,Pos,xommhom
+Imp,P2 Sg,P3 Pl,-,Neg,xommhomx
+Imp,P2 Sg,-,P1 Sg,Pos,xommli
+Imp,P2 Sg,-,P1 Sg,Neg,xommlix
+Imp,P2 Sg,-,P1 Pl,Pos,xommilna
+Imp,P2 Sg,-,P1 Pl,Neg,xommilniex
+Imp,P2 Sg,-,P2 Sg,Pos,-
+Imp,P2 Sg,-,P2 Sg,Neg,-
+Imp,P2 Sg,-,P2 Pl,Pos,-
+Imp,P2 Sg,-,P2 Pl,Neg,-
+Imp,P2 Sg,-,P3 Sg Masc,Pos,xommlu
+Imp,P2 Sg,-,P3 Sg Masc,Neg,xommlux
+Imp,P2 Sg,-,P3 Sg Fem,Pos,xommilha
+Imp,P2 Sg,-,P3 Sg Fem,Neg,xommilhiex
+Imp,P2 Sg,-,P3 Pl,Pos,xommilhom
+Imp,P2 Sg,-,P3 Pl,Neg,xommilhomx
+Imp,P2 Sg,P3 Sg Masc,P1 Sg,Pos,xommhuli
+Imp,P2 Sg,P3 Sg Masc,P1 Sg,Neg,xommhulix
+Imp,P2 Sg,P3 Sg Masc,P1 Pl,Pos,xommhulna
+Imp,P2 Sg,P3 Sg Masc,P1 Pl,Neg,xommhulniex
+Imp,P2 Sg,P3 Sg Masc,P2 Sg,Pos,-
+Imp,P2 Sg,P3 Sg Masc,P2 Sg,Neg,-
+Imp,P2 Sg,P3 Sg Masc,P2 Pl,Pos,-
+Imp,P2 Sg,P3 Sg Masc,P2 Pl,Neg,-
+Imp,P2 Sg,P3 Sg Masc,P3 Sg Masc,Pos,xommhulu
+Imp,P2 Sg,P3 Sg Masc,P3 Sg Masc,Neg,xommhulux
+Imp,P2 Sg,P3 Sg Masc,P3 Sg Fem,Pos,xommhulha
+Imp,P2 Sg,P3 Sg Masc,P3 Sg Fem,Neg,xommhulhiex
+Imp,P2 Sg,P3 Sg Masc,P3 Pl,Pos,xommhulhom
+Imp,P2 Sg,P3 Sg Masc,P3 Pl,Neg,xommhulhomx
+Imp,P2 Sg,P3 Sg Fem,P1 Sg,Pos,xommhieli
+Imp,P2 Sg,P3 Sg Fem,P1 Sg,Neg,xommhilix
+Imp,P2 Sg,P3 Sg Fem,P1 Pl,Pos,xommhielna
+Imp,P2 Sg,P3 Sg Fem,P1 Pl,Neg,xommhilniex
+Imp,P2 Sg,P3 Sg Fem,P2 Sg,Pos,-
+Imp,P2 Sg,P3 Sg Fem,P2 Sg,Neg,-
+Imp,P2 Sg,P3 Sg Fem,P2 Pl,Pos,-
+Imp,P2 Sg,P3 Sg Fem,P2 Pl,Neg,-
+Imp,P2 Sg,P3 Sg Fem,P3 Sg Masc,Pos,xommhielu
+Imp,P2 Sg,P3 Sg Fem,P3 Sg Masc,Neg,xommhilux
+Imp,P2 Sg,P3 Sg Fem,P3 Sg Fem,Pos,xommhielha
+Imp,P2 Sg,P3 Sg Fem,P3 Sg Fem,Neg,xommhilhiex
+Imp,P2 Sg,P3 Sg Fem,P3 Pl,Pos,xommhielhom
+Imp,P2 Sg,P3 Sg Fem,P3 Pl,Neg,xommhilhomx
+Imp,P2 Sg,P3 Pl,P1 Sg,Pos,xommhomli
+Imp,P2 Sg,P3 Pl,P1 Sg,Neg,xommhomlix
+Imp,P2 Sg,P3 Pl,P1 Pl,Pos,xommhomlna
+Imp,P2 Sg,P3 Pl,P1 Pl,Neg,xommhomlniex
+Imp,P2 Sg,P3 Pl,P2 Sg,Pos,-
+Imp,P2 Sg,P3 Pl,P2 Sg,Neg,-
+Imp,P2 Sg,P3 Pl,P2 Pl,Pos,-
+Imp,P2 Sg,P3 Pl,P2 Pl,Neg,-
+Imp,P2 Sg,P3 Pl,P3 Sg Masc,Pos,xommhomlu
+Imp,P2 Sg,P3 Pl,P3 Sg Masc,Neg,xommhomlux
+Imp,P2 Sg,P3 Pl,P3 Sg Fem,Pos,xommhomlha
+Imp,P2 Sg,P3 Pl,P3 Sg Fem,Neg,xommhomlhiex
+Imp,P2 Sg,P3 Pl,P3 Pl,Pos,xommhomlhom
+Imp,P2 Sg,P3 Pl,P3 Pl,Neg,xommhomlhomx
+Imp,P2 Pl,-,-,Pos,xommu
+Imp,P2 Pl,-,-,Neg,xommux
+Imp,P2 Pl,P1 Sg,-,Pos,xommuni
+Imp,P2 Pl,P1 Sg,-,Neg,xommunix
+Imp,P2 Pl,P1 Pl,-,Pos,xommuna
+Imp,P2 Pl,P1 Pl,-,Neg,xommuniex
+Imp,P2 Pl,P2 Sg,-,Pos,-
+Imp,P2 Pl,P2 Sg,-,Neg,-
+Imp,P2 Pl,P2 Pl,-,Pos,-
+Imp,P2 Pl,P2 Pl,-,Neg,-
+Imp,P2 Pl,P3 Sg Masc,-,Pos,xommuh
+Imp,P2 Pl,P3 Sg Masc,-,Neg,xommuhx
+Imp,P2 Pl,P3 Sg Fem,-,Pos,xommuha
+Imp,P2 Pl,P3 Sg Fem,-,Neg,xommuhiex
+Imp,P2 Pl,P3 Pl,-,Pos,xommuhom
+Imp,P2 Pl,P3 Pl,-,Neg,xommuhomx
+Imp,P2 Pl,-,P1 Sg,Pos,xommuli
+Imp,P2 Pl,-,P1 Sg,Neg,xommulix
+Imp,P2 Pl,-,P1 Pl,Pos,xommulna
+Imp,P2 Pl,-,P1 Pl,Neg,xommulniex
+Imp,P2 Pl,-,P2 Sg,Pos,-
+Imp,P2 Pl,-,P2 Sg,Neg,-
+Imp,P2 Pl,-,P2 Pl,Pos,-
+Imp,P2 Pl,-,P2 Pl,Neg,-
+Imp,P2 Pl,-,P3 Sg Masc,Pos,xommulu
+Imp,P2 Pl,-,P3 Sg Masc,Neg,xommulux
+Imp,P2 Pl,-,P3 Sg Fem,Pos,xommulha
+Imp,P2 Pl,-,P3 Sg Fem,Neg,xommulhiex
+Imp,P2 Pl,-,P3 Pl,Pos,xommulhom
+Imp,P2 Pl,-,P3 Pl,Neg,xommulhomx
+Imp,P2 Pl,P3 Sg Masc,P1 Sg,Pos,xommuhuli
+Imp,P2 Pl,P3 Sg Masc,P1 Sg,Neg,xommuhulix
+Imp,P2 Pl,P3 Sg Masc,P1 Pl,Pos,xommuhulna
+Imp,P2 Pl,P3 Sg Masc,P1 Pl,Neg,xommuhulniex
+Imp,P2 Pl,P3 Sg Masc,P2 Sg,Pos,-
+Imp,P2 Pl,P3 Sg Masc,P2 Sg,Neg,-
+Imp,P2 Pl,P3 Sg Masc,P2 Pl,Pos,-
+Imp,P2 Pl,P3 Sg Masc,P2 Pl,Neg,-
+Imp,P2 Pl,P3 Sg Masc,P3 Sg Masc,Pos,xommuhulu
+Imp,P2 Pl,P3 Sg Masc,P3 Sg Masc,Neg,xommuhulux
+Imp,P2 Pl,P3 Sg Masc,P3 Sg Fem,Pos,xommuhulha
+Imp,P2 Pl,P3 Sg Masc,P3 Sg Fem,Neg,xommuhulhiex
+Imp,P2 Pl,P3 Sg Masc,P3 Pl,Pos,xommuhulhom
+Imp,P2 Pl,P3 Sg Masc,P3 Pl,Neg,xommuhulhomx
+Imp,P2 Pl,P3 Sg Fem,P1 Sg,Pos,xommuhieli
+Imp,P2 Pl,P3 Sg Fem,P1 Sg,Neg,xommuhilix
+Imp,P2 Pl,P3 Sg Fem,P1 Pl,Pos,xommuhielna
+Imp,P2 Pl,P3 Sg Fem,P1 Pl,Neg,xommuhilniex
+Imp,P2 Pl,P3 Sg Fem,P2 Sg,Pos,-
+Imp,P2 Pl,P3 Sg Fem,P2 Sg,Neg,-
+Imp,P2 Pl,P3 Sg Fem,P2 Pl,Pos,-
+Imp,P2 Pl,P3 Sg Fem,P2 Pl,Neg,-
+Imp,P2 Pl,P3 Sg Fem,P3 Sg Masc,Pos,xommuhielu
+Imp,P2 Pl,P3 Sg Fem,P3 Sg Masc,Neg,xommuhilux
+Imp,P2 Pl,P3 Sg Fem,P3 Sg Fem,Pos,xommuhielha
+Imp,P2 Pl,P3 Sg Fem,P3 Sg Fem,Neg,xommuhilhiex
+Imp,P2 Pl,P3 Sg Fem,P3 Pl,Pos,xommuhielhom
+Imp,P2 Pl,P3 Sg Fem,P3 Pl,Neg,xommuhilhomx
+Imp,P2 Pl,P3 Pl,P1 Sg,Pos,xommuhomli
+Imp,P2 Pl,P3 Pl,P1 Sg,Neg,xommuhomlix
+Imp,P2 Pl,P3 Pl,P1 Pl,Pos,xommuhomlna
+Imp,P2 Pl,P3 Pl,P1 Pl,Neg,xommuhomlniex
+Imp,P2 Pl,P3 Pl,P2 Sg,Pos,-
+Imp,P2 Pl,P3 Pl,P2 Sg,Neg,-
+Imp,P2 Pl,P3 Pl,P2 Pl,Pos,-
+Imp,P2 Pl,P3 Pl,P2 Pl,Neg,-
+Imp,P2 Pl,P3 Pl,P3 Sg Masc,Pos,xommuhomlu
+Imp,P2 Pl,P3 Pl,P3 Sg Masc,Neg,xommuhomlux
+Imp,P2 Pl,P3 Pl,P3 Sg Fem,Pos,xommuhomlha
+Imp,P2 Pl,P3 Pl,P3 Sg Fem,Neg,xommuhomlhiex
+Imp,P2 Pl,P3 Pl,P3 Pl,Pos,xommuhomlhom
+Imp,P2 Pl,P3 Pl,P3 Pl,Neg,xommuhomlhomx

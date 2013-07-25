@@ -1,1 +1,0 @@
-aspect,subj,do,io,pol,surface

@@ -10,7 +10,7 @@ then
 fi
 
 # Headers
-echo aspect,subj,do,io,pol,surface
+echo Aspect,Subject,DO,IO,Polarity,Surface form
 
 start=4
 count=1152
