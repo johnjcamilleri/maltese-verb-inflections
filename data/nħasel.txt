@@ -1,0 +1,1153 @@
+aspect,subj,do,io,pol,surface
+Perf,P1 Sg,-,-,Pos,nħsilt
+Perf,P1 Sg,-,-,Neg,nħsiltx
+Perf,P1 Sg,P1 Sg,-,Pos,-
+Perf,P1 Sg,P1 Sg,-,Neg,-
+Perf,P1 Sg,P1 Pl,-,Pos,-
+Perf,P1 Sg,P1 Pl,-,Neg,-
+Perf,P1 Sg,P2 Sg,-,Pos,nħsiltek
+Perf,P1 Sg,P2 Sg,-,Neg,nħsiltekx
+Perf,P1 Sg,P2 Pl,-,Pos,nħsiltkom
+Perf,P1 Sg,P2 Pl,-,Neg,nħsiltkomx
+Perf,P1 Sg,P3 Sg Masc,-,Pos,nħsiltu
+Perf,P1 Sg,P3 Sg Masc,-,Neg,nħsiltux
+Perf,P1 Sg,P3 Sg Fem,-,Pos,nħsiltha
+Perf,P1 Sg,P3 Sg Fem,-,Neg,nħsilthiex
+Perf,P1 Sg,P3 Pl,-,Pos,nħsilthom
+Perf,P1 Sg,P3 Pl,-,Neg,nħsilthomx
+Perf,P1 Sg,-,P1 Sg,Pos,-
+Perf,P1 Sg,-,P1 Sg,Neg,-
+Perf,P1 Sg,-,P1 Pl,Pos,-
+Perf,P1 Sg,-,P1 Pl,Neg,-
+Perf,P1 Sg,-,P2 Sg,Pos,nħsiltlek
+Perf,P1 Sg,-,P2 Sg,Neg,nħsiltlekx
+Perf,P1 Sg,-,P2 Pl,Pos,nħsiltilkom
+Perf,P1 Sg,-,P2 Pl,Neg,nħsiltilkomx
+Perf,P1 Sg,-,P3 Sg Masc,Pos,nħsiltlu
+Perf,P1 Sg,-,P3 Sg Masc,Neg,nħsiltlux
+Perf,P1 Sg,-,P3 Sg Fem,Pos,nħsiltilha
+Perf,P1 Sg,-,P3 Sg Fem,Neg,nħsiltilhiex
+Perf,P1 Sg,-,P3 Pl,Pos,nħsiltilhom
+Perf,P1 Sg,-,P3 Pl,Neg,nħsiltilhomx
+Perf,P1 Sg,P3 Sg Masc,P1 Sg,Pos,-
+Perf,P1 Sg,P3 Sg Masc,P1 Sg,Neg,-
+Perf,P1 Sg,P3 Sg Masc,P1 Pl,Pos,-
+Perf,P1 Sg,P3 Sg Masc,P1 Pl,Neg,-
+Perf,P1 Sg,P3 Sg Masc,P2 Sg,Pos,nħsilthulek
+Perf,P1 Sg,P3 Sg Masc,P2 Sg,Neg,nħsilthulekx
+Perf,P1 Sg,P3 Sg Masc,P2 Pl,Pos,nħsilthulkom
+Perf,P1 Sg,P3 Sg Masc,P2 Pl,Neg,nħsilthulkomx
+Perf,P1 Sg,P3 Sg Masc,P3 Sg Masc,Pos,nħsilthulu
+Perf,P1 Sg,P3 Sg Masc,P3 Sg Masc,Neg,nħsilthulux
+Perf,P1 Sg,P3 Sg Masc,P3 Sg Fem,Pos,nħsilthulha
+Perf,P1 Sg,P3 Sg Masc,P3 Sg Fem,Neg,nħsilthulhiex
+Perf,P1 Sg,P3 Sg Masc,P3 Pl,Pos,nħsilthulhom
+Perf,P1 Sg,P3 Sg Masc,P3 Pl,Neg,nħsilthulhomx
+Perf,P1 Sg,P3 Sg Fem,P1 Sg,Pos,-
+Perf,P1 Sg,P3 Sg Fem,P1 Sg,Neg,-
+Perf,P1 Sg,P3 Sg Fem,P1 Pl,Pos,-
+Perf,P1 Sg,P3 Sg Fem,P1 Pl,Neg,-
+Perf,P1 Sg,P3 Sg Fem,P2 Sg,Pos,nħsilthielek
+Perf,P1 Sg,P3 Sg Fem,P2 Sg,Neg,nħsilthilekx
+Perf,P1 Sg,P3 Sg Fem,P2 Pl,Pos,nħsilthielkom
+Perf,P1 Sg,P3 Sg Fem,P2 Pl,Neg,nħsilthilkomx
+Perf,P1 Sg,P3 Sg Fem,P3 Sg Masc,Pos,nħsilthielu
+Perf,P1 Sg,P3 Sg Fem,P3 Sg Masc,Neg,nħsilthilux
+Perf,P1 Sg,P3 Sg Fem,P3 Sg Fem,Pos,nħsilthielha
+Perf,P1 Sg,P3 Sg Fem,P3 Sg Fem,Neg,nħsilthilhiex
+Perf,P1 Sg,P3 Sg Fem,P3 Pl,Pos,nħsilthielhom
+Perf,P1 Sg,P3 Sg Fem,P3 Pl,Neg,nħsilthilhomx
+Perf,P1 Sg,P3 Pl,P1 Sg,Pos,-
+Perf,P1 Sg,P3 Pl,P1 Sg,Neg,-
+Perf,P1 Sg,P3 Pl,P1 Pl,Pos,-
+Perf,P1 Sg,P3 Pl,P1 Pl,Neg,-
+Perf,P1 Sg,P3 Pl,P2 Sg,Pos,nħsilthomlok
+Perf,P1 Sg,P3 Pl,P2 Sg,Neg,nħsilthomlokx
+Perf,P1 Sg,P3 Pl,P2 Pl,Pos,nħsilthomlkom
+Perf,P1 Sg,P3 Pl,P2 Pl,Neg,nħsilthomlkomx
+Perf,P1 Sg,P3 Pl,P3 Sg Masc,Pos,nħsilthomlu
+Perf,P1 Sg,P3 Pl,P3 Sg Masc,Neg,nħsilthomlux
+Perf,P1 Sg,P3 Pl,P3 Sg Fem,Pos,nħsilthomlha
+Perf,P1 Sg,P3 Pl,P3 Sg Fem,Neg,nħsilthomlhiex
+Perf,P1 Sg,P3 Pl,P3 Pl,Pos,nħsilthomlhom
+Perf,P1 Sg,P3 Pl,P3 Pl,Neg,nħsilthomlhomx
+Perf,P1 Pl,-,-,Pos,nħsilna
+Perf,P1 Pl,-,-,Neg,nħsilniex
+Perf,P1 Pl,P1 Sg,-,Pos,-
+Perf,P1 Pl,P1 Sg,-,Neg,-
+Perf,P1 Pl,P1 Pl,-,Pos,-
+Perf,P1 Pl,P1 Pl,-,Neg,-
+Perf,P1 Pl,P2 Sg,-,Pos,nħsilniek
+Perf,P1 Pl,P2 Sg,-,Neg,nħsilnikx
+Perf,P1 Pl,P2 Pl,-,Pos,nħsilniekom
+Perf,P1 Pl,P2 Pl,-,Neg,nħsilnikomx
+Perf,P1 Pl,P3 Sg Masc,-,Pos,nħsilnieh
+Perf,P1 Pl,P3 Sg Masc,-,Neg,nħsilnihx
+Perf,P1 Pl,P3 Sg Fem,-,Pos,nħsilnieha
+Perf,P1 Pl,P3 Sg Fem,-,Neg,nħsilnihiex
+Perf,P1 Pl,P3 Pl,-,Pos,nħsilniehom
+Perf,P1 Pl,P3 Pl,-,Neg,nħsilnihomx
+Perf,P1 Pl,-,P1 Sg,Pos,-
+Perf,P1 Pl,-,P1 Sg,Neg,-
+Perf,P1 Pl,-,P1 Pl,Pos,-
+Perf,P1 Pl,-,P1 Pl,Neg,-
+Perf,P1 Pl,-,P2 Sg,Pos,nħsilnielek
+Perf,P1 Pl,-,P2 Sg,Neg,nħsilnilekx
+Perf,P1 Pl,-,P2 Pl,Pos,nħsilnielkom
+Perf,P1 Pl,-,P2 Pl,Neg,nħsilnilkomx
+Perf,P1 Pl,-,P3 Sg Masc,Pos,nħsilnielu
+Perf,P1 Pl,-,P3 Sg Masc,Neg,nħsilnilux
+Perf,P1 Pl,-,P3 Sg Fem,Pos,nħsilnielha
+Perf,P1 Pl,-,P3 Sg Fem,Neg,nħsilnilhiex
+Perf,P1 Pl,-,P3 Pl,Pos,nħsilnielhom
+Perf,P1 Pl,-,P3 Pl,Neg,nħsilnilhomx
+Perf,P1 Pl,P3 Sg Masc,P1 Sg,Pos,-
+Perf,P1 Pl,P3 Sg Masc,P1 Sg,Neg,-
+Perf,P1 Pl,P3 Sg Masc,P1 Pl,Pos,-
+Perf,P1 Pl,P3 Sg Masc,P1 Pl,Neg,-
+Perf,P1 Pl,P3 Sg Masc,P2 Sg,Pos,nħsilnihulek
+Perf,P1 Pl,P3 Sg Masc,P2 Sg,Neg,nħsilnihulekx
+Perf,P1 Pl,P3 Sg Masc,P2 Pl,Pos,nħsilnihulkom
+Perf,P1 Pl,P3 Sg Masc,P2 Pl,Neg,nħsilnihulkomx
+Perf,P1 Pl,P3 Sg Masc,P3 Sg Masc,Pos,nħsilnihulu
+Perf,P1 Pl,P3 Sg Masc,P3 Sg Masc,Neg,nħsilnihulux
+Perf,P1 Pl,P3 Sg Masc,P3 Sg Fem,Pos,nħsilnihulha
+Perf,P1 Pl,P3 Sg Masc,P3 Sg Fem,Neg,nħsilnihulhiex
+Perf,P1 Pl,P3 Sg Masc,P3 Pl,Pos,nħsilnihulhom
+Perf,P1 Pl,P3 Sg Masc,P3 Pl,Neg,nħsilnihulhomx
+Perf,P1 Pl,P3 Sg Fem,P1 Sg,Pos,-
+Perf,P1 Pl,P3 Sg Fem,P1 Sg,Neg,-
+Perf,P1 Pl,P3 Sg Fem,P1 Pl,Pos,-
+Perf,P1 Pl,P3 Sg Fem,P1 Pl,Neg,-
+Perf,P1 Pl,P3 Sg Fem,P2 Sg,Pos,nħsilnihielek
+Perf,P1 Pl,P3 Sg Fem,P2 Sg,Neg,nħsilnihilekx
+Perf,P1 Pl,P3 Sg Fem,P2 Pl,Pos,nħsilnihielkom
+Perf,P1 Pl,P3 Sg Fem,P2 Pl,Neg,nħsilnihilkomx
+Perf,P1 Pl,P3 Sg Fem,P3 Sg Masc,Pos,nħsilnihielu
+Perf,P1 Pl,P3 Sg Fem,P3 Sg Masc,Neg,nħsilnihilux
+Perf,P1 Pl,P3 Sg Fem,P3 Sg Fem,Pos,nħsilnihielha
+Perf,P1 Pl,P3 Sg Fem,P3 Sg Fem,Neg,nħsilnihilhiex
+Perf,P1 Pl,P3 Sg Fem,P3 Pl,Pos,nħsilnihielhom
+Perf,P1 Pl,P3 Sg Fem,P3 Pl,Neg,nħsilnihilhomx
+Perf,P1 Pl,P3 Pl,P1 Sg,Pos,-
+Perf,P1 Pl,P3 Pl,P1 Sg,Neg,-
+Perf,P1 Pl,P3 Pl,P1 Pl,Pos,-
+Perf,P1 Pl,P3 Pl,P1 Pl,Neg,-
+Perf,P1 Pl,P3 Pl,P2 Sg,Pos,nħsilnihomlok
+Perf,P1 Pl,P3 Pl,P2 Sg,Neg,nħsilnihomlokx
+Perf,P1 Pl,P3 Pl,P2 Pl,Pos,nħsilnihomlkom
+Perf,P1 Pl,P3 Pl,P2 Pl,Neg,nħsilnihomlkomx
+Perf,P1 Pl,P3 Pl,P3 Sg Masc,Pos,nħsilnihomlu
+Perf,P1 Pl,P3 Pl,P3 Sg Masc,Neg,nħsilnihomlux
+Perf,P1 Pl,P3 Pl,P3 Sg Fem,Pos,nħsilnihomlha
+Perf,P1 Pl,P3 Pl,P3 Sg Fem,Neg,nħsilnihomlhiex
+Perf,P1 Pl,P3 Pl,P3 Pl,Pos,nħsilnihomlhom
+Perf,P1 Pl,P3 Pl,P3 Pl,Neg,nħsilnihomlhomx
+Perf,P2 Sg,-,-,Pos,nħsilt
+Perf,P2 Sg,-,-,Neg,nħsiltx
+Perf,P2 Sg,P1 Sg,-,Pos,nħsiltni
+Perf,P2 Sg,P1 Sg,-,Neg,nħsiltnix
+Perf,P2 Sg,P1 Pl,-,Pos,nħsiltna
+Perf,P2 Sg,P1 Pl,-,Neg,nħsiltniex
+Perf,P2 Sg,P2 Sg,-,Pos,-
+Perf,P2 Sg,P2 Sg,-,Neg,-
+Perf,P2 Sg,P2 Pl,-,Pos,-
+Perf,P2 Sg,P2 Pl,-,Neg,-
+Perf,P2 Sg,P3 Sg Masc,-,Pos,nħsiltu
+Perf,P2 Sg,P3 Sg Masc,-,Neg,nħsiltux
+Perf,P2 Sg,P3 Sg Fem,-,Pos,nħsiltha
+Perf,P2 Sg,P3 Sg Fem,-,Neg,nħsilthiex
+Perf,P2 Sg,P3 Pl,-,Pos,nħsilthom
+Perf,P2 Sg,P3 Pl,-,Neg,nħsilthomx
+Perf,P2 Sg,-,P1 Sg,Pos,nħsiltli
+Perf,P2 Sg,-,P1 Sg,Neg,nħsiltlix
+Perf,P2 Sg,-,P1 Pl,Pos,nħsiltilna
+Perf,P2 Sg,-,P1 Pl,Neg,nħsiltilniex
+Perf,P2 Sg,-,P2 Sg,Pos,-
+Perf,P2 Sg,-,P2 Sg,Neg,-
+Perf,P2 Sg,-,P2 Pl,Pos,-
+Perf,P2 Sg,-,P2 Pl,Neg,-
+Perf,P2 Sg,-,P3 Sg Masc,Pos,nħsiltlu
+Perf,P2 Sg,-,P3 Sg Masc,Neg,nħsiltlux
+Perf,P2 Sg,-,P3 Sg Fem,Pos,nħsiltilha
+Perf,P2 Sg,-,P3 Sg Fem,Neg,nħsiltilhiex
+Perf,P2 Sg,-,P3 Pl,Pos,nħsiltilhom
+Perf,P2 Sg,-,P3 Pl,Neg,nħsiltilhomx
+Perf,P2 Sg,P3 Sg Masc,P1 Sg,Pos,nħsilthuli
+Perf,P2 Sg,P3 Sg Masc,P1 Sg,Neg,nħsilthulix
+Perf,P2 Sg,P3 Sg Masc,P1 Pl,Pos,nħsilthulna
+Perf,P2 Sg,P3 Sg Masc,P1 Pl,Neg,nħsilthulniex
+Perf,P2 Sg,P3 Sg Masc,P2 Sg,Pos,-
+Perf,P2 Sg,P3 Sg Masc,P2 Sg,Neg,-
+Perf,P2 Sg,P3 Sg Masc,P2 Pl,Pos,-
+Perf,P2 Sg,P3 Sg Masc,P2 Pl,Neg,-
+Perf,P2 Sg,P3 Sg Masc,P3 Sg Masc,Pos,nħsilthulu
+Perf,P2 Sg,P3 Sg Masc,P3 Sg Masc,Neg,nħsilthulux
+Perf,P2 Sg,P3 Sg Masc,P3 Sg Fem,Pos,nħsilthulha
+Perf,P2 Sg,P3 Sg Masc,P3 Sg Fem,Neg,nħsilthulhiex
+Perf,P2 Sg,P3 Sg Masc,P3 Pl,Pos,nħsilthulhom
+Perf,P2 Sg,P3 Sg Masc,P3 Pl,Neg,nħsilthulhomx
+Perf,P2 Sg,P3 Sg Fem,P1 Sg,Pos,nħsilthieli
+Perf,P2 Sg,P3 Sg Fem,P1 Sg,Neg,nħsilthilix
+Perf,P2 Sg,P3 Sg Fem,P1 Pl,Pos,nħsilthielna
+Perf,P2 Sg,P3 Sg Fem,P1 Pl,Neg,nħsilthilniex
+Perf,P2 Sg,P3 Sg Fem,P2 Sg,Pos,-
+Perf,P2 Sg,P3 Sg Fem,P2 Sg,Neg,-
+Perf,P2 Sg,P3 Sg Fem,P2 Pl,Pos,-
+Perf,P2 Sg,P3 Sg Fem,P2 Pl,Neg,-
+Perf,P2 Sg,P3 Sg Fem,P3 Sg Masc,Pos,nħsilthielu
+Perf,P2 Sg,P3 Sg Fem,P3 Sg Masc,Neg,nħsilthilux
+Perf,P2 Sg,P3 Sg Fem,P3 Sg Fem,Pos,nħsilthielha
+Perf,P2 Sg,P3 Sg Fem,P3 Sg Fem,Neg,nħsilthilhiex
+Perf,P2 Sg,P3 Sg Fem,P3 Pl,Pos,nħsilthielhom
+Perf,P2 Sg,P3 Sg Fem,P3 Pl,Neg,nħsilthilhomx
+Perf,P2 Sg,P3 Pl,P1 Sg,Pos,nħsilthomli
+Perf,P2 Sg,P3 Pl,P1 Sg,Neg,nħsilthomlix
+Perf,P2 Sg,P3 Pl,P1 Pl,Pos,nħsilthomlna
+Perf,P2 Sg,P3 Pl,P1 Pl,Neg,nħsilthomlniex
+Perf,P2 Sg,P3 Pl,P2 Sg,Pos,-
+Perf,P2 Sg,P3 Pl,P2 Sg,Neg,-
+Perf,P2 Sg,P3 Pl,P2 Pl,Pos,-
+Perf,P2 Sg,P3 Pl,P2 Pl,Neg,-
+Perf,P2 Sg,P3 Pl,P3 Sg Masc,Pos,nħsilthomlu
+Perf,P2 Sg,P3 Pl,P3 Sg Masc,Neg,nħsilthomlux
+Perf,P2 Sg,P3 Pl,P3 Sg Fem,Pos,nħsilthomlha
+Perf,P2 Sg,P3 Pl,P3 Sg Fem,Neg,nħsilthomlhiex
+Perf,P2 Sg,P3 Pl,P3 Pl,Pos,nħsilthomlhom
+Perf,P2 Sg,P3 Pl,P3 Pl,Neg,nħsilthomlhomx
+Perf,P2 Pl,-,-,Pos,nħsiltu
+Perf,P2 Pl,-,-,Neg,nħsiltux
+Perf,P2 Pl,P1 Sg,-,Pos,nħsiltuni
+Perf,P2 Pl,P1 Sg,-,Neg,nħsiltunix
+Perf,P2 Pl,P1 Pl,-,Pos,nħsiltuna
+Perf,P2 Pl,P1 Pl,-,Neg,nħsiltuniex
+Perf,P2 Pl,P2 Sg,-,Pos,-
+Perf,P2 Pl,P2 Sg,-,Neg,-
+Perf,P2 Pl,P2 Pl,-,Pos,-
+Perf,P2 Pl,P2 Pl,-,Neg,-
+Perf,P2 Pl,P3 Sg Masc,-,Pos,nħsiltuh
+Perf,P2 Pl,P3 Sg Masc,-,Neg,nħsiltuhx
+Perf,P2 Pl,P3 Sg Fem,-,Pos,nħsiltuha
+Perf,P2 Pl,P3 Sg Fem,-,Neg,nħsiltuhiex
+Perf,P2 Pl,P3 Pl,-,Pos,nħsiltuhom
+Perf,P2 Pl,P3 Pl,-,Neg,nħsiltuhomx
+Perf,P2 Pl,-,P1 Sg,Pos,nħsiltuli
+Perf,P2 Pl,-,P1 Sg,Neg,nħsiltulix
+Perf,P2 Pl,-,P1 Pl,Pos,nħsiltulna
+Perf,P2 Pl,-,P1 Pl,Neg,nħsiltulniex
+Perf,P2 Pl,-,P2 Sg,Pos,-
+Perf,P2 Pl,-,P2 Sg,Neg,-
+Perf,P2 Pl,-,P2 Pl,Pos,-
+Perf,P2 Pl,-,P2 Pl,Neg,-
+Perf,P2 Pl,-,P3 Sg Masc,Pos,nħsiltulu
+Perf,P2 Pl,-,P3 Sg Masc,Neg,nħsiltulux
+Perf,P2 Pl,-,P3 Sg Fem,Pos,nħsiltulha
+Perf,P2 Pl,-,P3 Sg Fem,Neg,nħsiltulhiex
+Perf,P2 Pl,-,P3 Pl,Pos,nħsiltulhom
+Perf,P2 Pl,-,P3 Pl,Neg,nħsiltulhomx
+Perf,P2 Pl,P3 Sg Masc,P1 Sg,Pos,nħsiltuhuli
+Perf,P2 Pl,P3 Sg Masc,P1 Sg,Neg,nħsiltuhulix
+Perf,P2 Pl,P3 Sg Masc,P1 Pl,Pos,nħsiltuhulna
+Perf,P2 Pl,P3 Sg Masc,P1 Pl,Neg,nħsiltuhulniex
+Perf,P2 Pl,P3 Sg Masc,P2 Sg,Pos,-
+Perf,P2 Pl,P3 Sg Masc,P2 Sg,Neg,-
+Perf,P2 Pl,P3 Sg Masc,P2 Pl,Pos,-
+Perf,P2 Pl,P3 Sg Masc,P2 Pl,Neg,-
+Perf,P2 Pl,P3 Sg Masc,P3 Sg Masc,Pos,nħsiltuhulu
+Perf,P2 Pl,P3 Sg Masc,P3 Sg Masc,Neg,nħsiltuhulux
+Perf,P2 Pl,P3 Sg Masc,P3 Sg Fem,Pos,nħsiltuhulha
+Perf,P2 Pl,P3 Sg Masc,P3 Sg Fem,Neg,nħsiltuhulhiex
+Perf,P2 Pl,P3 Sg Masc,P3 Pl,Pos,nħsiltuhulhom
+Perf,P2 Pl,P3 Sg Masc,P3 Pl,Neg,nħsiltuhulhomx
+Perf,P2 Pl,P3 Sg Fem,P1 Sg,Pos,nħsiltuhieli
+Perf,P2 Pl,P3 Sg Fem,P1 Sg,Neg,nħsiltuhilix
+Perf,P2 Pl,P3 Sg Fem,P1 Pl,Pos,nħsiltuhielna
+Perf,P2 Pl,P3 Sg Fem,P1 Pl,Neg,nħsiltuhilniex
+Perf,P2 Pl,P3 Sg Fem,P2 Sg,Pos,-
+Perf,P2 Pl,P3 Sg Fem,P2 Sg,Neg,-
+Perf,P2 Pl,P3 Sg Fem,P2 Pl,Pos,-
+Perf,P2 Pl,P3 Sg Fem,P2 Pl,Neg,-
+Perf,P2 Pl,P3 Sg Fem,P3 Sg Masc,Pos,nħsiltuhielu
+Perf,P2 Pl,P3 Sg Fem,P3 Sg Masc,Neg,nħsiltuhilux
+Perf,P2 Pl,P3 Sg Fem,P3 Sg Fem,Pos,nħsiltuhielha
+Perf,P2 Pl,P3 Sg Fem,P3 Sg Fem,Neg,nħsiltuhilhiex
+Perf,P2 Pl,P3 Sg Fem,P3 Pl,Pos,nħsiltuhielhom
+Perf,P2 Pl,P3 Sg Fem,P3 Pl,Neg,nħsiltuhilhomx
+Perf,P2 Pl,P3 Pl,P1 Sg,Pos,nħsiltuhomli
+Perf,P2 Pl,P3 Pl,P1 Sg,Neg,nħsiltuhomlix
+Perf,P2 Pl,P3 Pl,P1 Pl,Pos,nħsiltuhomlna
+Perf,P2 Pl,P3 Pl,P1 Pl,Neg,nħsiltuhomlniex
+Perf,P2 Pl,P3 Pl,P2 Sg,Pos,-
+Perf,P2 Pl,P3 Pl,P2 Sg,Neg,-
+Perf,P2 Pl,P3 Pl,P2 Pl,Pos,-
+Perf,P2 Pl,P3 Pl,P2 Pl,Neg,-
+Perf,P2 Pl,P3 Pl,P3 Sg Masc,Pos,nħsiltuhomlu
+Perf,P2 Pl,P3 Pl,P3 Sg Masc,Neg,nħsiltuhomlux
+Perf,P2 Pl,P3 Pl,P3 Sg Fem,Pos,nħsiltuhomlha
+Perf,P2 Pl,P3 Pl,P3 Sg Fem,Neg,nħsiltuhomlhiex
+Perf,P2 Pl,P3 Pl,P3 Pl,Pos,nħsiltuhomlhom
+Perf,P2 Pl,P3 Pl,P3 Pl,Neg,nħsiltuhomlhomx
+Perf,P3 Sg Masc,-,-,Pos,nħasel
+Perf,P3 Sg Masc,-,-,Neg,nħasilx
+Perf,P3 Sg Masc,P1 Sg,-,Pos,nħasilni
+Perf,P3 Sg Masc,P1 Sg,-,Neg,nħasilnix
+Perf,P3 Sg Masc,P1 Pl,-,Pos,nħasilna
+Perf,P3 Sg Masc,P1 Pl,-,Neg,nħasilniex
+Perf,P3 Sg Masc,P2 Sg,-,Pos,nħaslek
+Perf,P3 Sg Masc,P2 Sg,-,Neg,nħaslekx
+Perf,P3 Sg Masc,P2 Pl,-,Pos,nħasilkom
+Perf,P3 Sg Masc,P2 Pl,-,Neg,nħasilkomx
+Perf,P3 Sg Masc,P3 Sg Masc,-,Pos,nħaslu
+Perf,P3 Sg Masc,P3 Sg Masc,-,Neg,nħaslux
+Perf,P3 Sg Masc,P3 Sg Fem,-,Pos,nħasilha
+Perf,P3 Sg Masc,P3 Sg Fem,-,Neg,nħasilhiex
+Perf,P3 Sg Masc,P3 Pl,-,Pos,nħasilhom
+Perf,P3 Sg Masc,P3 Pl,-,Neg,nħasilhomx
+Perf,P3 Sg Masc,-,P1 Sg,Pos,nħasilli
+Perf,P3 Sg Masc,-,P1 Sg,Neg,nħasillix
+Perf,P3 Sg Masc,-,P1 Pl,Pos,nħaslilna
+Perf,P3 Sg Masc,-,P1 Pl,Neg,nħaslilniex
+Perf,P3 Sg Masc,-,P2 Sg,Pos,nħasillek
+Perf,P3 Sg Masc,-,P2 Sg,Neg,nħasillekx
+Perf,P3 Sg Masc,-,P2 Pl,Pos,nħaslilkom
+Perf,P3 Sg Masc,-,P2 Pl,Neg,nħaslilkomx
+Perf,P3 Sg Masc,-,P3 Sg Masc,Pos,nħasillu
+Perf,P3 Sg Masc,-,P3 Sg Masc,Neg,nħasillux
+Perf,P3 Sg Masc,-,P3 Sg Fem,Pos,nħaslilha
+Perf,P3 Sg Masc,-,P3 Sg Fem,Neg,nħaslilhiex
+Perf,P3 Sg Masc,-,P3 Pl,Pos,nħaslilhom
+Perf,P3 Sg Masc,-,P3 Pl,Neg,nħaslilhomx
+Perf,P3 Sg Masc,P3 Sg Masc,P1 Sg,Pos,nħasilhuli
+Perf,P3 Sg Masc,P3 Sg Masc,P1 Sg,Neg,nħasilhulix
+Perf,P3 Sg Masc,P3 Sg Masc,P1 Pl,Pos,nħasilhulna
+Perf,P3 Sg Masc,P3 Sg Masc,P1 Pl,Neg,nħasilhulniex
+Perf,P3 Sg Masc,P3 Sg Masc,P2 Sg,Pos,nħasilhulek
+Perf,P3 Sg Masc,P3 Sg Masc,P2 Sg,Neg,nħasilhulekx
+Perf,P3 Sg Masc,P3 Sg Masc,P2 Pl,Pos,nħasilhulkom
+Perf,P3 Sg Masc,P3 Sg Masc,P2 Pl,Neg,nħasilhulkomx
+Perf,P3 Sg Masc,P3 Sg Masc,P3 Sg Masc,Pos,nħasilhulu
+Perf,P3 Sg Masc,P3 Sg Masc,P3 Sg Masc,Neg,nħasilhulux
+Perf,P3 Sg Masc,P3 Sg Masc,P3 Sg Fem,Pos,nħasilhulha
+Perf,P3 Sg Masc,P3 Sg Masc,P3 Sg Fem,Neg,nħasilhulhiex
+Perf,P3 Sg Masc,P3 Sg Masc,P3 Pl,Pos,nħasilhulhom
+Perf,P3 Sg Masc,P3 Sg Masc,P3 Pl,Neg,nħasilhulhomx
+Perf,P3 Sg Masc,P3 Sg Fem,P1 Sg,Pos,nħasilhieli
+Perf,P3 Sg Masc,P3 Sg Fem,P1 Sg,Neg,nħasilhilix
+Perf,P3 Sg Masc,P3 Sg Fem,P1 Pl,Pos,nħasilhielna
+Perf,P3 Sg Masc,P3 Sg Fem,P1 Pl,Neg,nħasilhilniex
+Perf,P3 Sg Masc,P3 Sg Fem,P2 Sg,Pos,nħasilhielek
+Perf,P3 Sg Masc,P3 Sg Fem,P2 Sg,Neg,nħasilhilekx
+Perf,P3 Sg Masc,P3 Sg Fem,P2 Pl,Pos,nħasilhielkom
+Perf,P3 Sg Masc,P3 Sg Fem,P2 Pl,Neg,nħasilhilkomx
+Perf,P3 Sg Masc,P3 Sg Fem,P3 Sg Masc,Pos,nħasilhielu
+Perf,P3 Sg Masc,P3 Sg Fem,P3 Sg Masc,Neg,nħasilhilux
+Perf,P3 Sg Masc,P3 Sg Fem,P3 Sg Fem,Pos,nħasilhielha
+Perf,P3 Sg Masc,P3 Sg Fem,P3 Sg Fem,Neg,nħasilhilhiex
+Perf,P3 Sg Masc,P3 Sg Fem,P3 Pl,Pos,nħasilhielhom
+Perf,P3 Sg Masc,P3 Sg Fem,P3 Pl,Neg,nħasilhilhomx
+Perf,P3 Sg Masc,P3 Pl,P1 Sg,Pos,nħasilhomli
+Perf,P3 Sg Masc,P3 Pl,P1 Sg,Neg,nħasilhomlix
+Perf,P3 Sg Masc,P3 Pl,P1 Pl,Pos,nħasilhomlna
+Perf,P3 Sg Masc,P3 Pl,P1 Pl,Neg,nħasilhomlniex
+Perf,P3 Sg Masc,P3 Pl,P2 Sg,Pos,nħasilhomlok
+Perf,P3 Sg Masc,P3 Pl,P2 Sg,Neg,nħasilhomlokx
+Perf,P3 Sg Masc,P3 Pl,P2 Pl,Pos,nħasilhomlkom
+Perf,P3 Sg Masc,P3 Pl,P2 Pl,Neg,nħasilhomlkomx
+Perf,P3 Sg Masc,P3 Pl,P3 Sg Masc,Pos,nħasilhomlu
+Perf,P3 Sg Masc,P3 Pl,P3 Sg Masc,Neg,nħasilhomlux
+Perf,P3 Sg Masc,P3 Pl,P3 Sg Fem,Pos,nħasilhomlha
+Perf,P3 Sg Masc,P3 Pl,P3 Sg Fem,Neg,nħasilhomlhiex
+Perf,P3 Sg Masc,P3 Pl,P3 Pl,Pos,nħasilhomlhom
+Perf,P3 Sg Masc,P3 Pl,P3 Pl,Neg,nħasilhomlhomx
+Perf,P3 Sg Fem,-,-,Pos,nħaslet
+Perf,P3 Sg Fem,-,-,Neg,nħaslitx
+Perf,P3 Sg Fem,P1 Sg,-,Pos,nħaslitni
+Perf,P3 Sg Fem,P1 Sg,-,Neg,nħaslitnix
+Perf,P3 Sg Fem,P1 Pl,-,Pos,nħaslitna
+Perf,P3 Sg Fem,P1 Pl,-,Neg,nħaslitniex
+Perf,P3 Sg Fem,P2 Sg,-,Pos,nħaslitek
+Perf,P3 Sg Fem,P2 Sg,-,Neg,nħaslitekx
+Perf,P3 Sg Fem,P2 Pl,-,Pos,nħaslitkom
+Perf,P3 Sg Fem,P2 Pl,-,Neg,nħaslitkomx
+Perf,P3 Sg Fem,P3 Sg Masc,-,Pos,nħaslitu
+Perf,P3 Sg Fem,P3 Sg Masc,-,Neg,nħaslitux
+Perf,P3 Sg Fem,P3 Sg Fem,-,Pos,nħaslitha
+Perf,P3 Sg Fem,P3 Sg Fem,-,Neg,nħaslithiex
+Perf,P3 Sg Fem,P3 Pl,-,Pos,nħaslithom
+Perf,P3 Sg Fem,P3 Pl,-,Neg,nħaslithomx
+Perf,P3 Sg Fem,-,P1 Sg,Pos,nħaslitli
+Perf,P3 Sg Fem,-,P1 Sg,Neg,nħaslitlix
+Perf,P3 Sg Fem,-,P1 Pl,Pos,nħaslitilna
+Perf,P3 Sg Fem,-,P1 Pl,Neg,nħaslitilniex
+Perf,P3 Sg Fem,-,P2 Sg,Pos,nħaslitlek
+Perf,P3 Sg Fem,-,P2 Sg,Neg,nħaslitlekx
+Perf,P3 Sg Fem,-,P2 Pl,Pos,nħaslitilkom
+Perf,P3 Sg Fem,-,P2 Pl,Neg,nħaslitilkomx
+Perf,P3 Sg Fem,-,P3 Sg Masc,Pos,nħaslitlu
+Perf,P3 Sg Fem,-,P3 Sg Masc,Neg,nħaslitlux
+Perf,P3 Sg Fem,-,P3 Sg Fem,Pos,nħaslitilha
+Perf,P3 Sg Fem,-,P3 Sg Fem,Neg,nħaslitilhiex
+Perf,P3 Sg Fem,-,P3 Pl,Pos,nħaslitilhom
+Perf,P3 Sg Fem,-,P3 Pl,Neg,nħaslitilhomx
+Perf,P3 Sg Fem,P3 Sg Masc,P1 Sg,Pos,nħaslithuli
+Perf,P3 Sg Fem,P3 Sg Masc,P1 Sg,Neg,nħaslithulix
+Perf,P3 Sg Fem,P3 Sg Masc,P1 Pl,Pos,nħaslithulna
+Perf,P3 Sg Fem,P3 Sg Masc,P1 Pl,Neg,nħaslithulniex
+Perf,P3 Sg Fem,P3 Sg Masc,P2 Sg,Pos,nħaslithulek
+Perf,P3 Sg Fem,P3 Sg Masc,P2 Sg,Neg,nħaslithulekx
+Perf,P3 Sg Fem,P3 Sg Masc,P2 Pl,Pos,nħaslithulkom
+Perf,P3 Sg Fem,P3 Sg Masc,P2 Pl,Neg,nħaslithulkomx
+Perf,P3 Sg Fem,P3 Sg Masc,P3 Sg Masc,Pos,nħaslithulu
+Perf,P3 Sg Fem,P3 Sg Masc,P3 Sg Masc,Neg,nħaslithulux
+Perf,P3 Sg Fem,P3 Sg Masc,P3 Sg Fem,Pos,nħaslithulha
+Perf,P3 Sg Fem,P3 Sg Masc,P3 Sg Fem,Neg,nħaslithulhiex
+Perf,P3 Sg Fem,P3 Sg Masc,P3 Pl,Pos,nħaslithulhom
+Perf,P3 Sg Fem,P3 Sg Masc,P3 Pl,Neg,nħaslithulhomx
+Perf,P3 Sg Fem,P3 Sg Fem,P1 Sg,Pos,nħaslithieli
+Perf,P3 Sg Fem,P3 Sg Fem,P1 Sg,Neg,nħaslithilix
+Perf,P3 Sg Fem,P3 Sg Fem,P1 Pl,Pos,nħaslithielna
+Perf,P3 Sg Fem,P3 Sg Fem,P1 Pl,Neg,nħaslithilniex
+Perf,P3 Sg Fem,P3 Sg Fem,P2 Sg,Pos,nħaslithielek
+Perf,P3 Sg Fem,P3 Sg Fem,P2 Sg,Neg,nħaslithilekx
+Perf,P3 Sg Fem,P3 Sg Fem,P2 Pl,Pos,nħaslithielkom
+Perf,P3 Sg Fem,P3 Sg Fem,P2 Pl,Neg,nħaslithilkomx
+Perf,P3 Sg Fem,P3 Sg Fem,P3 Sg Masc,Pos,nħaslithielu
+Perf,P3 Sg Fem,P3 Sg Fem,P3 Sg Masc,Neg,nħaslithilux
+Perf,P3 Sg Fem,P3 Sg Fem,P3 Sg Fem,Pos,nħaslithielha
+Perf,P3 Sg Fem,P3 Sg Fem,P3 Sg Fem,Neg,nħaslithilhiex
+Perf,P3 Sg Fem,P3 Sg Fem,P3 Pl,Pos,nħaslithielhom
+Perf,P3 Sg Fem,P3 Sg Fem,P3 Pl,Neg,nħaslithilhomx
+Perf,P3 Sg Fem,P3 Pl,P1 Sg,Pos,nħaslithomli
+Perf,P3 Sg Fem,P3 Pl,P1 Sg,Neg,nħaslithomlix
+Perf,P3 Sg Fem,P3 Pl,P1 Pl,Pos,nħaslithomlna
+Perf,P3 Sg Fem,P3 Pl,P1 Pl,Neg,nħaslithomlniex
+Perf,P3 Sg Fem,P3 Pl,P2 Sg,Pos,nħaslithomlok
+Perf,P3 Sg Fem,P3 Pl,P2 Sg,Neg,nħaslithomlokx
+Perf,P3 Sg Fem,P3 Pl,P2 Pl,Pos,nħaslithomlkom
+Perf,P3 Sg Fem,P3 Pl,P2 Pl,Neg,nħaslithomlkomx
+Perf,P3 Sg Fem,P3 Pl,P3 Sg Masc,Pos,nħaslithomlu
+Perf,P3 Sg Fem,P3 Pl,P3 Sg Masc,Neg,nħaslithomlux
+Perf,P3 Sg Fem,P3 Pl,P3 Sg Fem,Pos,nħaslithomlha
+Perf,P3 Sg Fem,P3 Pl,P3 Sg Fem,Neg,nħaslithomlhiex
+Perf,P3 Sg Fem,P3 Pl,P3 Pl,Pos,nħaslithomlhom
+Perf,P3 Sg Fem,P3 Pl,P3 Pl,Neg,nħaslithomlhomx
+Perf,P3 Pl,-,-,Pos,nħaslu
+Perf,P3 Pl,-,-,Neg,nħaslux
+Perf,P3 Pl,P1 Sg,-,Pos,nħasluni
+Perf,P3 Pl,P1 Sg,-,Neg,nħaslunix
+Perf,P3 Pl,P1 Pl,-,Pos,nħasluna
+Perf,P3 Pl,P1 Pl,-,Neg,nħasluniex
+Perf,P3 Pl,P2 Sg,-,Pos,nħasluk
+Perf,P3 Pl,P2 Sg,-,Neg,nħaslukx
+Perf,P3 Pl,P2 Pl,-,Pos,nħaslukom
+Perf,P3 Pl,P2 Pl,-,Neg,nħaslukomx
+Perf,P3 Pl,P3 Sg Masc,-,Pos,nħasluh
+Perf,P3 Pl,P3 Sg Masc,-,Neg,nħasluhx
+Perf,P3 Pl,P3 Sg Fem,-,Pos,nħasluha
+Perf,P3 Pl,P3 Sg Fem,-,Neg,nħasluhiex
+Perf,P3 Pl,P3 Pl,-,Pos,nħasluhom
+Perf,P3 Pl,P3 Pl,-,Neg,nħasluhomx
+Perf,P3 Pl,-,P1 Sg,Pos,nħasluli
+Perf,P3 Pl,-,P1 Sg,Neg,nħaslulix
+Perf,P3 Pl,-,P1 Pl,Pos,nħaslulna
+Perf,P3 Pl,-,P1 Pl,Neg,nħaslulniex
+Perf,P3 Pl,-,P2 Sg,Pos,nħaslulek
+Perf,P3 Pl,-,P2 Sg,Neg,nħaslulekx
+Perf,P3 Pl,-,P2 Pl,Pos,nħaslulkom
+Perf,P3 Pl,-,P2 Pl,Neg,nħaslulkomx
+Perf,P3 Pl,-,P3 Sg Masc,Pos,nħaslulu
+Perf,P3 Pl,-,P3 Sg Masc,Neg,nħaslulux
+Perf,P3 Pl,-,P3 Sg Fem,Pos,nħaslulha
+Perf,P3 Pl,-,P3 Sg Fem,Neg,nħaslulhiex
+Perf,P3 Pl,-,P3 Pl,Pos,nħaslulhom
+Perf,P3 Pl,-,P3 Pl,Neg,nħaslulhomx
+Perf,P3 Pl,P3 Sg Masc,P1 Sg,Pos,nħasluhuli
+Perf,P3 Pl,P3 Sg Masc,P1 Sg,Neg,nħasluhulix
+Perf,P3 Pl,P3 Sg Masc,P1 Pl,Pos,nħasluhulna
+Perf,P3 Pl,P3 Sg Masc,P1 Pl,Neg,nħasluhulniex
+Perf,P3 Pl,P3 Sg Masc,P2 Sg,Pos,nħasluhulek
+Perf,P3 Pl,P3 Sg Masc,P2 Sg,Neg,nħasluhulekx
+Perf,P3 Pl,P3 Sg Masc,P2 Pl,Pos,nħasluhulkom
+Perf,P3 Pl,P3 Sg Masc,P2 Pl,Neg,nħasluhulkomx
+Perf,P3 Pl,P3 Sg Masc,P3 Sg Masc,Pos,nħasluhulu
+Perf,P3 Pl,P3 Sg Masc,P3 Sg Masc,Neg,nħasluhulux
+Perf,P3 Pl,P3 Sg Masc,P3 Sg Fem,Pos,nħasluhulha
+Perf,P3 Pl,P3 Sg Masc,P3 Sg Fem,Neg,nħasluhulhiex
+Perf,P3 Pl,P3 Sg Masc,P3 Pl,Pos,nħasluhulhom
+Perf,P3 Pl,P3 Sg Masc,P3 Pl,Neg,nħasluhulhomx
+Perf,P3 Pl,P3 Sg Fem,P1 Sg,Pos,nħasluhieli
+Perf,P3 Pl,P3 Sg Fem,P1 Sg,Neg,nħasluhilix
+Perf,P3 Pl,P3 Sg Fem,P1 Pl,Pos,nħasluhielna
+Perf,P3 Pl,P3 Sg Fem,P1 Pl,Neg,nħasluhilniex
+Perf,P3 Pl,P3 Sg Fem,P2 Sg,Pos,nħasluhielek
+Perf,P3 Pl,P3 Sg Fem,P2 Sg,Neg,nħasluhilekx
+Perf,P3 Pl,P3 Sg Fem,P2 Pl,Pos,nħasluhielkom
+Perf,P3 Pl,P3 Sg Fem,P2 Pl,Neg,nħasluhilkomx
+Perf,P3 Pl,P3 Sg Fem,P3 Sg Masc,Pos,nħasluhielu
+Perf,P3 Pl,P3 Sg Fem,P3 Sg Masc,Neg,nħasluhilux
+Perf,P3 Pl,P3 Sg Fem,P3 Sg Fem,Pos,nħasluhielha
+Perf,P3 Pl,P3 Sg Fem,P3 Sg Fem,Neg,nħasluhilhiex
+Perf,P3 Pl,P3 Sg Fem,P3 Pl,Pos,nħasluhielhom
+Perf,P3 Pl,P3 Sg Fem,P3 Pl,Neg,nħasluhilhomx
+Perf,P3 Pl,P3 Pl,P1 Sg,Pos,nħasluhomli
+Perf,P3 Pl,P3 Pl,P1 Sg,Neg,nħasluhomlix
+Perf,P3 Pl,P3 Pl,P1 Pl,Pos,nħasluhomlna
+Perf,P3 Pl,P3 Pl,P1 Pl,Neg,nħasluhomlniex
+Perf,P3 Pl,P3 Pl,P2 Sg,Pos,nħasluhomlok
+Perf,P3 Pl,P3 Pl,P2 Sg,Neg,nħasluhomlokx
+Perf,P3 Pl,P3 Pl,P2 Pl,Pos,nħasluhomlkom
+Perf,P3 Pl,P3 Pl,P2 Pl,Neg,nħasluhomlkomx
+Perf,P3 Pl,P3 Pl,P3 Sg Masc,Pos,nħasluhomlu
+Perf,P3 Pl,P3 Pl,P3 Sg Masc,Neg,nħasluhomlux
+Perf,P3 Pl,P3 Pl,P3 Sg Fem,Pos,nħasluhomlha
+Perf,P3 Pl,P3 Pl,P3 Sg Fem,Neg,nħasluhomlhiex
+Perf,P3 Pl,P3 Pl,P3 Pl,Pos,nħasluhomlhom
+Perf,P3 Pl,P3 Pl,P3 Pl,Neg,nħasluhomlhomx
+Impf,P1 Sg,-,-,Pos,ninħasel
+Impf,P1 Sg,-,-,Neg,ninħasilx
+Impf,P1 Sg,P1 Sg,-,Pos,-
+Impf,P1 Sg,P1 Sg,-,Neg,-
+Impf,P1 Sg,P1 Pl,-,Pos,-
+Impf,P1 Sg,P1 Pl,-,Neg,-
+Impf,P1 Sg,P2 Sg,-,Pos,ninħaslek
+Impf,P1 Sg,P2 Sg,-,Neg,ninħaslekx
+Impf,P1 Sg,P2 Pl,-,Pos,ninħasilkom
+Impf,P1 Sg,P2 Pl,-,Neg,ninħasilkomx
+Impf,P1 Sg,P3 Sg Masc,-,Pos,ninħaslu
+Impf,P1 Sg,P3 Sg Masc,-,Neg,ninħaslux
+Impf,P1 Sg,P3 Sg Fem,-,Pos,ninħasilha
+Impf,P1 Sg,P3 Sg Fem,-,Neg,ninħasilhiex
+Impf,P1 Sg,P3 Pl,-,Pos,ninħasilhom
+Impf,P1 Sg,P3 Pl,-,Neg,ninħasilhomx
+Impf,P1 Sg,-,P1 Sg,Pos,-
+Impf,P1 Sg,-,P1 Sg,Neg,-
+Impf,P1 Sg,-,P1 Pl,Pos,-
+Impf,P1 Sg,-,P1 Pl,Neg,-
+Impf,P1 Sg,-,P2 Sg,Pos,ninħasillek
+Impf,P1 Sg,-,P2 Sg,Neg,ninħasillekx
+Impf,P1 Sg,-,P2 Pl,Pos,ninħaslilkom
+Impf,P1 Sg,-,P2 Pl,Neg,ninħaslilkomx
+Impf,P1 Sg,-,P3 Sg Masc,Pos,ninħasillu
+Impf,P1 Sg,-,P3 Sg Masc,Neg,ninħasillux
+Impf,P1 Sg,-,P3 Sg Fem,Pos,ninħaslilha
+Impf,P1 Sg,-,P3 Sg Fem,Neg,ninħaslilhiex
+Impf,P1 Sg,-,P3 Pl,Pos,ninħaslilhom
+Impf,P1 Sg,-,P3 Pl,Neg,ninħaslilhomx
+Impf,P1 Sg,P3 Sg Masc,P1 Sg,Pos,-
+Impf,P1 Sg,P3 Sg Masc,P1 Sg,Neg,-
+Impf,P1 Sg,P3 Sg Masc,P1 Pl,Pos,-
+Impf,P1 Sg,P3 Sg Masc,P1 Pl,Neg,-
+Impf,P1 Sg,P3 Sg Masc,P2 Sg,Pos,ninħasilhulek
+Impf,P1 Sg,P3 Sg Masc,P2 Sg,Neg,ninħasilhulekx
+Impf,P1 Sg,P3 Sg Masc,P2 Pl,Pos,ninħasilhulkom
+Impf,P1 Sg,P3 Sg Masc,P2 Pl,Neg,ninħasilhulkomx
+Impf,P1 Sg,P3 Sg Masc,P3 Sg Masc,Pos,ninħasilhulu
+Impf,P1 Sg,P3 Sg Masc,P3 Sg Masc,Neg,ninħasilhulux
+Impf,P1 Sg,P3 Sg Masc,P3 Sg Fem,Pos,ninħasilhulha
+Impf,P1 Sg,P3 Sg Masc,P3 Sg Fem,Neg,ninħasilhulhiex
+Impf,P1 Sg,P3 Sg Masc,P3 Pl,Pos,ninħasilhulhom
+Impf,P1 Sg,P3 Sg Masc,P3 Pl,Neg,ninħasilhulhomx
+Impf,P1 Sg,P3 Sg Fem,P1 Sg,Pos,-
+Impf,P1 Sg,P3 Sg Fem,P1 Sg,Neg,-
+Impf,P1 Sg,P3 Sg Fem,P1 Pl,Pos,-
+Impf,P1 Sg,P3 Sg Fem,P1 Pl,Neg,-
+Impf,P1 Sg,P3 Sg Fem,P2 Sg,Pos,ninħasilhielek
+Impf,P1 Sg,P3 Sg Fem,P2 Sg,Neg,ninħasilhilekx
+Impf,P1 Sg,P3 Sg Fem,P2 Pl,Pos,ninħasilhielkom
+Impf,P1 Sg,P3 Sg Fem,P2 Pl,Neg,ninħasilhilkomx
+Impf,P1 Sg,P3 Sg Fem,P3 Sg Masc,Pos,ninħasilhielu
+Impf,P1 Sg,P3 Sg Fem,P3 Sg Masc,Neg,ninħasilhilux
+Impf,P1 Sg,P3 Sg Fem,P3 Sg Fem,Pos,ninħasilhielha
+Impf,P1 Sg,P3 Sg Fem,P3 Sg Fem,Neg,ninħasilhilhiex
+Impf,P1 Sg,P3 Sg Fem,P3 Pl,Pos,ninħasilhielhom
+Impf,P1 Sg,P3 Sg Fem,P3 Pl,Neg,ninħasilhilhomx
+Impf,P1 Sg,P3 Pl,P1 Sg,Pos,-
+Impf,P1 Sg,P3 Pl,P1 Sg,Neg,-
+Impf,P1 Sg,P3 Pl,P1 Pl,Pos,-
+Impf,P1 Sg,P3 Pl,P1 Pl,Neg,-
+Impf,P1 Sg,P3 Pl,P2 Sg,Pos,ninħasilhomlok
+Impf,P1 Sg,P3 Pl,P2 Sg,Neg,ninħasilhomlokx
+Impf,P1 Sg,P3 Pl,P2 Pl,Pos,ninħasilhomlkom
+Impf,P1 Sg,P3 Pl,P2 Pl,Neg,ninħasilhomlkomx
+Impf,P1 Sg,P3 Pl,P3 Sg Masc,Pos,ninħasilhomlu
+Impf,P1 Sg,P3 Pl,P3 Sg Masc,Neg,ninħasilhomlux
+Impf,P1 Sg,P3 Pl,P3 Sg Fem,Pos,ninħasilhomlha
+Impf,P1 Sg,P3 Pl,P3 Sg Fem,Neg,ninħasilhomlhiex
+Impf,P1 Sg,P3 Pl,P3 Pl,Pos,ninħasilhomlhom
+Impf,P1 Sg,P3 Pl,P3 Pl,Neg,ninħasilhomlhomx
+Impf,P1 Pl,-,-,Pos,ninħaslu
+Impf,P1 Pl,-,-,Neg,ninħaslux
+Impf,P1 Pl,P1 Sg,-,Pos,-
+Impf,P1 Pl,P1 Sg,-,Neg,-
+Impf,P1 Pl,P1 Pl,-,Pos,-
+Impf,P1 Pl,P1 Pl,-,Neg,-
+Impf,P1 Pl,P2 Sg,-,Pos,ninħasluk
+Impf,P1 Pl,P2 Sg,-,Neg,ninħaslukx
+Impf,P1 Pl,P2 Pl,-,Pos,ninħaslukom
+Impf,P1 Pl,P2 Pl,-,Neg,ninħaslukomx
+Impf,P1 Pl,P3 Sg Masc,-,Pos,ninħasluh
+Impf,P1 Pl,P3 Sg Masc,-,Neg,ninħasluhx
+Impf,P1 Pl,P3 Sg Fem,-,Pos,ninħasluha
+Impf,P1 Pl,P3 Sg Fem,-,Neg,ninħasluhiex
+Impf,P1 Pl,P3 Pl,-,Pos,ninħasluhom
+Impf,P1 Pl,P3 Pl,-,Neg,ninħasluhomx
+Impf,P1 Pl,-,P1 Sg,Pos,-
+Impf,P1 Pl,-,P1 Sg,Neg,-
+Impf,P1 Pl,-,P1 Pl,Pos,-
+Impf,P1 Pl,-,P1 Pl,Neg,-
+Impf,P1 Pl,-,P2 Sg,Pos,ninħaslulek
+Impf,P1 Pl,-,P2 Sg,Neg,ninħaslulekx
+Impf,P1 Pl,-,P2 Pl,Pos,ninħaslulkom
+Impf,P1 Pl,-,P2 Pl,Neg,ninħaslulkomx
+Impf,P1 Pl,-,P3 Sg Masc,Pos,ninħaslulu
+Impf,P1 Pl,-,P3 Sg Masc,Neg,ninħaslulux
+Impf,P1 Pl,-,P3 Sg Fem,Pos,ninħaslulha
+Impf,P1 Pl,-,P3 Sg Fem,Neg,ninħaslulhiex
+Impf,P1 Pl,-,P3 Pl,Pos,ninħaslulhom
+Impf,P1 Pl,-,P3 Pl,Neg,ninħaslulhomx
+Impf,P1 Pl,P3 Sg Masc,P1 Sg,Pos,-
+Impf,P1 Pl,P3 Sg Masc,P1 Sg,Neg,-
+Impf,P1 Pl,P3 Sg Masc,P1 Pl,Pos,-
+Impf,P1 Pl,P3 Sg Masc,P1 Pl,Neg,-
+Impf,P1 Pl,P3 Sg Masc,P2 Sg,Pos,ninħasluhulek
+Impf,P1 Pl,P3 Sg Masc,P2 Sg,Neg,ninħasluhulekx
+Impf,P1 Pl,P3 Sg Masc,P2 Pl,Pos,ninħasluhulkom
+Impf,P1 Pl,P3 Sg Masc,P2 Pl,Neg,ninħasluhulkomx
+Impf,P1 Pl,P3 Sg Masc,P3 Sg Masc,Pos,ninħasluhulu
+Impf,P1 Pl,P3 Sg Masc,P3 Sg Masc,Neg,ninħasluhulux
+Impf,P1 Pl,P3 Sg Masc,P3 Sg Fem,Pos,ninħasluhulha
+Impf,P1 Pl,P3 Sg Masc,P3 Sg Fem,Neg,ninħasluhulhiex
+Impf,P1 Pl,P3 Sg Masc,P3 Pl,Pos,ninħasluhulhom
+Impf,P1 Pl,P3 Sg Masc,P3 Pl,Neg,ninħasluhulhomx
+Impf,P1 Pl,P3 Sg Fem,P1 Sg,Pos,-
+Impf,P1 Pl,P3 Sg Fem,P1 Sg,Neg,-
+Impf,P1 Pl,P3 Sg Fem,P1 Pl,Pos,-
+Impf,P1 Pl,P3 Sg Fem,P1 Pl,Neg,-
+Impf,P1 Pl,P3 Sg Fem,P2 Sg,Pos,ninħasluhielek
+Impf,P1 Pl,P3 Sg Fem,P2 Sg,Neg,ninħasluhilekx
+Impf,P1 Pl,P3 Sg Fem,P2 Pl,Pos,ninħasluhielkom
+Impf,P1 Pl,P3 Sg Fem,P2 Pl,Neg,ninħasluhilkomx
+Impf,P1 Pl,P3 Sg Fem,P3 Sg Masc,Pos,ninħasluhielu
+Impf,P1 Pl,P3 Sg Fem,P3 Sg Masc,Neg,ninħasluhilux
+Impf,P1 Pl,P3 Sg Fem,P3 Sg Fem,Pos,ninħasluhielha
+Impf,P1 Pl,P3 Sg Fem,P3 Sg Fem,Neg,ninħasluhilhiex
+Impf,P1 Pl,P3 Sg Fem,P3 Pl,Pos,ninħasluhielhom
+Impf,P1 Pl,P3 Sg Fem,P3 Pl,Neg,ninħasluhilhomx
+Impf,P1 Pl,P3 Pl,P1 Sg,Pos,-
+Impf,P1 Pl,P3 Pl,P1 Sg,Neg,-
+Impf,P1 Pl,P3 Pl,P1 Pl,Pos,-
+Impf,P1 Pl,P3 Pl,P1 Pl,Neg,-
+Impf,P1 Pl,P3 Pl,P2 Sg,Pos,ninħasluhomlok
+Impf,P1 Pl,P3 Pl,P2 Sg,Neg,ninħasluhomlokx
+Impf,P1 Pl,P3 Pl,P2 Pl,Pos,ninħasluhomlkom
+Impf,P1 Pl,P3 Pl,P2 Pl,Neg,ninħasluhomlkomx
+Impf,P1 Pl,P3 Pl,P3 Sg Masc,Pos,ninħasluhomlu
+Impf,P1 Pl,P3 Pl,P3 Sg Masc,Neg,ninħasluhomlux
+Impf,P1 Pl,P3 Pl,P3 Sg Fem,Pos,ninħasluhomlha
+Impf,P1 Pl,P3 Pl,P3 Sg Fem,Neg,ninħasluhomlhiex
+Impf,P1 Pl,P3 Pl,P3 Pl,Pos,ninħasluhomlhom
+Impf,P1 Pl,P3 Pl,P3 Pl,Neg,ninħasluhomlhomx
+Impf,P2 Sg,-,-,Pos,tinħasel
+Impf,P2 Sg,-,-,Neg,tinħasilx
+Impf,P2 Sg,P1 Sg,-,Pos,tinħasilni
+Impf,P2 Sg,P1 Sg,-,Neg,tinħasilnix
+Impf,P2 Sg,P1 Pl,-,Pos,tinħasilna
+Impf,P2 Sg,P1 Pl,-,Neg,tinħasilniex
+Impf,P2 Sg,P2 Sg,-,Pos,-
+Impf,P2 Sg,P2 Sg,-,Neg,-
+Impf,P2 Sg,P2 Pl,-,Pos,-
+Impf,P2 Sg,P2 Pl,-,Neg,-
+Impf,P2 Sg,P3 Sg Masc,-,Pos,tinħaslu
+Impf,P2 Sg,P3 Sg Masc,-,Neg,tinħaslux
+Impf,P2 Sg,P3 Sg Fem,-,Pos,tinħasilha
+Impf,P2 Sg,P3 Sg Fem,-,Neg,tinħasilhiex
+Impf,P2 Sg,P3 Pl,-,Pos,tinħasilhom
+Impf,P2 Sg,P3 Pl,-,Neg,tinħasilhomx
+Impf,P2 Sg,-,P1 Sg,Pos,tinħasilli
+Impf,P2 Sg,-,P1 Sg,Neg,tinħasillix
+Impf,P2 Sg,-,P1 Pl,Pos,tinħaslilna
+Impf,P2 Sg,-,P1 Pl,Neg,tinħaslilniex
+Impf,P2 Sg,-,P2 Sg,Pos,-
+Impf,P2 Sg,-,P2 Sg,Neg,-
+Impf,P2 Sg,-,P2 Pl,Pos,-
+Impf,P2 Sg,-,P2 Pl,Neg,-
+Impf,P2 Sg,-,P3 Sg Masc,Pos,tinħasillu
+Impf,P2 Sg,-,P3 Sg Masc,Neg,tinħasillux
+Impf,P2 Sg,-,P3 Sg Fem,Pos,tinħaslilha
+Impf,P2 Sg,-,P3 Sg Fem,Neg,tinħaslilhiex
+Impf,P2 Sg,-,P3 Pl,Pos,tinħaslilhom
+Impf,P2 Sg,-,P3 Pl,Neg,tinħaslilhomx
+Impf,P2 Sg,P3 Sg Masc,P1 Sg,Pos,tinħasilhuli
+Impf,P2 Sg,P3 Sg Masc,P1 Sg,Neg,tinħasilhulix
+Impf,P2 Sg,P3 Sg Masc,P1 Pl,Pos,tinħasilhulna
+Impf,P2 Sg,P3 Sg Masc,P1 Pl,Neg,tinħasilhulniex
+Impf,P2 Sg,P3 Sg Masc,P2 Sg,Pos,-
+Impf,P2 Sg,P3 Sg Masc,P2 Sg,Neg,-
+Impf,P2 Sg,P3 Sg Masc,P2 Pl,Pos,-
+Impf,P2 Sg,P3 Sg Masc,P2 Pl,Neg,-
+Impf,P2 Sg,P3 Sg Masc,P3 Sg Masc,Pos,tinħasilhulu
+Impf,P2 Sg,P3 Sg Masc,P3 Sg Masc,Neg,tinħasilhulux
+Impf,P2 Sg,P3 Sg Masc,P3 Sg Fem,Pos,tinħasilhulha
+Impf,P2 Sg,P3 Sg Masc,P3 Sg Fem,Neg,tinħasilhulhiex
+Impf,P2 Sg,P3 Sg Masc,P3 Pl,Pos,tinħasilhulhom
+Impf,P2 Sg,P3 Sg Masc,P3 Pl,Neg,tinħasilhulhomx
+Impf,P2 Sg,P3 Sg Fem,P1 Sg,Pos,tinħasilhieli
+Impf,P2 Sg,P3 Sg Fem,P1 Sg,Neg,tinħasilhilix
+Impf,P2 Sg,P3 Sg Fem,P1 Pl,Pos,tinħasilhielna
+Impf,P2 Sg,P3 Sg Fem,P1 Pl,Neg,tinħasilhilniex
+Impf,P2 Sg,P3 Sg Fem,P2 Sg,Pos,-
+Impf,P2 Sg,P3 Sg Fem,P2 Sg,Neg,-
+Impf,P2 Sg,P3 Sg Fem,P2 Pl,Pos,-
+Impf,P2 Sg,P3 Sg Fem,P2 Pl,Neg,-
+Impf,P2 Sg,P3 Sg Fem,P3 Sg Masc,Pos,tinħasilhielu
+Impf,P2 Sg,P3 Sg Fem,P3 Sg Masc,Neg,tinħasilhilux
+Impf,P2 Sg,P3 Sg Fem,P3 Sg Fem,Pos,tinħasilhielha
+Impf,P2 Sg,P3 Sg Fem,P3 Sg Fem,Neg,tinħasilhilhiex
+Impf,P2 Sg,P3 Sg Fem,P3 Pl,Pos,tinħasilhielhom
+Impf,P2 Sg,P3 Sg Fem,P3 Pl,Neg,tinħasilhilhomx
+Impf,P2 Sg,P3 Pl,P1 Sg,Pos,tinħasilhomli
+Impf,P2 Sg,P3 Pl,P1 Sg,Neg,tinħasilhomlix
+Impf,P2 Sg,P3 Pl,P1 Pl,Pos,tinħasilhomlna
+Impf,P2 Sg,P3 Pl,P1 Pl,Neg,tinħasilhomlniex
+Impf,P2 Sg,P3 Pl,P2 Sg,Pos,-
+Impf,P2 Sg,P3 Pl,P2 Sg,Neg,-
+Impf,P2 Sg,P3 Pl,P2 Pl,Pos,-
+Impf,P2 Sg,P3 Pl,P2 Pl,Neg,-
+Impf,P2 Sg,P3 Pl,P3 Sg Masc,Pos,tinħasilhomlu
+Impf,P2 Sg,P3 Pl,P3 Sg Masc,Neg,tinħasilhomlux
+Impf,P2 Sg,P3 Pl,P3 Sg Fem,Pos,tinħasilhomlha
+Impf,P2 Sg,P3 Pl,P3 Sg Fem,Neg,tinħasilhomlhiex
+Impf,P2 Sg,P3 Pl,P3 Pl,Pos,tinħasilhomlhom
+Impf,P2 Sg,P3 Pl,P3 Pl,Neg,tinħasilhomlhomx
+Impf,P2 Pl,-,-,Pos,tinħaslu
+Impf,P2 Pl,-,-,Neg,tinħaslux
+Impf,P2 Pl,P1 Sg,-,Pos,tinħasluni
+Impf,P2 Pl,P1 Sg,-,Neg,tinħaslunix
+Impf,P2 Pl,P1 Pl,-,Pos,tinħasluna
+Impf,P2 Pl,P1 Pl,-,Neg,tinħasluniex
+Impf,P2 Pl,P2 Sg,-,Pos,-
+Impf,P2 Pl,P2 Sg,-,Neg,-
+Impf,P2 Pl,P2 Pl,-,Pos,-
+Impf,P2 Pl,P2 Pl,-,Neg,-
+Impf,P2 Pl,P3 Sg Masc,-,Pos,tinħasluh
+Impf,P2 Pl,P3 Sg Masc,-,Neg,tinħasluhx
+Impf,P2 Pl,P3 Sg Fem,-,Pos,tinħasluha
+Impf,P2 Pl,P3 Sg Fem,-,Neg,tinħasluhiex
+Impf,P2 Pl,P3 Pl,-,Pos,tinħasluhom
+Impf,P2 Pl,P3 Pl,-,Neg,tinħasluhomx
+Impf,P2 Pl,-,P1 Sg,Pos,tinħasluli
+Impf,P2 Pl,-,P1 Sg,Neg,tinħaslulix
+Impf,P2 Pl,-,P1 Pl,Pos,tinħaslulna
+Impf,P2 Pl,-,P1 Pl,Neg,tinħaslulniex
+Impf,P2 Pl,-,P2 Sg,Pos,-
+Impf,P2 Pl,-,P2 Sg,Neg,-
+Impf,P2 Pl,-,P2 Pl,Pos,-
+Impf,P2 Pl,-,P2 Pl,Neg,-
+Impf,P2 Pl,-,P3 Sg Masc,Pos,tinħaslulu
+Impf,P2 Pl,-,P3 Sg Masc,Neg,tinħaslulux
+Impf,P2 Pl,-,P3 Sg Fem,Pos,tinħaslulha
+Impf,P2 Pl,-,P3 Sg Fem,Neg,tinħaslulhiex
+Impf,P2 Pl,-,P3 Pl,Pos,tinħaslulhom
+Impf,P2 Pl,-,P3 Pl,Neg,tinħaslulhomx
+Impf,P2 Pl,P3 Sg Masc,P1 Sg,Pos,tinħasluhuli
+Impf,P2 Pl,P3 Sg Masc,P1 Sg,Neg,tinħasluhulix
+Impf,P2 Pl,P3 Sg Masc,P1 Pl,Pos,tinħasluhulna
+Impf,P2 Pl,P3 Sg Masc,P1 Pl,Neg,tinħasluhulniex
+Impf,P2 Pl,P3 Sg Masc,P2 Sg,Pos,-
+Impf,P2 Pl,P3 Sg Masc,P2 Sg,Neg,-
+Impf,P2 Pl,P3 Sg Masc,P2 Pl,Pos,-
+Impf,P2 Pl,P3 Sg Masc,P2 Pl,Neg,-
+Impf,P2 Pl,P3 Sg Masc,P3 Sg Masc,Pos,tinħasluhulu
+Impf,P2 Pl,P3 Sg Masc,P3 Sg Masc,Neg,tinħasluhulux
+Impf,P2 Pl,P3 Sg Masc,P3 Sg Fem,Pos,tinħasluhulha
+Impf,P2 Pl,P3 Sg Masc,P3 Sg Fem,Neg,tinħasluhulhiex
+Impf,P2 Pl,P3 Sg Masc,P3 Pl,Pos,tinħasluhulhom
+Impf,P2 Pl,P3 Sg Masc,P3 Pl,Neg,tinħasluhulhomx
+Impf,P2 Pl,P3 Sg Fem,P1 Sg,Pos,tinħasluhieli
+Impf,P2 Pl,P3 Sg Fem,P1 Sg,Neg,tinħasluhilix
+Impf,P2 Pl,P3 Sg Fem,P1 Pl,Pos,tinħasluhielna
+Impf,P2 Pl,P3 Sg Fem,P1 Pl,Neg,tinħasluhilniex
+Impf,P2 Pl,P3 Sg Fem,P2 Sg,Pos,-
+Impf,P2 Pl,P3 Sg Fem,P2 Sg,Neg,-
+Impf,P2 Pl,P3 Sg Fem,P2 Pl,Pos,-
+Impf,P2 Pl,P3 Sg Fem,P2 Pl,Neg,-
+Impf,P2 Pl,P3 Sg Fem,P3 Sg Masc,Pos,tinħasluhielu
+Impf,P2 Pl,P3 Sg Fem,P3 Sg Masc,Neg,tinħasluhilux
+Impf,P2 Pl,P3 Sg Fem,P3 Sg Fem,Pos,tinħasluhielha
+Impf,P2 Pl,P3 Sg Fem,P3 Sg Fem,Neg,tinħasluhilhiex
+Impf,P2 Pl,P3 Sg Fem,P3 Pl,Pos,tinħasluhielhom
+Impf,P2 Pl,P3 Sg Fem,P3 Pl,Neg,tinħasluhilhomx
+Impf,P2 Pl,P3 Pl,P1 Sg,Pos,tinħasluhomli
+Impf,P2 Pl,P3 Pl,P1 Sg,Neg,tinħasluhomlix
+Impf,P2 Pl,P3 Pl,P1 Pl,Pos,tinħasluhomlna
+Impf,P2 Pl,P3 Pl,P1 Pl,Neg,tinħasluhomlniex
+Impf,P2 Pl,P3 Pl,P2 Sg,Pos,-
+Impf,P2 Pl,P3 Pl,P2 Sg,Neg,-
+Impf,P2 Pl,P3 Pl,P2 Pl,Pos,-
+Impf,P2 Pl,P3 Pl,P2 Pl,Neg,-
+Impf,P2 Pl,P3 Pl,P3 Sg Masc,Pos,tinħasluhomlu
+Impf,P2 Pl,P3 Pl,P3 Sg Masc,Neg,tinħasluhomlux
+Impf,P2 Pl,P3 Pl,P3 Sg Fem,Pos,tinħasluhomlha
+Impf,P2 Pl,P3 Pl,P3 Sg Fem,Neg,tinħasluhomlhiex
+Impf,P2 Pl,P3 Pl,P3 Pl,Pos,tinħasluhomlhom
+Impf,P2 Pl,P3 Pl,P3 Pl,Neg,tinħasluhomlhomx
+Impf,P3 Sg Masc,-,-,Pos,jinħasel
+Impf,P3 Sg Masc,-,-,Neg,jinħasilx
+Impf,P3 Sg Masc,P1 Sg,-,Pos,jinħasilni
+Impf,P3 Sg Masc,P1 Sg,-,Neg,jinħasilnix
+Impf,P3 Sg Masc,P1 Pl,-,Pos,jinħasilna
+Impf,P3 Sg Masc,P1 Pl,-,Neg,jinħasilniex
+Impf,P3 Sg Masc,P2 Sg,-,Pos,jinħaslek
+Impf,P3 Sg Masc,P2 Sg,-,Neg,jinħaslekx
+Impf,P3 Sg Masc,P2 Pl,-,Pos,jinħasilkom
+Impf,P3 Sg Masc,P2 Pl,-,Neg,jinħasilkomx
+Impf,P3 Sg Masc,P3 Sg Masc,-,Pos,jinħaslu
+Impf,P3 Sg Masc,P3 Sg Masc,-,Neg,jinħaslux
+Impf,P3 Sg Masc,P3 Sg Fem,-,Pos,jinħasilha
+Impf,P3 Sg Masc,P3 Sg Fem,-,Neg,jinħasilhiex
+Impf,P3 Sg Masc,P3 Pl,-,Pos,jinħasilhom
+Impf,P3 Sg Masc,P3 Pl,-,Neg,jinħasilhomx
+Impf,P3 Sg Masc,-,P1 Sg,Pos,jinħasilli
+Impf,P3 Sg Masc,-,P1 Sg,Neg,jinħasillix
+Impf,P3 Sg Masc,-,P1 Pl,Pos,jinħaslilna
+Impf,P3 Sg Masc,-,P1 Pl,Neg,jinħaslilniex
+Impf,P3 Sg Masc,-,P2 Sg,Pos,jinħasillek
+Impf,P3 Sg Masc,-,P2 Sg,Neg,jinħasillekx
+Impf,P3 Sg Masc,-,P2 Pl,Pos,jinħaslilkom
+Impf,P3 Sg Masc,-,P2 Pl,Neg,jinħaslilkomx
+Impf,P3 Sg Masc,-,P3 Sg Masc,Pos,jinħasillu
+Impf,P3 Sg Masc,-,P3 Sg Masc,Neg,jinħasillux
+Impf,P3 Sg Masc,-,P3 Sg Fem,Pos,jinħaslilha
+Impf,P3 Sg Masc,-,P3 Sg Fem,Neg,jinħaslilhiex
+Impf,P3 Sg Masc,-,P3 Pl,Pos,jinħaslilhom
+Impf,P3 Sg Masc,-,P3 Pl,Neg,jinħaslilhomx
+Impf,P3 Sg Masc,P3 Sg Masc,P1 Sg,Pos,jinħasilhuli
+Impf,P3 Sg Masc,P3 Sg Masc,P1 Sg,Neg,jinħasilhulix
+Impf,P3 Sg Masc,P3 Sg Masc,P1 Pl,Pos,jinħasilhulna
+Impf,P3 Sg Masc,P3 Sg Masc,P1 Pl,Neg,jinħasilhulniex
+Impf,P3 Sg Masc,P3 Sg Masc,P2 Sg,Pos,jinħasilhulek
+Impf,P3 Sg Masc,P3 Sg Masc,P2 Sg,Neg,jinħasilhulekx
+Impf,P3 Sg Masc,P3 Sg Masc,P2 Pl,Pos,jinħasilhulkom
+Impf,P3 Sg Masc,P3 Sg Masc,P2 Pl,Neg,jinħasilhulkomx
+Impf,P3 Sg Masc,P3 Sg Masc,P3 Sg Masc,Pos,jinħasilhulu
+Impf,P3 Sg Masc,P3 Sg Masc,P3 Sg Masc,Neg,jinħasilhulux
+Impf,P3 Sg Masc,P3 Sg Masc,P3 Sg Fem,Pos,jinħasilhulha
+Impf,P3 Sg Masc,P3 Sg Masc,P3 Sg Fem,Neg,jinħasilhulhiex
+Impf,P3 Sg Masc,P3 Sg Masc,P3 Pl,Pos,jinħasilhulhom
+Impf,P3 Sg Masc,P3 Sg Masc,P3 Pl,Neg,jinħasilhulhomx
+Impf,P3 Sg Masc,P3 Sg Fem,P1 Sg,Pos,jinħasilhieli
+Impf,P3 Sg Masc,P3 Sg Fem,P1 Sg,Neg,jinħasilhilix
+Impf,P3 Sg Masc,P3 Sg Fem,P1 Pl,Pos,jinħasilhielna
+Impf,P3 Sg Masc,P3 Sg Fem,P1 Pl,Neg,jinħasilhilniex
+Impf,P3 Sg Masc,P3 Sg Fem,P2 Sg,Pos,jinħasilhielek
+Impf,P3 Sg Masc,P3 Sg Fem,P2 Sg,Neg,jinħasilhilekx
+Impf,P3 Sg Masc,P3 Sg Fem,P2 Pl,Pos,jinħasilhielkom
+Impf,P3 Sg Masc,P3 Sg Fem,P2 Pl,Neg,jinħasilhilkomx
+Impf,P3 Sg Masc,P3 Sg Fem,P3 Sg Masc,Pos,jinħasilhielu
+Impf,P3 Sg Masc,P3 Sg Fem,P3 Sg Masc,Neg,jinħasilhilux
+Impf,P3 Sg Masc,P3 Sg Fem,P3 Sg Fem,Pos,jinħasilhielha
+Impf,P3 Sg Masc,P3 Sg Fem,P3 Sg Fem,Neg,jinħasilhilhiex
+Impf,P3 Sg Masc,P3 Sg Fem,P3 Pl,Pos,jinħasilhielhom
+Impf,P3 Sg Masc,P3 Sg Fem,P3 Pl,Neg,jinħasilhilhomx
+Impf,P3 Sg Masc,P3 Pl,P1 Sg,Pos,jinħasilhomli
+Impf,P3 Sg Masc,P3 Pl,P1 Sg,Neg,jinħasilhomlix
+Impf,P3 Sg Masc,P3 Pl,P1 Pl,Pos,jinħasilhomlna
+Impf,P3 Sg Masc,P3 Pl,P1 Pl,Neg,jinħasilhomlniex
+Impf,P3 Sg Masc,P3 Pl,P2 Sg,Pos,jinħasilhomlok
+Impf,P3 Sg Masc,P3 Pl,P2 Sg,Neg,jinħasilhomlokx
+Impf,P3 Sg Masc,P3 Pl,P2 Pl,Pos,jinħasilhomlkom
+Impf,P3 Sg Masc,P3 Pl,P2 Pl,Neg,jinħasilhomlkomx
+Impf,P3 Sg Masc,P3 Pl,P3 Sg Masc,Pos,jinħasilhomlu
+Impf,P3 Sg Masc,P3 Pl,P3 Sg Masc,Neg,jinħasilhomlux
+Impf,P3 Sg Masc,P3 Pl,P3 Sg Fem,Pos,jinħasilhomlha
+Impf,P3 Sg Masc,P3 Pl,P3 Sg Fem,Neg,jinħasilhomlhiex
+Impf,P3 Sg Masc,P3 Pl,P3 Pl,Pos,jinħasilhomlhom
+Impf,P3 Sg Masc,P3 Pl,P3 Pl,Neg,jinħasilhomlhomx
+Impf,P3 Sg Fem,-,-,Pos,tinħasel
+Impf,P3 Sg Fem,-,-,Neg,tinħasilx
+Impf,P3 Sg Fem,P1 Sg,-,Pos,tinħasilni
+Impf,P3 Sg Fem,P1 Sg,-,Neg,tinħasilnix
+Impf,P3 Sg Fem,P1 Pl,-,Pos,tinħasilna
+Impf,P3 Sg Fem,P1 Pl,-,Neg,tinħasilniex
+Impf,P3 Sg Fem,P2 Sg,-,Pos,tinħaslek
+Impf,P3 Sg Fem,P2 Sg,-,Neg,tinħaslekx
+Impf,P3 Sg Fem,P2 Pl,-,Pos,tinħasilkom
+Impf,P3 Sg Fem,P2 Pl,-,Neg,tinħasilkomx
+Impf,P3 Sg Fem,P3 Sg Masc,-,Pos,tinħaslu
+Impf,P3 Sg Fem,P3 Sg Masc,-,Neg,tinħaslux
+Impf,P3 Sg Fem,P3 Sg Fem,-,Pos,tinħasilha
+Impf,P3 Sg Fem,P3 Sg Fem,-,Neg,tinħasilhiex
+Impf,P3 Sg Fem,P3 Pl,-,Pos,tinħasilhom
+Impf,P3 Sg Fem,P3 Pl,-,Neg,tinħasilhomx
+Impf,P3 Sg Fem,-,P1 Sg,Pos,tinħasilli
+Impf,P3 Sg Fem,-,P1 Sg,Neg,tinħasillix
+Impf,P3 Sg Fem,-,P1 Pl,Pos,tinħaslilna
+Impf,P3 Sg Fem,-,P1 Pl,Neg,tinħaslilniex
+Impf,P3 Sg Fem,-,P2 Sg,Pos,tinħasillek
+Impf,P3 Sg Fem,-,P2 Sg,Neg,tinħasillekx
+Impf,P3 Sg Fem,-,P2 Pl,Pos,tinħaslilkom
+Impf,P3 Sg Fem,-,P2 Pl,Neg,tinħaslilkomx
+Impf,P3 Sg Fem,-,P3 Sg Masc,Pos,tinħasillu
+Impf,P3 Sg Fem,-,P3 Sg Masc,Neg,tinħasillux
+Impf,P3 Sg Fem,-,P3 Sg Fem,Pos,tinħaslilha
+Impf,P3 Sg Fem,-,P3 Sg Fem,Neg,tinħaslilhiex
+Impf,P3 Sg Fem,-,P3 Pl,Pos,tinħaslilhom
+Impf,P3 Sg Fem,-,P3 Pl,Neg,tinħaslilhomx
+Impf,P3 Sg Fem,P3 Sg Masc,P1 Sg,Pos,tinħasilhuli
+Impf,P3 Sg Fem,P3 Sg Masc,P1 Sg,Neg,tinħasilhulix
+Impf,P3 Sg Fem,P3 Sg Masc,P1 Pl,Pos,tinħasilhulna
+Impf,P3 Sg Fem,P3 Sg Masc,P1 Pl,Neg,tinħasilhulniex
+Impf,P3 Sg Fem,P3 Sg Masc,P2 Sg,Pos,tinħasilhulek
+Impf,P3 Sg Fem,P3 Sg Masc,P2 Sg,Neg,tinħasilhulekx
+Impf,P3 Sg Fem,P3 Sg Masc,P2 Pl,Pos,tinħasilhulkom
+Impf,P3 Sg Fem,P3 Sg Masc,P2 Pl,Neg,tinħasilhulkomx
+Impf,P3 Sg Fem,P3 Sg Masc,P3 Sg Masc,Pos,tinħasilhulu
+Impf,P3 Sg Fem,P3 Sg Masc,P3 Sg Masc,Neg,tinħasilhulux
+Impf,P3 Sg Fem,P3 Sg Masc,P3 Sg Fem,Pos,tinħasilhulha
+Impf,P3 Sg Fem,P3 Sg Masc,P3 Sg Fem,Neg,tinħasilhulhiex
+Impf,P3 Sg Fem,P3 Sg Masc,P3 Pl,Pos,tinħasilhulhom
+Impf,P3 Sg Fem,P3 Sg Masc,P3 Pl,Neg,tinħasilhulhomx
+Impf,P3 Sg Fem,P3 Sg Fem,P1 Sg,Pos,tinħasilhieli
+Impf,P3 Sg Fem,P3 Sg Fem,P1 Sg,Neg,tinħasilhilix
+Impf,P3 Sg Fem,P3 Sg Fem,P1 Pl,Pos,tinħasilhielna
+Impf,P3 Sg Fem,P3 Sg Fem,P1 Pl,Neg,tinħasilhilniex
+Impf,P3 Sg Fem,P3 Sg Fem,P2 Sg,Pos,tinħasilhielek
+Impf,P3 Sg Fem,P3 Sg Fem,P2 Sg,Neg,tinħasilhilekx
+Impf,P3 Sg Fem,P3 Sg Fem,P2 Pl,Pos,tinħasilhielkom
+Impf,P3 Sg Fem,P3 Sg Fem,P2 Pl,Neg,tinħasilhilkomx
+Impf,P3 Sg Fem,P3 Sg Fem,P3 Sg Masc,Pos,tinħasilhielu
+Impf,P3 Sg Fem,P3 Sg Fem,P3 Sg Masc,Neg,tinħasilhilux
+Impf,P3 Sg Fem,P3 Sg Fem,P3 Sg Fem,Pos,tinħasilhielha
+Impf,P3 Sg Fem,P3 Sg Fem,P3 Sg Fem,Neg,tinħasilhilhiex
+Impf,P3 Sg Fem,P3 Sg Fem,P3 Pl,Pos,tinħasilhielhom
+Impf,P3 Sg Fem,P3 Sg Fem,P3 Pl,Neg,tinħasilhilhomx
+Impf,P3 Sg Fem,P3 Pl,P1 Sg,Pos,tinħasilhomli
+Impf,P3 Sg Fem,P3 Pl,P1 Sg,Neg,tinħasilhomlix
+Impf,P3 Sg Fem,P3 Pl,P1 Pl,Pos,tinħasilhomlna
+Impf,P3 Sg Fem,P3 Pl,P1 Pl,Neg,tinħasilhomlniex
+Impf,P3 Sg Fem,P3 Pl,P2 Sg,Pos,tinħasilhomlok
+Impf,P3 Sg Fem,P3 Pl,P2 Sg,Neg,tinħasilhomlokx
+Impf,P3 Sg Fem,P3 Pl,P2 Pl,Pos,tinħasilhomlkom
+Impf,P3 Sg Fem,P3 Pl,P2 Pl,Neg,tinħasilhomlkomx
+Impf,P3 Sg Fem,P3 Pl,P3 Sg Masc,Pos,tinħasilhomlu
+Impf,P3 Sg Fem,P3 Pl,P3 Sg Masc,Neg,tinħasilhomlux
+Impf,P3 Sg Fem,P3 Pl,P3 Sg Fem,Pos,tinħasilhomlha
+Impf,P3 Sg Fem,P3 Pl,P3 Sg Fem,Neg,tinħasilhomlhiex
+Impf,P3 Sg Fem,P3 Pl,P3 Pl,Pos,tinħasilhomlhom
+Impf,P3 Sg Fem,P3 Pl,P3 Pl,Neg,tinħasilhomlhomx
+Impf,P3 Pl,-,-,Pos,jinħaslu
+Impf,P3 Pl,-,-,Neg,jinħaslux
+Impf,P3 Pl,P1 Sg,-,Pos,jinħasluni
+Impf,P3 Pl,P1 Sg,-,Neg,jinħaslunix
+Impf,P3 Pl,P1 Pl,-,Pos,jinħasluna
+Impf,P3 Pl,P1 Pl,-,Neg,jinħasluniex
+Impf,P3 Pl,P2 Sg,-,Pos,jinħasluk
+Impf,P3 Pl,P2 Sg,-,Neg,jinħaslukx
+Impf,P3 Pl,P2 Pl,-,Pos,jinħaslukom
+Impf,P3 Pl,P2 Pl,-,Neg,jinħaslukomx
+Impf,P3 Pl,P3 Sg Masc,-,Pos,jinħasluh
+Impf,P3 Pl,P3 Sg Masc,-,Neg,jinħasluhx
+Impf,P3 Pl,P3 Sg Fem,-,Pos,jinħasluha
+Impf,P3 Pl,P3 Sg Fem,-,Neg,jinħasluhiex
+Impf,P3 Pl,P3 Pl,-,Pos,jinħasluhom
+Impf,P3 Pl,P3 Pl,-,Neg,jinħasluhomx
+Impf,P3 Pl,-,P1 Sg,Pos,jinħasluli
+Impf,P3 Pl,-,P1 Sg,Neg,jinħaslulix
+Impf,P3 Pl,-,P1 Pl,Pos,jinħaslulna
+Impf,P3 Pl,-,P1 Pl,Neg,jinħaslulniex
+Impf,P3 Pl,-,P2 Sg,Pos,jinħaslulek
+Impf,P3 Pl,-,P2 Sg,Neg,jinħaslulekx
+Impf,P3 Pl,-,P2 Pl,Pos,jinħaslulkom
+Impf,P3 Pl,-,P2 Pl,Neg,jinħaslulkomx
+Impf,P3 Pl,-,P3 Sg Masc,Pos,jinħaslulu
+Impf,P3 Pl,-,P3 Sg Masc,Neg,jinħaslulux
+Impf,P3 Pl,-,P3 Sg Fem,Pos,jinħaslulha
+Impf,P3 Pl,-,P3 Sg Fem,Neg,jinħaslulhiex
+Impf,P3 Pl,-,P3 Pl,Pos,jinħaslulhom
+Impf,P3 Pl,-,P3 Pl,Neg,jinħaslulhomx
+Impf,P3 Pl,P3 Sg Masc,P1 Sg,Pos,jinħasluhuli
+Impf,P3 Pl,P3 Sg Masc,P1 Sg,Neg,jinħasluhulix
+Impf,P3 Pl,P3 Sg Masc,P1 Pl,Pos,jinħasluhulna
+Impf,P3 Pl,P3 Sg Masc,P1 Pl,Neg,jinħasluhulniex
+Impf,P3 Pl,P3 Sg Masc,P2 Sg,Pos,jinħasluhulek
+Impf,P3 Pl,P3 Sg Masc,P2 Sg,Neg,jinħasluhulekx
+Impf,P3 Pl,P3 Sg Masc,P2 Pl,Pos,jinħasluhulkom
+Impf,P3 Pl,P3 Sg Masc,P2 Pl,Neg,jinħasluhulkomx
+Impf,P3 Pl,P3 Sg Masc,P3 Sg Masc,Pos,jinħasluhulu
+Impf,P3 Pl,P3 Sg Masc,P3 Sg Masc,Neg,jinħasluhulux
+Impf,P3 Pl,P3 Sg Masc,P3 Sg Fem,Pos,jinħasluhulha
+Impf,P3 Pl,P3 Sg Masc,P3 Sg Fem,Neg,jinħasluhulhiex
+Impf,P3 Pl,P3 Sg Masc,P3 Pl,Pos,jinħasluhulhom
+Impf,P3 Pl,P3 Sg Masc,P3 Pl,Neg,jinħasluhulhomx
+Impf,P3 Pl,P3 Sg Fem,P1 Sg,Pos,jinħasluhieli
+Impf,P3 Pl,P3 Sg Fem,P1 Sg,Neg,jinħasluhilix
+Impf,P3 Pl,P3 Sg Fem,P1 Pl,Pos,jinħasluhielna
+Impf,P3 Pl,P3 Sg Fem,P1 Pl,Neg,jinħasluhilniex
+Impf,P3 Pl,P3 Sg Fem,P2 Sg,Pos,jinħasluhielek
+Impf,P3 Pl,P3 Sg Fem,P2 Sg,Neg,jinħasluhilekx
+Impf,P3 Pl,P3 Sg Fem,P2 Pl,Pos,jinħasluhielkom
+Impf,P3 Pl,P3 Sg Fem,P2 Pl,Neg,jinħasluhilkomx
+Impf,P3 Pl,P3 Sg Fem,P3 Sg Masc,Pos,jinħasluhielu
+Impf,P3 Pl,P3 Sg Fem,P3 Sg Masc,Neg,jinħasluhilux
+Impf,P3 Pl,P3 Sg Fem,P3 Sg Fem,Pos,jinħasluhielha
+Impf,P3 Pl,P3 Sg Fem,P3 Sg Fem,Neg,jinħasluhilhiex
+Impf,P3 Pl,P3 Sg Fem,P3 Pl,Pos,jinħasluhielhom
+Impf,P3 Pl,P3 Sg Fem,P3 Pl,Neg,jinħasluhilhomx
+Impf,P3 Pl,P3 Pl,P1 Sg,Pos,jinħasluhomli
+Impf,P3 Pl,P3 Pl,P1 Sg,Neg,jinħasluhomlix
+Impf,P3 Pl,P3 Pl,P1 Pl,Pos,jinħasluhomlna
+Impf,P3 Pl,P3 Pl,P1 Pl,Neg,jinħasluhomlniex
+Impf,P3 Pl,P3 Pl,P2 Sg,Pos,jinħasluhomlok
+Impf,P3 Pl,P3 Pl,P2 Sg,Neg,jinħasluhomlokx
+Impf,P3 Pl,P3 Pl,P2 Pl,Pos,jinħasluhomlkom
+Impf,P3 Pl,P3 Pl,P2 Pl,Neg,jinħasluhomlkomx
+Impf,P3 Pl,P3 Pl,P3 Sg Masc,Pos,jinħasluhomlu
+Impf,P3 Pl,P3 Pl,P3 Sg Masc,Neg,jinħasluhomlux
+Impf,P3 Pl,P3 Pl,P3 Sg Fem,Pos,jinħasluhomlha
+Impf,P3 Pl,P3 Pl,P3 Sg Fem,Neg,jinħasluhomlhiex
+Impf,P3 Pl,P3 Pl,P3 Pl,Pos,jinħasluhomlhom
+Impf,P3 Pl,P3 Pl,P3 Pl,Neg,jinħasluhomlhomx
+Imp,P2 Sg,-,-,Pos,nħasel
+Imp,P2 Sg,-,-,Neg,nħasilx
+Imp,P2 Sg,P1 Sg,-,Pos,nħasilni
+Imp,P2 Sg,P1 Sg,-,Neg,nħasilnix
+Imp,P2 Sg,P1 Pl,-,Pos,nħasilna
+Imp,P2 Sg,P1 Pl,-,Neg,nħasilniex
+Imp,P2 Sg,P2 Sg,-,Pos,-
+Imp,P2 Sg,P2 Sg,-,Neg,-
+Imp,P2 Sg,P2 Pl,-,Pos,-
+Imp,P2 Sg,P2 Pl,-,Neg,-
+Imp,P2 Sg,P3 Sg Masc,-,Pos,nħaslu
+Imp,P2 Sg,P3 Sg Masc,-,Neg,nħaslux
+Imp,P2 Sg,P3 Sg Fem,-,Pos,nħasilha
+Imp,P2 Sg,P3 Sg Fem,-,Neg,nħasilhiex
+Imp,P2 Sg,P3 Pl,-,Pos,nħasilhom
+Imp,P2 Sg,P3 Pl,-,Neg,nħasilhomx
+Imp,P2 Sg,-,P1 Sg,Pos,nħasilli
+Imp,P2 Sg,-,P1 Sg,Neg,nħasillix
+Imp,P2 Sg,-,P1 Pl,Pos,nħaslilna
+Imp,P2 Sg,-,P1 Pl,Neg,nħaslilniex
+Imp,P2 Sg,-,P2 Sg,Pos,-
+Imp,P2 Sg,-,P2 Sg,Neg,-
+Imp,P2 Sg,-,P2 Pl,Pos,-
+Imp,P2 Sg,-,P2 Pl,Neg,-
+Imp,P2 Sg,-,P3 Sg Masc,Pos,nħasillu
+Imp,P2 Sg,-,P3 Sg Masc,Neg,nħasillux
+Imp,P2 Sg,-,P3 Sg Fem,Pos,nħaslilha
+Imp,P2 Sg,-,P3 Sg Fem,Neg,nħaslilhiex
+Imp,P2 Sg,-,P3 Pl,Pos,nħaslilhom
+Imp,P2 Sg,-,P3 Pl,Neg,nħaslilhomx
+Imp,P2 Sg,P3 Sg Masc,P1 Sg,Pos,nħasilhuli
+Imp,P2 Sg,P3 Sg Masc,P1 Sg,Neg,nħasilhulix
+Imp,P2 Sg,P3 Sg Masc,P1 Pl,Pos,nħasilhulna
+Imp,P2 Sg,P3 Sg Masc,P1 Pl,Neg,nħasilhulniex
+Imp,P2 Sg,P3 Sg Masc,P2 Sg,Pos,-
+Imp,P2 Sg,P3 Sg Masc,P2 Sg,Neg,-
+Imp,P2 Sg,P3 Sg Masc,P2 Pl,Pos,-
+Imp,P2 Sg,P3 Sg Masc,P2 Pl,Neg,-
+Imp,P2 Sg,P3 Sg Masc,P3 Sg Masc,Pos,nħasilhulu
+Imp,P2 Sg,P3 Sg Masc,P3 Sg Masc,Neg,nħasilhulux
+Imp,P2 Sg,P3 Sg Masc,P3 Sg Fem,Pos,nħasilhulha
+Imp,P2 Sg,P3 Sg Masc,P3 Sg Fem,Neg,nħasilhulhiex
+Imp,P2 Sg,P3 Sg Masc,P3 Pl,Pos,nħasilhulhom
+Imp,P2 Sg,P3 Sg Masc,P3 Pl,Neg,nħasilhulhomx
+Imp,P2 Sg,P3 Sg Fem,P1 Sg,Pos,nħasilhieli
+Imp,P2 Sg,P3 Sg Fem,P1 Sg,Neg,nħasilhilix
+Imp,P2 Sg,P3 Sg Fem,P1 Pl,Pos,nħasilhielna
+Imp,P2 Sg,P3 Sg Fem,P1 Pl,Neg,nħasilhilniex
+Imp,P2 Sg,P3 Sg Fem,P2 Sg,Pos,-
+Imp,P2 Sg,P3 Sg Fem,P2 Sg,Neg,-
+Imp,P2 Sg,P3 Sg Fem,P2 Pl,Pos,-
+Imp,P2 Sg,P3 Sg Fem,P2 Pl,Neg,-
+Imp,P2 Sg,P3 Sg Fem,P3 Sg Masc,Pos,nħasilhielu
+Imp,P2 Sg,P3 Sg Fem,P3 Sg Masc,Neg,nħasilhilux
+Imp,P2 Sg,P3 Sg Fem,P3 Sg Fem,Pos,nħasilhielha
+Imp,P2 Sg,P3 Sg Fem,P3 Sg Fem,Neg,nħasilhilhiex
+Imp,P2 Sg,P3 Sg Fem,P3 Pl,Pos,nħasilhielhom
+Imp,P2 Sg,P3 Sg Fem,P3 Pl,Neg,nħasilhilhomx
+Imp,P2 Sg,P3 Pl,P1 Sg,Pos,nħasilhomli
+Imp,P2 Sg,P3 Pl,P1 Sg,Neg,nħasilhomlix
+Imp,P2 Sg,P3 Pl,P1 Pl,Pos,nħasilhomlna
+Imp,P2 Sg,P3 Pl,P1 Pl,Neg,nħasilhomlniex
+Imp,P2 Sg,P3 Pl,P2 Sg,Pos,-
+Imp,P2 Sg,P3 Pl,P2 Sg,Neg,-
+Imp,P2 Sg,P3 Pl,P2 Pl,Pos,-
+Imp,P2 Sg,P3 Pl,P2 Pl,Neg,-
+Imp,P2 Sg,P3 Pl,P3 Sg Masc,Pos,nħasilhomlu
+Imp,P2 Sg,P3 Pl,P3 Sg Masc,Neg,nħasilhomlux
+Imp,P2 Sg,P3 Pl,P3 Sg Fem,Pos,nħasilhomlha
+Imp,P2 Sg,P3 Pl,P3 Sg Fem,Neg,nħasilhomlhiex
+Imp,P2 Sg,P3 Pl,P3 Pl,Pos,nħasilhomlhom
+Imp,P2 Sg,P3 Pl,P3 Pl,Neg,nħasilhomlhomx
+Imp,P2 Pl,-,-,Pos,nħaslu
+Imp,P2 Pl,-,-,Neg,nħaslux
+Imp,P2 Pl,P1 Sg,-,Pos,nħasluni
+Imp,P2 Pl,P1 Sg,-,Neg,nħaslunix
+Imp,P2 Pl,P1 Pl,-,Pos,nħasluna
+Imp,P2 Pl,P1 Pl,-,Neg,nħasluniex
+Imp,P2 Pl,P2 Sg,-,Pos,-
+Imp,P2 Pl,P2 Sg,-,Neg,-
+Imp,P2 Pl,P2 Pl,-,Pos,-
+Imp,P2 Pl,P2 Pl,-,Neg,-
+Imp,P2 Pl,P3 Sg Masc,-,Pos,nħasluh
+Imp,P2 Pl,P3 Sg Masc,-,Neg,nħasluhx
+Imp,P2 Pl,P3 Sg Fem,-,Pos,nħasluha
+Imp,P2 Pl,P3 Sg Fem,-,Neg,nħasluhiex
+Imp,P2 Pl,P3 Pl,-,Pos,nħasluhom
+Imp,P2 Pl,P3 Pl,-,Neg,nħasluhomx
+Imp,P2 Pl,-,P1 Sg,Pos,nħasluli
+Imp,P2 Pl,-,P1 Sg,Neg,nħaslulix
+Imp,P2 Pl,-,P1 Pl,Pos,nħaslulna
+Imp,P2 Pl,-,P1 Pl,Neg,nħaslulniex
+Imp,P2 Pl,-,P2 Sg,Pos,-
+Imp,P2 Pl,-,P2 Sg,Neg,-
+Imp,P2 Pl,-,P2 Pl,Pos,-
+Imp,P2 Pl,-,P2 Pl,Neg,-
+Imp,P2 Pl,-,P3 Sg Masc,Pos,nħaslulu
+Imp,P2 Pl,-,P3 Sg Masc,Neg,nħaslulux
+Imp,P2 Pl,-,P3 Sg Fem,Pos,nħaslulha
+Imp,P2 Pl,-,P3 Sg Fem,Neg,nħaslulhiex
+Imp,P2 Pl,-,P3 Pl,Pos,nħaslulhom
+Imp,P2 Pl,-,P3 Pl,Neg,nħaslulhomx
+Imp,P2 Pl,P3 Sg Masc,P1 Sg,Pos,nħasluhuli
+Imp,P2 Pl,P3 Sg Masc,P1 Sg,Neg,nħasluhulix
+Imp,P2 Pl,P3 Sg Masc,P1 Pl,Pos,nħasluhulna
+Imp,P2 Pl,P3 Sg Masc,P1 Pl,Neg,nħasluhulniex
+Imp,P2 Pl,P3 Sg Masc,P2 Sg,Pos,-
+Imp,P2 Pl,P3 Sg Masc,P2 Sg,Neg,-
+Imp,P2 Pl,P3 Sg Masc,P2 Pl,Pos,-
+Imp,P2 Pl,P3 Sg Masc,P2 Pl,Neg,-
+Imp,P2 Pl,P3 Sg Masc,P3 Sg Masc,Pos,nħasluhulu
+Imp,P2 Pl,P3 Sg Masc,P3 Sg Masc,Neg,nħasluhulux
+Imp,P2 Pl,P3 Sg Masc,P3 Sg Fem,Pos,nħasluhulha
+Imp,P2 Pl,P3 Sg Masc,P3 Sg Fem,Neg,nħasluhulhiex
+Imp,P2 Pl,P3 Sg Masc,P3 Pl,Pos,nħasluhulhom
+Imp,P2 Pl,P3 Sg Masc,P3 Pl,Neg,nħasluhulhomx
+Imp,P2 Pl,P3 Sg Fem,P1 Sg,Pos,nħasluhieli
+Imp,P2 Pl,P3 Sg Fem,P1 Sg,Neg,nħasluhilix
+Imp,P2 Pl,P3 Sg Fem,P1 Pl,Pos,nħasluhielna
+Imp,P2 Pl,P3 Sg Fem,P1 Pl,Neg,nħasluhilniex
+Imp,P2 Pl,P3 Sg Fem,P2 Sg,Pos,-
+Imp,P2 Pl,P3 Sg Fem,P2 Sg,Neg,-
+Imp,P2 Pl,P3 Sg Fem,P2 Pl,Pos,-
+Imp,P2 Pl,P3 Sg Fem,P2 Pl,Neg,-
+Imp,P2 Pl,P3 Sg Fem,P3 Sg Masc,Pos,nħasluhielu
+Imp,P2 Pl,P3 Sg Fem,P3 Sg Masc,Neg,nħasluhilux
+Imp,P2 Pl,P3 Sg Fem,P3 Sg Fem,Pos,nħasluhielha
+Imp,P2 Pl,P3 Sg Fem,P3 Sg Fem,Neg,nħasluhilhiex
+Imp,P2 Pl,P3 Sg Fem,P3 Pl,Pos,nħasluhielhom
+Imp,P2 Pl,P3 Sg Fem,P3 Pl,Neg,nħasluhilhomx
+Imp,P2 Pl,P3 Pl,P1 Sg,Pos,nħasluhomli
+Imp,P2 Pl,P3 Pl,P1 Sg,Neg,nħasluhomlix
+Imp,P2 Pl,P3 Pl,P1 Pl,Pos,nħasluhomlna
+Imp,P2 Pl,P3 Pl,P1 Pl,Neg,nħasluhomlniex
+Imp,P2 Pl,P3 Pl,P2 Sg,Pos,-
+Imp,P2 Pl,P3 Pl,P2 Sg,Neg,-
+Imp,P2 Pl,P3 Pl,P2 Pl,Pos,-
+Imp,P2 Pl,P3 Pl,P2 Pl,Neg,-
+Imp,P2 Pl,P3 Pl,P3 Sg Masc,Pos,nħasluhomlu
+Imp,P2 Pl,P3 Pl,P3 Sg Masc,Neg,nħasluhomlux
+Imp,P2 Pl,P3 Pl,P3 Sg Fem,Pos,nħasluhomlha
+Imp,P2 Pl,P3 Pl,P3 Sg Fem,Neg,nħasluhomlhiex
+Imp,P2 Pl,P3 Pl,P3 Pl,Pos,nħasluhomlhom
+Imp,P2 Pl,P3 Pl,P3 Pl,Neg,nħasluhomlhomx
