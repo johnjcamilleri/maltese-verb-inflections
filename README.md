@@ -1,7 +1,7 @@
 Maltese verb inflections
 ========================
 
-Manually checked inflection tables for a few Maltese verbs, for testing automatically generated inflection tables.
+Manually checked inflection tables for a few Maltese verbs, for testing morphological generators (or anything else you can think of).
 
 
 ## The VerbCSV format
@@ -35,3 +35,11 @@ Imp,    P2 Sg,   P3 Sg Masc, P1 Sg,     Neg,      iktibhulix
 
 Note that this is intended as an intermediary format for easy processing.
 Also note that we have one file per verb.
+
+## Empty files
+
+Some files are empty, such as `mtela.csv`. I basically have not had time to do them yet. Pull requests are welcome!
+
+## Null entries
+
+Some inflection combinations simply do not make sense, and in these cases a null entry will appear. That is to say that all files have the same number of rows, but not necessarily the same numbers of non-null entries.
