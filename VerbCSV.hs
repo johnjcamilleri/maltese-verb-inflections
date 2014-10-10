@@ -1,4 +1,10 @@
-module VerbCSV where
+module VerbCSV (
+    Inflection (Inflection, aspect, subject, dir, ind, pol, tree)
+  , Agr
+  , showInflectionCSV
+  , readInflectionCSV
+  , sortInflections
+  ) where
 
 import Text.Printf
 import Data.String.Utils (split)
@@ -10,6 +16,24 @@ import qualified System.IO.Strict as StrictIO
 -- Type and basic functions
 
 type Agr = String
+-- data Agr =
+--     P1Sg
+--   | P2Sg
+--   | P3SgMasc
+--   | P3SgFem
+--   | P1Pl
+--   | P2Pl
+--   | P3Pl
+--   deriving (Eq)
+-- instance Show Agr where
+--   show P1Sg     = "P1 Sg"
+--   show P2Sg     = "P2 Sg"
+--   show P3SgMasc = "P3 Sg Masc"
+--   show P3SgFem  = "P3 Sg Fem"
+--   show P1Pl     = "P1 Pl"
+--   show P2Pl     = "P2 Pl"
+--   show P3Pl     = "P3 Pl"
+
 data Inflection = Inflection {
   aspect :: String,
   subject, dir, ind :: Agr,
@@ -39,7 +63,7 @@ importFile f = do
   s <- StrictIO.readFile f
   let (_:ls) = lines s
   return $ map readInflectionCSV ls
-  
+
 -- | While list of inflections to file
 exportFile :: FilePath -> [Inflection] -> IO ()
 exportFile f is = writeFile f $ unlines (header : map showInflectionCSV is)
@@ -81,7 +105,7 @@ cmpObjects x y = compare (indexOf x' objPronouns) (indexOf y' objPronouns)
       zip pronouns dashes ++
       zip dashes pronouns ++
       [(x,y) | x <- pronouns, y <- pronouns ]
-    
+
 -- This is the order in which GF produces them
 -- pronouns = [ "P1 Sg","P1 Pl","P2 Sg","P2 Pl","P3 Sg Masc","P3 Sg Fem","P3 Pl" ]
 
